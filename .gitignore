@@ -1,8 +1,7 @@
 *(Conflicted)*
-
+	
+.vault-stats
 .obsidian/
 .trash/
-
-.vault-stats
-
-README.md
+*.DS_Store
+.DS_Store

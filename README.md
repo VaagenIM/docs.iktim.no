@@ -2,7 +2,7 @@
 Kilde for innholdet til https://docs.iktim.no - oppdateres hvert 60 minutt utifra innholdet her.
 
 ## Lyst å bidra?
-Bruk en markdown editor, prosjektet er satt opp til direkte bruk i https://obsidian.md/<br>
+Bruk en markdown editor, prosjektet er satt opp til direkte bruk i https://obsidian.md/, pakk ut `obsidian.rar` i samme mappe.<br>
 Last ned GitHub repo'et via https://desktop.github.com/ (Via programmet, ikke nettsiden)<br>
 Alternativt kan du sette opp Obsidian til å bruke Git ved å følge denne oppskriften: https://github.com/denolehov/obsidian-git<br>
 <br>
@@ -10,7 +10,7 @@ Alternativt kan du sette opp Obsidian til å bruke Git ved å følge denne oppsk
 For å sende inn dine forslag, trykker du "Commit" i GitHub Desktop.
 
 ## Lenker / Bilder / Video
-For å opprette lenker mellom dokumenter, brukes `[[Wikilinks]]` funksjonen Skriv navnet på filen du skal linke til, så gjør Obsidian resten.<br>
+For å opprette lenker mellom dokumenter, brukes `[[Wikilinks]]` funksjonen, Skriv navnet på filen du skal linke til (`[[MinFil]]`), så ordner Obsidian resten. (Zip filen inneholder nødvendige plug-ins som konverterer noen syntakser)<br>
 Obsidian vil automatisk konvertere til gyldig MarkDown format, `[Link](../Mappe/fil.md)`. Her kan man endre linktekst i etterkant.<br>
 Eksterne lenker oppretter automatisk en MD link, her kan det være lurt å sjekke linktteksten. (`[NRK.no - nyheter, tv og radio fra ...](https://nrk.no)`)<br>
 <br>
