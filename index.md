@@ -1,4 +1,4 @@
-# docs.iktim.no
+# Fagboka til vågenelevene i 1IM
 Her jobbes det med å skape noe oversikt!
 
 ## Fagbok
