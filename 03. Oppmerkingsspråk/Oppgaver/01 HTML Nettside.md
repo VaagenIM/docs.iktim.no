@@ -1,9 +1,3 @@
-tags: #html #css
-source: [Fagterminologi](../00.%20Annet/Fagterminologi.md)
-author: [Sondre Grønås](../00.%20Annet/Sondre%20Grønås.md)
-date: 16 November 2021
-
----
 # Ditt eget nettsted!
 Din oppgave er å lage ditt eget personlige nettsted ved bruk av [oppmerkingsspråkene](../index.md) [HTML](../../Ordliste/HTML.md) og [CSS](../../Ordliste/CSS.md).
 Selv om HTML og CSS anses som "[IKT](../../Ordliste/IKT.md)" fag, gjelder fremdeles  [komposisjonsprinsippene](../../Ordliste/Komposisjonsprinsipp.md) når det kommer til å få en fin nettside en kan være fornøyd med.
