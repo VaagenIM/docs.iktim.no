@@ -19,8 +19,6 @@ Tall2 = 2
 console.log(Tall) // 1
 console.log(Tall2) // 2
 ```
-<br>
-
 
 ## let
 `let` er nesten helt lik `var`, men fungerer bare i samme "blokk".
@@ -34,7 +32,6 @@ if (Tall) { // Hvis tall eksisterer, som det gjør.
 
 console.log(Tall) // 1
 ```
-<br>
 
 ## const
 `const` er en konstant variabel, som betyr at den kan ikke endre seg etter den først er erklært.
@@ -50,7 +47,6 @@ try { // Prøv å endre tall
 
 console.log(Tall) // 1
 ```
-<br>
 
 ## Les mer:
 [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)

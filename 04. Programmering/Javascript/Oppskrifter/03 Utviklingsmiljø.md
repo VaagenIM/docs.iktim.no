@@ -5,12 +5,11 @@ created: 26 March 2022
 tags: 
 ---
 # Utviklingsmiljø i Javascript
-Her er en oppskrift på hvordan du kan sette opp et enkelt utviklingsmiljø i [Javascript](../index.md). Oppsettet setter opp et prosjekt i en mappe via [NPM](../../../Ordliste/NPM.md) (Node Package Manager) og tar i bruk en modul som heter [npm-watch](https://www.npmjs.com/package/npm-watch). 
+Her er en oppskrift på hvordan du kan sette opp et enkelt utviklingsmiljø i [[- Om Javascript]]. Oppsettet setter opp et prosjekt i en mappe via [[NPM]] (Node Package Manager) og tar i bruk en modul som heter [npm-watch](https://www.npmjs.com/package/npm-watch). 
 
 npm-watch sin oppgave er å restarte ditt prosjekt hver gang den merker endringer, slik at alt du trenger å gjøre er å refreshe nettsiden.
 
 Når du er ferdig, vil du kunne bruke `npm run watch` til å kjøre koden din, istedetfor å bruke `node app.js`. Fordelen med å bruke `npm run watch` er at `npm-watch` oppdaterer og kjører koden din automagisk hver gang etter du har gjort endringer, slik at du sparer mye tid.
-<br>
 
 # Oppsett av `npm-watch`:
 For å installere npm-watch kjører vi følgende kommando i prosjektet vårt sin terminal: `npm install npm-watch`
@@ -76,6 +75,6 @@ Hele `package.json` vil da se slik ut:
 Ved å nå kjøre `npm run watch` i terminalen, vil en tjeneste, [nodemon](https://www.npmjs.com/package/nodemon) åpne nettleseren din, starte `app.js` og overvåke endringer i alle `.js` filer.
 
 Dersom du har et express dokument aktivt, vil du nå kunne endre på funksjonene uten å måtte kjøre koden manuelt ved å bruke `node app.js`, istedet er det kun nødvendig å refreshe nettleseren din.
-<br>
+
 ## Les mer:
 [npm-watch - npm](https://www.npmjs.com/package/npm-watch)

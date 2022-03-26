@@ -1,5 +1,5 @@
 # Dictionaries
-Kommer fra det flotte engelske ordet for ordbok. Det er på mange måter likt som [tuples og lister](03%20Tuples%20og%20lister.md) - men det skiller seg ut ved at det bruker nøkler. Det er et veldig universelt format på lik linje som [JSON](../../../Ordliste/JSON.md) - et skriftlig dataformat typ-excel fil, men for datamaskiner.
+Kommer fra det flotte engelske ordet for ordbok. Det er på mange måter likt som [[03 Tuples og lister]] - men det skiller seg ut ved at det bruker nøkler. Det er et veldig universelt format på lik linje som [[JSON]] - et skriftlig dataformat typ-excel fil, men for datamaskiner.
 
 For å lage en dictionary så bruker man ikke `[]` men `{}`, der vi definerer alt med en nøkkel. Merk at man kan likevel bruke tuples eller flere dictionaries inne i en dictionary dersom man ønsker mange lag.
 

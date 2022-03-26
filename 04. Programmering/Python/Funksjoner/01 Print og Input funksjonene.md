@@ -1,9 +1,8 @@
 # Print og Input funksjonene
-`print()` og `input()` er to [basisfunksjoner](../../../Ordliste/Funksjon.md) som brukes mye i konsollen til å behandle tekst. Den ene, `print()` bruker tekst som [utdata](../../../Ordliste/Utdata.md), mens `input()` bruker tekst som [inndata](../../../Ordliste/Inndata.md).
-<br>
+`print()` og `input()` er to [[Funksjon|basisfunksjoner]] som brukes mye i konsollen til å behandle tekst. Den ene, `print()` bruker tekst som [[Utdata|utdata]], mens `input()` bruker tekst som [[Inndata]].
 
 ## Funksjonen `print(string="")`
-`print(string="")` - når parantesene har innhold i seg (i dette tilfelle en [string](../../../Ordliste/String.md)), så kan man sende argumenter (ofte beskrevet som [args*](../../../Ordliste/Argumenter.md)) til funksjonen som skal kjøre. Det finnes ingen begrensninger for hva vi kan sende til en funksjon, eller hva en funksjon kan ta imot, men `print()` tar bare imot en [string](../../../Ordliste/String.md); altså tekst. I de fleste programmeringsspråk krever man en form for hermetegn eller apostrof for å adskille tekst fra kode. Dette er fordi tegnet for mellomrom ( ) brukes av datamaskinen til å adskille [syntakser](../../../Ordliste/Syntaks.md) eller annen kode. Når teksten er omringet av hermetegn/apostrofer, så vet maskinen at mellomrommene og spesialtegnene skal behandles som tekst.
+`print(string="")` - når parantesene har innhold i seg (i dette tilfelle en [[String|string]]), så kan man sende argumenter (ofte beskrevet som [[Argumenter|args*]]) til funksjonen som skal kjøre. Det finnes ingen begrensninger for hva vi kan sende til en funksjon, eller hva en funksjon kan ta imot, men `print()` tar bare imot en [[String|string]]; altså tekst. I de fleste programmeringsspråk krever man en form for hermetegn eller apostrof for å adskille tekst fra kode. Dette er fordi tegnet for mellomrom ( ) brukes av datamaskinen til å adskille [[Syntaks|syntakser]] eller annen kode. Når teksten er omringet av hermetegn/apostrofer, så vet maskinen at mellomrommene og spesialtegnene skal behandles som tekst.
 
 ##### Eksempel
 ```python
@@ -15,10 +14,9 @@ print(Hei Verden) 		# Syntaksfeil, Hei Verden er ikke tekst, og er derfor ikke d
 tekst = "Hei Verden"	# Vi definerer navnet tekst til å inneholde teksten 'Hei Verden' og lagre i RAM.
 print(tekst) 			# Vil sende innholdet til navnet tekst, som er 'Hei Verden', til print.
 ```
-<br>
 
 ## Funksjonen `input(text="")`
-`input(text="")` - argumentene som input funksjonen tar, er tekst som vil vises før inndata tar sted. Teksten er valgfri. Input funksjonen legger ett stopp i kjøringen av koden, helt til brukeren av koden trykker enter. Bruker får også tilgang til å skrive noe i konsollvinduet. Funksjonen returnerer en tekst, som inneholder tekstinformasjon om hva bruker taster inn. Denne informasjonen kan lagres i [variabler](../../../Ordliste/Variabel.md) og brukes i andre funksjoner.
+`input(text="")` - argumentene som input funksjonen tar, er tekst som vil vises før inndata tar sted. Teksten er valgfri. Input funksjonen legger ett stopp i kjøringen av koden, helt til brukeren av koden trykker enter. Bruker får også tilgang til å skrive noe i konsollvinduet. Funksjonen returnerer en tekst, som inneholder tekstinformasjon om hva bruker taster inn. Denne informasjonen kan lagres i [[Variabel|variabler]] og brukes i andre funksjoner.
 
 ##### Eksempel
 ```python
@@ -43,7 +41,6 @@ while True:								# Denne koden kjører uendelig til man trykker X
 	if tekst == "hade":
 		print("Hade!")					# Hvis bruker sier hade, si Hade! tilbake.
 ```
-<br>
 
 ## Legge sammen tekst
 Python har en matematisk tilnærming når det kommer til tekst, og vi kan derfor anvende basis matteformler til tekst, som betyr at dersom man vil legge noe ekstra til teksten, så kan vi plusse. Hvis vi ønsker å gjenta tekst et gitt antall ganger, så kan vi gange. 
@@ -73,7 +70,6 @@ etternavn = "Stoltenberg"
 print("Hei " + fornavn + " " + etternavn + ".")	# Lite oversikt, men printer Hei Jens Stoltenberg.
 print(f"Hei {fornavn} {etternavn}.")			# Legg merke til 'f' før teksten starter.
 ```
-<br>
 
 ## Når man vil printe apostrof, hermetegn eller andre spesialtegn
 Fordi noen tegn blir reservert av maskinen til å angi om et tegn er tekst eller tall, hex som alltid begynner med 0x00, eller om man rett og slett vil bruke " eller ' i en tekst, så må vi bruke et spesialtegn for å fortelle maskinen at vi vil sette inn et spesialtegn. Man kan også bruke apostrofer eller hermetegn om en annen.

@@ -1,10 +1,9 @@
 # Python Chatrobot
-Ved hjelp av noen få enkle [funksjoner](../../../Ordliste/Funksjon.md), så skal du lage din egen chatrobot. Omfanget velger du selv, men det er en del minimumskrav du må følge. Programmering er et språk man lærer av å utforske ting i, for å få høy måloppnåelse i denne oppgaven, må du derfor eksperimentere med funksjonene du velger å gi din chatrobot.
-<br>
+Ved hjelp av noen få enkle [[Funksjon|funksjoner]], så skal du lage din egen chatrobot. Omfanget velger du selv, men det er en del minimumskrav du må følge. Programmering er et språk man lærer av å utforske ting i, for å få høy måloppnåelse i denne oppgaven, må du derfor eksperimentere med funksjonene du velger å gi din chatrobot.
 
 ## Syntaxer og funksjoner
 Her er en oversikt over de ulike funksjonene du trenger for å løse oppgaven:
-- `print(string)` - printer ut tekst, se eget skriv på [Print og Input funksjonene](../Funksjoner/01%20Print%20og%20Input%20funksjonene.md)
+- `print(string)` - printer ut tekst, se eget skriv på [[01 Print og Input funksjonene]]
 - `input(valgfri string)` - lar bruker skrive inn tekst, se eget skriv.
 - `while True:` - kjører koden uendelig mange ganger, gitt at det står på et innrykk etter funksjonen.
 - `if x == y:` - tester om x er helt lik y, Eksempel: `if input() == "test":` - dersom bruker skriver "test" så vil koden kjøre videre (gitt at det står på et innrykk etter funksjonen)
@@ -12,7 +11,6 @@ Her er en oversikt over de ulike funksjonene du trenger for å løse oppgaven:
 - `def Funksjon(valgfri argumenter):` - Lager en funksjon (Funksjon()) som lar deg skrive navnet på funksjonen, istedenfor å skrive koden funksjonen inneholder. Se eksempel for bedre forklaring.
 - `# Kommentar` - Kode som ikke kjører, kun som en kommentar til den som koder for å lettere huske hva koden gjør, eller tankene bak.
 - `continue` - Brukes i en `while True:` loop til å hoppe tilbake til start, for å effektivisere koden sin ytelse på maskinen.
-<br>
 
 ## Minimumskrav
 Kravene er veiledende, dersom du føler du har en løsning som er bedre enn hva som er nevnt, så kjører du heller på med det. Eksempel kan være å ikke bruke konsollvindu, men heller et grafisk grensesnitt.
@@ -21,7 +19,6 @@ Kravene er veiledende, dersom du føler du har en løsning som er bedre enn hva 
 - Minst en av kommandoene skal kjøre en egenlagt funksjon
 - Du skal bruke variabler i minst en av funksjonene
 - Bruk kommentar funksjonen til å forklare hva koden gjør, i Python er kommentarer gitt etter et # symbol.
-<br>
 
 ## Eksempel chatrobot
 Husk at Python kode kjøres fra linje 1 og nedover, men dersom kode er i innrykk, så vil det bare kjøre under gitte omstendigheter. `def` funksjoner vil kun kjøre når de blir referert til senere (funksjoner), `while STATEMENT:` vil bare kjøre dersom "STATEMENT" returnerer sant (kan være `while True:`).
@@ -57,10 +54,9 @@ while True:
 		print("Mine funksjoner er ?navn, ?hjelp")
 		continue
 ```
-<br>
 
 ## Eksempel, med funksjon
-For mer info om hvordan funksjoner virker, se [Funksjon](../../../Ordliste/Funksjon.md)
+For mer info om hvordan funksjoner virker, se [[Funksjon]]
 ```python
 def matte_pluss():
 	# Be bruker skrive inn to tall som skal plusses
@@ -86,7 +82,6 @@ while True:
 	if x == "?pluss":
 		print(matte_pluss())
 ```
-<br>
 
 ## Return funksjonen
 `return` er et veldig kraftig verktøy, og det er det som gjør funksjoner nyttige. Det er ikke noe dere trenger å fokusere på i oppgaven, men det er uansett greit å vite hva den gjør. Den tar egentlig å avslutter funksjonen, og sender tilbake informasjon, hva den sender tilbake er helt valgfritt, men som regel er det noe du ønsker å få utav funksjonen. I eksempelet over, så er det summen av 2 tall vi er interessert i.

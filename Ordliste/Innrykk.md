@@ -11,7 +11,7 @@ if x == 1:
 print("Jeg printer uansett")
 ```
 
-Du kombinere innrykk med [continue](continue.md), [break](break.md) eller [return](return.md) funksjonene til feilhåndtering, lettest å forstå i et eksempel:
+Du kombinere innrykk med [[continue]], [[break]] eller [[return]] funksjonene til feilhåndtering, lettest å forstå i et eksempel:
 
 ```python
 def Valg():
@@ -33,7 +33,7 @@ def Valg():
 print(Valg)
 ```
 
-Bruk av [break](break.md) eller [continue](continue.md) er mest nyttig når vi jobber med store [JSON](JSON.md) datasett:
+Bruk av [[break]] eller [[continue]] er mest nyttig når vi jobber med store [[JSON]] datasett:
 ```python
 struktur = {
 	'salg':[{

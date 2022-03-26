@@ -3,4 +3,4 @@ Her er en katalog av forklaringer som du forhåpentligvis kan bruke i din reise 
 
 Dersom Python for deg er pyton, og du foretrekker andre språk, går likevel mye av fagspråket igjen - så selv for deg så kan det hende du finner noe nyttig :)
 
-Dersom du har forslag til endringer, eller ønske om artikler, send dem via [https://kontakt.iktim.no](https://kontakt.iktim.no/)
+Dersom du har forslag til endringer, eller ønske om artikler, send dem via https://kontakt.iktim.no/

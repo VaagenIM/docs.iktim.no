@@ -1,8 +1,8 @@
 # Oppsett av filserver (SAMBA CIFS)
-Her er en steg for steg oppskrift på hvordan man setter opp en delt mappe over nettverk på en Linux maskin. Mappen lar deg overføre filer til og fra din maskin, og fungerer i prinsipp på samme måte med delte mapper i en [NAS](../../Ordliste/NAS.md). Videre kan du koble opp [samba](../../Ordliste/samba.md) med [apache2](../../Ordliste/apache2.md) og hoste en mappe (med f.eks. HTML) på nettet. For å konfigurere med apache2 se [Oppsett av Apache2 i delt mappe](02%20Oppsett%20av%20Apache2%20i%20delt%20mappe.md).
+Her er en steg for steg oppskrift på hvordan man setter opp en delt mappe over nettverk på en Linux maskin. Mappen lar deg overføre filer til og fra din maskin, og fungerer i prinsipp på samme måte med delte mapper i en [[NAS]]. Videre kan du koble opp [[samba]] med [[apache2]] og hoste en mappe (med f.eks. HTML) på nettet. For å konfigurere med apache2 se [[02 Oppsett av Apache2 i delt mappe]]
 
 Funksjoner vi trenger: `apt-get`, `mkdir`, `nano`, `smbpasswd`, `systemctl`. Vi skal også leke litt i mappen `/etc/` der vi endrer de fleste instillinger.
-<br>
+
 ## Steg 1: Installasjon
 Veldig enkelt i Linux, man installerer programvare ved å bruke `apt-get` funksjonen. Last ned samba med følgende instrukser:
 ```shell
@@ -16,7 +16,6 @@ Vi setter opp en delt mappe i vår brukers hjemmemappe (samme som skrivebord). F
 mkdir smb
 # Eller: mkdir /home/NAVNETDITT/smb
 ```
-<br>
 
 ## Steg 2: Sette opp Samba.conf
 For å kunne koble opp vår mappe `smb` til Samba/CIFS, må vi bygge en bro mellom dem. I Samba må vi legge til en formel av tekst i bunnen av et konfigurasjonsdokument; `smb.conf`. Denne finner vi i filbanen `/etc/samba/smb.conf`.
@@ -39,14 +38,14 @@ Kopier teksten og rediger navnet til ditt eget, og lim det til slutt inn i .conf
 sudo nano /etc/samba/smb.conf
 ```
 Naviger deg til nederst i dokumentet (CTRL+V hopper nedover raskere) og lim inn tekstbolken. Lagre med `CTRL+S` og avslutt med `CTRL+X`.
-<br>
+
 ## Steg 3: Sette opp Samba bruker
 For å kunne koble seg til mappen, må man benytte oss av en bruker som har tilgang. Som standard er det ingen brukere som har tilgang. Den enkleste (men minst sikre måten, ikke så farlig her) er å gi brukeren `root` tilgang, som er adminstratorbrukeren i Linux. For å gi brukeren tilgang brukes kommando:
 ```shell
 sudo smbpasswd -a root
 ```
 Gi brukeren `root` passordet `root` for simpelhetens skyld.
-<br>
+
 ## Steg 4: Restart Samba, og koble til
 Nå er du i teorien ferdig! Alt som gjenstår er å bruke endringene. Dette gjør du ved å restarte samba daemonen, som er en tjeneste som kjører i bakgrunnen:
 ```shell

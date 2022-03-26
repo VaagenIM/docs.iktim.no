@@ -8,9 +8,8 @@ tags:
 Protokoller for å kommunisere mellom enheter.
 
 De vanligste HTTP metodene er:
-- [GET](GET.md)
-- [POST](POST.md)
-<br>
+- [[GET]]
+- [[POST]]
 
 ## Les mer:
 - [HTTP Methods GET vs POST](https://www.w3schools.com/tags/ref_httpmethods.asp)

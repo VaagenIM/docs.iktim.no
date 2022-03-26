@@ -15,7 +15,7 @@ print(MinForsteTuple[1]) # Printer Ole
 print(MinForsteTuple[2]) # Printer 25
 ```
 
-Man kan også behandle ALL dataen som om det var samme kategori, for eksempel en liste med navn. Dette kalles på fagspråk å [[../../../Ordliste/Enumerate|Enumerere]] data til en stor liste, for å så [[../../../Ordliste/Iterate|Iterere]] seg gjennom den. I Python så har vi iterereingsfunksjonen `in` som kan brukes på flere måter, det vil bety at den sjekker alle enumererte data (Dvs. den går gjennom listen):
+Man kan også behandle ALL dataen som om det var samme kategori, for eksempel en liste med navn. Dette kalles på fagspråk å [[Enumerate|enumerere]] data til en stor liste, for å så [[Iterate|iterere]] seg gjennom den. I Python så har vi iterereingsfunksjonen `in` som kan brukes på flere måter, det vil bety at den sjekker alle enumererte data (Dvs. den går gjennom listen):
 ```python
 NavnBegynnerPaaJ = ["Jens", "Julia", "Jonas", "Jan", "Jason"]
 
@@ -48,7 +48,7 @@ for NAVN in NavnBegynnerPaaJ:
 		print(f"Du har samme navn som {NAVN}!")
 ```
 
-De kan også brukes litt på lik linje som [CSV](../../../Ordliste/CSV.md) - som er et dataspråk som bl.a. Excel bruker til å ha en sekvens av verdier som representerer ulike "nøkler". For eksempel en CSV kan ha format: "Fornavn, Etternavn, Alder" og man plotter inn data i den strukturen; "Jens, Stoltenberg, 45, Jonas, Gahr-Støre, 55".
+De kan også brukes litt på lik linje som [[CSV]] - som er et dataspråk som bl.a. Excel bruker til å ha en sekvens av verdier som representerer ulike "nøkler". For eksempel en CSV kan ha format: "Fornavn, Etternavn, Alder" og man plotter inn data i den strukturen; "Jens, Stoltenberg, 45, Jonas, Gahr-Støre, 55".
 
 ```python
 CPU_options = [["Billigste", 	 2000, "prisjakt.no/billigste"], 		# Verdi 0
@@ -76,4 +76,4 @@ print(f"Du bør gå for {CPU_Navn} - den koster bare {CPU_pris}kr, du finner den
 # Du bør gå for Nest billigst - den koster bare 4000kr, du finner den på prisjakt.no/nestbilligste
 ```
 
-Dersom du ønsker bedre kontroll, så må man se på alterntivet som i Python heter [Dictionaries](02%20Dictionaries.md)! Her er det samme prinsipp, men med ulike nøkler for data; altså navn. Se eget skriv.
+Dersom du ønsker bedre kontroll, så må man se på alterntivet som i Python heter [[02 Dictionaries|Dictionaries]]! Her er det samme prinsipp, men med ulike nøkler for data; altså navn. Se eget skriv.

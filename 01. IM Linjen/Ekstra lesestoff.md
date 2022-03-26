@@ -5,21 +5,21 @@ Her er en liste av nettsider og blogger som er verdt å holde et øye med, kateg
 ## Dagsaktuelle tema / Blogger 
 - [https://nrkbeta.no/](https://nrkbeta.no/) 
 - [https://www.jeffgeerling.com/blog](https://www.jeffgeerling.com/blog) 
-<br>
+
 ## Nettverk 
 - [https://www.crosstalksolutions.com/blog/](https://www.crosstalksolutions.com/blog/) 
-<br>
+
 ## Programmering 
 - [https://refactoring.guru/](https://refactoring.guru/) - Teknikker, design og strukturer (Refactoring) av programmering 
 - **Clean Code** - A Handbook of Agile Software Craftsmanship (2008), Robert C. Martin
-<br>
+
 ## Apputvikling:  
 - [https://www.electronjs.org/docs/latest](https://www.electronjs.org/) - Win/Mac/Linux 
 - [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html) - Android/iOS 
-<br>
+
 ## Webdesign 
 - [https://www.awwwards.com/](https://www.awwwards.com/) - Inspirasjonsside for webdesign 
-<br>
+
 ## Ting som er KULT, men som ikke er vanlig å sette opp for “vanlige” folk: 
 
 - [https://www.crosstalksolutions.com/definitive-guide-to-hosted-unifi-2021/](https://www.crosstalksolutions.com/definitive-guide-to-hosted-unifi-2021/) - Administrer flere (ulike) nettverk fra en maskin i skyen. (Hytte-nett, hjemme-nett, venne-nett, familie-nett)

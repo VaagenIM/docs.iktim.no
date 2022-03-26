@@ -3,7 +3,6 @@
 Her har du en lang liste over aktiviteter du kan gjøre, eller prøve ut. Det er fritt frem om du vil gjøre det på egen maskin, men noen av aktivitetene kan det være gøy å gjøre på Raspberry Pi’en. Husk å ta bilder og dokumenter underveis! Du kan bruke det i Mappevurdering, så lenge du leverer dokumentasjon. Hva gjorde du? Hvordan fungerer det? Var noe vanskelig?
 
 Du kan selvfølgelig se om du finner egne prosjekter å holde på med.
-<br>
 
 # Prosjekter
 **Medium/Vanskelig:** Ta Chatbottendin videre til det neste nivå! [https://www.freecodecamp.org/news/create-a-discord-bot-with-python/](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) Dette kan du enten gjøre på din egen maskin, eller på Rasbperry Pi’endin.
@@ -38,19 +37,11 @@ Finner du noe andre, kjekke ting? Si fra! Jo mer du kan sette opp, som kanskje a
 # YouTube Kanaler
 
 [TwoMinutePapers (A.I.)](https://www.youtube.com/c/JeffGeerling)
-
 [Jeff Geerling (ItSys)](https://www.youtube.com/c/JeffGeerling)
-
 [Craft Computing (Server)](https://www.youtube.com/c/CraftComputing)
-
 [John Hammond (Hacking)](https://www.youtube.com/c/JohnHammond010)
-
 [Network Chuck (Hacking / Nettverk)](https://www.youtube.com/c/NetworkChuck)
-
 [Crosstalk Solutions (Nettverk)](https://www.youtube.com/c/CrosstalkSolutions)
-
 [LinusTechTips (Alt mulig rart)](https://www.youtube.com/c/LinusTechTips)
-
 [Andreas Spiess (Mikrokontrollere/Radio)](https://www.youtube.com/c/AndreasSpiess)
-
 [ETA PRIME (SBC - SingleBoardComputers / Pi)](https://www.youtube.com/c/ETAPRIME)

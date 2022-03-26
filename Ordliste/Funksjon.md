@@ -1,13 +1,13 @@
 # Funksjon
 En funksjon er i sin enkleste forklaring det samme som en tradisjonell kokebok oppskrift, som i seg selv ikke er så komplisert - men dersom en funksjon kombineres med andre funksjoner blir det fort komplekst. 
-Til forskjell fra en kokebok for mennesker, utføres oppskriften av [datamaskinen](Datamaskinen.md) da den blir bedt om å 'følge oppskriften'.
+Til forskjell fra en kokebok for mennesker, utføres oppskriften av [[Datamaskinen]] da den blir bedt om å 'følge oppskriften'.
 
 I Python defineres en funksjon via `def` syntaksen, etterfulgt av `navn`, avsluttet av en parameter-parantes`():`.
 Eksempel: `def MinFunksjon():`, `def JegErEnFunksjon():`
 Alternativt kan funksjonen inneholde argumenter `(navn1, navn2):`: `def SummereTall(tall1, tall2):`
-Eller hvis du vil gjøre det avansert: (`(*args, **kwargs):`) - Dette kan du lese om i [funksjoner med argumenter](Funksjoner%20med%20argumenter.md).
+Eller hvis du vil gjøre det avansert: (`(*args, **kwargs):`) - Dette kan du lese om i [[Funksjoner med argumenter]].
 
-Funksjonen i seg selv er innholdet som kommer etterpå - helt til man stopper med å ha [innrykk](Innrykk.md).
+Funksjonen i seg selv er innholdet som kommer etterpå - helt til man stopper med å ha [[Innrykk]].
 
 Eksempel:
 ```python
@@ -36,7 +36,6 @@ print("Her er oppskrift på kake heller, men jeg skriver den TO ganger!!")
 Oppskrift_Kake()
 Oppskrift_Kake()
 ```
-<br>
 
 ## Funksjoner med verdier
 Dette er en generelt dum funksjon - den tar et sett instrukser og gjennomfører den. Fordelen med programmering, er at vi kan håndtere data i våre funksjoner. Det gjør man ved å gi et parameter i funksjonen, i Python kan vi legge til hva som helst, vi bare gir det et navn! Her har jeg lagt inn navnet "porsjoner", men du kan skrive HVA du vil (så lenge det ikke allerede er definert av noe annet).
@@ -64,7 +63,7 @@ print("Eller bare 0.5 porsjon BRØD")
 Oppskrift_Brod(0.5)
 ```
 
-Slike funksjoner kan også ha standardverdier ved å legge et = etter [parameter](Parameter.md):
+Slike funksjoner kan også ha standardverdier ved å legge et = etter [[Parameter|parameter]]:
 ```python
 def Oppskrift_Brod(porsjoner=1):
 	liter_hvetemel 	= str(porsjoner * 2)
@@ -88,9 +87,8 @@ print("Her er oppskriften for 2")
 # Her overstyrer vi porsjoner til å være 2
 Oppskrift_Brod(porsjoner=2)
 ```
-<br>
 
-## [Return](return.md) funksjonen
+## [[return]] funksjonen
 Det kraftigste verktøyet vi har er return, på godt norsk returnerer det en verdi som maskinen kan ta videre, dersom den vil. Lettest forklart så kan vi forvente å få lagret summen av tall, dersom vi har en funksjon som legger sammen to tall:
 ```python
 def summer(tall1, tall2):
@@ -126,10 +124,9 @@ antall = maaltider_brod + maaltider_kjott
 print(f"Vi kan i verste fall mate {antall} personer!")
 
 ```
-<br>
 
 ## Avansert bruk av return
-Hva en funksjon kan returnere er HELT abstrakt, bare fantasien setter grenser! Det mest nyttige formatet er [JSON](JSON.md). Som i tidligere eksempel, returnerer Oppskrift_Brod et datasett av `ingredienser` med `tekst` til hver ingrediens og en `verdi`. I tillegg er det et sett av `instrukser`:
+Hva en funksjon kan returnere er HELT abstrakt, bare fantasien setter grenser! Det mest nyttige formatet er [[JSON]]. Som i tidligere eksempel, returnerer Oppskrift_Brod et datasett av `ingredienser` med `tekst` til hver ingrediens og en `verdi`. I tillegg er det et sett av `instrukser`:
 ```python
 # Oppskrift_Brod(porsjoner=n):
 # Generer en JSON i vårt Oppskrift format (Oppskrift['ingredienser'] og ['instrukser'])
