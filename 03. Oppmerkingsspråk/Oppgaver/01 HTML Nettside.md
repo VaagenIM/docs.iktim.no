@@ -4,7 +4,7 @@ Selv om HTML og CSS anses som "[IKT](../../Ordliste/IKT.md)" fag, gjelder fremde
 <br>
 
 ## Hva skal nettstedet inneholde?
-Innhold er foreløpig valgfritt, men det skal lages plass til å legge ut innhold på nettsiden, enten i form av en 'blogg', eller sider med bilder / detaljer av prosjekter du har utført tidligere. Du kan også eksperimentere med [Javascript](../../Ordliste/Javascript.md) dersom du ønsker det. Det er likevel noen krav dersom du ønsker høy måloppnåelse i emnet:
+Innhold er foreløpig valgfritt, men det skal lages plass til å legge ut innhold på nettsiden, enten i form av en 'blogg', eller sider med bilder / detaljer av prosjekter du har utført tidligere. Du kan også eksperimentere med [Javascript](../../04.%20Programmering/Javascript/index.md) dersom du ønsker det. Det er likevel noen krav dersom du ønsker høy måloppnåelse i emnet:
 - Minst 3 sider med intuitiv navigeringsmeny (Det skal være lett å forstå at man kan trykke)
 - Bruk av CSS i et eget ekstern dokument, style.css (se [How to add CSS](https://www.w3schools.com/css/css_howto.asp))
 - Linking til ressurser eller sider skal skje ved bruk av relative filstier (`C:/Users/sondre/Desktop/www.sondre.no/bilder/bilde.jpg` (Absolutt) vs `bilder/bilde.jpg` (Relativ))
