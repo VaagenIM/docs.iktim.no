@@ -1,2 +1,0 @@
-# Kompetansemål
-Kommer snart

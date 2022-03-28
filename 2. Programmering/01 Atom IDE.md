@@ -13,7 +13,8 @@ I Atom så er det god fordel å installere noen packages ([[Plug-in|plug-ins]]) 
 
 For å installere packages går man til `File -> Settings -> Install`, eventuelt `CTRL+,` -> `Install`.
 
-Eventuelt kan packages installeres i terminalen, med syntaks `apm install <packages>`
+!!! note "Installer packages via terminalen"
+	Alternativt så kan packages installeres i terminalen. Syntaks `apm install <packages>`
 
 ## Anbefalter packages
 ### `platformio-ide-terminal` (Terminal)

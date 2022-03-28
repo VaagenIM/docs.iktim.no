@@ -1,7 +1,11 @@
-*(Conflicted)*
-	
+# Obsidian
 .vault-stats
 .obsidian/
 .trash/
+
+# Obsidian Templates
+_DATA/
+
+
 *.DS_Store
 .DS_Store
