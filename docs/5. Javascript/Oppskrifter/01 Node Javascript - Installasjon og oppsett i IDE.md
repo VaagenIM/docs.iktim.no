@@ -12,7 +12,7 @@ Installasjon til Javascript utvikling (NodeJS) finner du her: [Node.js](https://
 Anbefalt versjon er LTS, som betyr long-term support.
 
 ## Oppsett i [[01 Atom IDE|Atom]]
-Her er noen anbefalinger til packages som kan installeres i Atom, for en innføring i hvordan man laster ned packages, se [[01 Atom IDE|Atom]]
+Her er noen anbefalinger til packages som kan installeres i Atom, for en innføring i hvordan man laster ned packages, se [[01 Atom IDE#Installer Packages|Atom - Installer Packages]]
 
 ### `atom-ternjs` (Autocomplete)
 `atom-ternjs` er en Atom package som foreslår alternativer og viser våre mulige valg automagisk. Denne er nesten et must når man programmerer Javascript.
@@ -22,3 +22,7 @@ I NodeJS bruker man noe som heter [[NPM]] til å installere pakker og kjøre vå
 
 ### `linter-js-standard` ([[Linter]])
 `linter-js-standard` er en linter som hjelper oss å holde orden på koden og gjøre den ryddig. Denne kan være litt masete, men den er som oftest til god hjelp.
+
+
+!!! info "Installer anbefalte pakker i terminalen"
+	For å installere alle pakkene i terminalen, kan du skrive `apm install atom-ternjs platform-ide-terminal linter-js-standard`

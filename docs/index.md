@@ -1,5 +1,5 @@
 ---
-title: index
+title: Hjem
 author: Sondre Grønås
 created: 28 March 2022
 tags: 
@@ -12,6 +12,7 @@ Dette er en digital fagbok skrevet av Sondre Grønås.
 
 ## Fagbok
 Fagboken er delt inn i kapitler. Foreløpig er det dårlig med innhold :)
+
 - [[Kompetansemål]]
 
 ## Andre ressurser

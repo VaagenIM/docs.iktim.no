@@ -1,5 +1,16 @@
 # Fagbok for IKT IM
-Kilde for innholdet til https://docs.iktim.no - oppdateres hvert 60 minutt utifra innholdet her.
+Kilde for innholdet til https://docs.iktim.no
+<br>
+## Dev
+For å sette opp et dev-miljø gjør du:
+```
+git pull
+pip install -r requirements.txt
+mkdocs serve
+```
+
+Så kan du besøke http://localhost:8000. `mkdocs build` bygger ut statiske sider i en egen `site/` mappe.
+
 
 ## Lyst å bidra?
 Bruk en markdown editor, prosjektet er satt opp til direkte bruk i https://obsidian.md/<br>

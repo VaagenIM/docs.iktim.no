@@ -1,0 +1,57 @@
+site_name: IM Fagboka
+docs_dir: docs  
+repo_url: https://github.com/VaagenIM/docs.iktim.no
+edit_uri: edit/main/docs/
+# repo_name:
+
+theme:
+    name: material
+    features:
+        - content.code.annotate
+        - navigation.indexes
+    palette:
+        scheme: slate
+        primary: light blue
+        accent: cyan
+    logo: https://iktim.no/favicon.png
+    favicon: https://iktim.no/favicon.png
+
+markdown_extensions:
+  - attr_list
+  - nl2br
+  - meta
+  - admonition
+  - pymdownx.details
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tilde
+
+plugins:
+    - search
+    - roamlinks
+    - include_dir_to_nav:
+        flat: true
+        file_name_as_title: true
+    - exclude:
+        glob:
+          - .obsidian/*
+          - _DATA/*
+        regex:
+          - '.*\.(tmp|bin|tar)$'
+
+# Overstyr navigasjonsfane
+#nav:
+#    - Hjem: 'index.md'
+#    - Data: '1. Data'
+#    - Programmering: '2. Programmering'
+#    - HTML og CSS: '3. HTML og CSS'
+#    - Python: '4. Python'
+#    - Javascript: '5. Javascript'
+#    - Database: '6. Database'
+#    - Linux: '7. Linux'
+#    - Ekstra ressurser: 'Ekstra ressurser'
+#    - Fagterminologi: 'Ordliste'
