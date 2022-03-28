@@ -1,8 +1,6 @@
 ---
 title: POST
-author: Sondre Grønås
 created: 26 March 2022
-tags: 
 ---
 # POST
 `POST` er en av de vanligste [[HTTP Metoder|HTTP Metodene]], og brukes til å SENDE (poste) data TIL en server.

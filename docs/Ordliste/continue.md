@@ -1,6 +1,5 @@
 ---
 title: continue
-author: Sondre Grønås
-created: 25 March 2022
+created: 28 March 2022
 ---
 # continue

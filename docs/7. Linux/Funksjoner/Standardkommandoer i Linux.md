@@ -1,3 +1,8 @@
+---
+title: Standardkommandoer i Linux
+created: 28 March 2022
+---
+# Standardkommandoer i Linux
 # Standardkommandoer i Linux
 Kan du disse standardkommandoene i Linux, så kan du få til det meste.
 

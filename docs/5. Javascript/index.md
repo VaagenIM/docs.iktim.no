@@ -1,10 +1,8 @@
 ---
-title: Om Javascript
-author: Sondre Grønås
-created: 26 March 2022
-tags: 
+title: Javascript
+created: 28 March 2022
 ---
-# Om Javascript
+# Javascript
 Javascript er et spennende språk vi skal lære oss litt av. I motsetning til WebJavascript, er Javascript (Node) et programmeringsspråk som brukes i apputvikling til PC, Mac, Linux, Android og iOS. Det er mange plattformer det!
 
 I motsetning til [[Python]] har [[Javascript]] en litt mer strengere syntaks, som kan gjøre det mer krevende å lese koden. Dette er med både fordeler og ulemper, men fortvil ikke - vi lærer sammen.

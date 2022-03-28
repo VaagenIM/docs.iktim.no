@@ -1,8 +1,6 @@
 ---
-title: Express HTML - Pug Templating
-author: Sondre Grønås
-created: 26 March 2022
-tags: 
+title: 04 Express HTML - Pug Templating
+created: 28 March 2022
 ---
 # Express HTML - Pug Templating
 res.render()

@@ -2,10 +2,12 @@ site_name: IM Fagboka
 docs_dir: docs  
 repo_url: https://github.com/VaagenIM/docs.iktim.no
 edit_uri: edit/main/docs/
+copyright: "Copyright &copy; 2021-2022 Sondre Grønås"
 # repo_name:
 
 theme:
     name: material
+    language: "no"
     features:
         - content.code.annotate
         - navigation.indexes
@@ -15,6 +17,15 @@ theme:
         accent: cyan
     logo: https://iktim.no/favicon.png
     favicon: https://iktim.no/favicon.png
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sondregronas
+      name: "@sondregronas"
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:sondre.gronas@skole.rogfk.no
 
 markdown_extensions:
   - attr_list
@@ -33,6 +44,7 @@ markdown_extensions:
 plugins:
     - search
     - roamlinks
+    - git-revision-date-localized
     - include_dir_to_nav:
         flat: true
         file_name_as_title: true

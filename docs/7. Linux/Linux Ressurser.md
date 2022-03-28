@@ -1,3 +1,7 @@
+---
+title: Linux Ressurser
+created: 28 March 2022
+---
 # Linux Ressurser
 
 Her har du en lang liste over aktiviteter du kan gjøre, eller prøve ut. Det er fritt frem om du vil gjøre det på egen maskin, men noen av aktivitetene kan det være gøy å gjøre på Raspberry Pi’en. Husk å ta bilder og dokumenter underveis! Du kan bruke det i Mappevurdering, så lenge du leverer dokumentasjon. Hva gjorde du? Hvordan fungerer det? Var noe vanskelig?

@@ -1,3 +1,7 @@
+---
+title: 02 Python Chatrobot
+created: 28 March 2022
+---
 # Python Chatrobot
 Ved hjelp av noen få enkle [[Funksjon|funksjoner]], så skal du lage din egen chatrobot. Omfanget velger du selv, men det er en del minimumskrav du må følge. Programmering er et språk man lærer av å utforske ting i, for å få høy måloppnåelse i denne oppgaven, må du derfor eksperimentere med funksjonene du velger å gi din chatrobot.
 

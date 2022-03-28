@@ -1,8 +1,6 @@
 ---
-title: Installasjon og oppsett av IDE
-author: Sondre Grønås
-created: 26 March 2022
-tags: 
+title: 01 Node Javascript - Installasjon og oppsett i IDE
+created: 28 March 2022
 ---
 # Installasjon og oppsett av IDE
 Her er noen gode tips for å komme i gang med JavaScript programmering.

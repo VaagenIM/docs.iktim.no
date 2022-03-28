@@ -1,14 +1,11 @@
 ---
 title: Hjem
-author: Sondre Grønås
 created: 28 March 2022
-tags: 
 ---
-# Fagboka til vågenelevene i 1IM
+# Fagboka til Vågenelevene i 1IM
 Her jobbes det med å skape noe oversikt!
 
-Dette er en digital fagbok skrevet av Sondre Grønås.
-Ønsker du å bidra så kan du se kildekoden her: [docs.iktim.no](https://github.com/VaagenIM/docs.iktim.no) (Foreløpig er den låst bak en organisasjon.)
+Dette er en digital fagbok skrevet av Sondre Grønås. Ønsker du å bidra, vennligst ta kontakt, eller foreslå endringer på GitHub. Eventuelt så finner du min kontaktinfo nederst til høyre på siden.
 
 ## Fagbok
 Fagboken er delt inn i kapitler. Foreløpig er det dårlig med innhold :)

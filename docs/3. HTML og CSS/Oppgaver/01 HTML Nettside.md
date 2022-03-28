@@ -1,3 +1,7 @@
+---
+title: Ditt eget nettsted!
+created: 28 March 2022
+---
 # Ditt eget nettsted!
 Din oppgave er å lage ditt eget personlige nettsted ved bruk av oppmerkingsspråkene [[HTML]] og [[CSS]].
 Selv om HTML og CSS anses som "[[IKT]]" fag, gjelder fremdeles  [[Komposisjonsprinsipp|komposisjonsprinsippene]] når det kommer til å få en fin nettside en kan være fornøyd med.

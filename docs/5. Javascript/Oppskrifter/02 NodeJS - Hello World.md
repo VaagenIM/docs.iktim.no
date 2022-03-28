@@ -1,8 +1,6 @@
 ---
-title: NodeJS - Hello World
-author: Sondre Grønås
-created: 26 March 2022
-tags: 
+title: 02 NodeJS - Hello World
+created: 28 March 2022
 ---
 # NodeJS: Hello World
 I motsetning til Python, har NodeJS litt mer avanserte syntakser som kan være litt frustrerende å jobbe med, men fortvil ikke! Med pakkene vi installerte i forrige artikkel, [[01 Node Javascript - Installasjon og oppsett i IDE]], så får vi god hjelp!

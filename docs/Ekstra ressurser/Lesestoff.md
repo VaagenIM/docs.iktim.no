@@ -1,3 +1,7 @@
+---
+title: Lesestoff
+created: 28 March 2022
+---
 # Ekstra lesestoff
 
 Her er en liste av nettsider og blogger som er verdt å holde et øye med, kategorisert litt i ulike sjangre og interesser. Dessverre med mye av IT, er det slik at man må ofte først ha et behov, for å forstå behovet. Derfor – med en gang dere kommer over nytt og spennende av teknisk informasjon, prøv å let etter hvilke sammenhenger det kan bli brukt til! Nysgjerrighet er nøkkelen, til det meste faktisk. 

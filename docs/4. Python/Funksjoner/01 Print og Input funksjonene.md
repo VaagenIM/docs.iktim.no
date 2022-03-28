@@ -1,3 +1,7 @@
+---
+title: 01 Print og Input funksjonene
+created: 28 March 2022
+---
 # Print og Input funksjonene
 `print()` og `input()` er to [[Funksjon|basisfunksjoner]] som brukes mye i konsollen til å behandle tekst. Den ene, `print()` bruker tekst som [[Utdata|utdata]], mens `input()` bruker tekst som [[Inndata]].
 

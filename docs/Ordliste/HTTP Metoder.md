@@ -1,8 +1,6 @@
 ---
 title: HTTP Methods
-author: Sondre Grønås
 created: 26 March 2022
-tags: 
 ---
 # HTTP Methods
 Protokoller for å kommunisere mellom enheter.

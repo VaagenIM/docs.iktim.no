@@ -1,3 +1,7 @@
+---
+title: Funksjon
+created: 28 March 2022
+---
 # Funksjon
 En funksjon er i sin enkleste forklaring det samme som en tradisjonell kokebok oppskrift, som i seg selv ikke er så komplisert - men dersom en funksjon kombineres med andre funksjoner blir det fort komplekst. 
 Til forskjell fra en kokebok for mennesker, utføres oppskriften av [[Datamaskinen]] da den blir bedt om å 'følge oppskriften'.

@@ -1,7 +1,5 @@
 ---
-title: 07 Express - Brukerregistrering
-author: Sondre Grønås
-created: 26 March 2022
-tags: 
+title: 07 Brukerregistrering
+created: 28 March 2022
 ---
 # 07 Express - Brukerregistrering

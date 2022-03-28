@@ -1,8 +1,6 @@
 ---
-title: Utviklingsmiljø
-author: Sondre Grønås
-created: 26 March 2022
-tags: 
+title: 03 Utviklingsmiljø
+created: 28 March 2022
 ---
 # Utviklingsmiljø i Javascript
 Her er en oppskrift på hvordan du kan sette opp et enkelt utviklingsmiljø i [[Javascript]]. Oppsettet setter opp et prosjekt i en mappe via [[NPM]] (Node Package Manager) og tar i bruk en modul som heter [npm-watch](https://www.npmjs.com/package/npm-watch). 

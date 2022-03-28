@@ -1,3 +1,7 @@
+---
+title: 03 Tuples og lister
+created: 28 March 2022
+---
 # Tuples og lister
 En Tuple er en verdi som inneholder FLERE verdier, de refereres ofte som lister. Du lager en Tuple ved å ramme verdien inn i en ``[]`` blokk, verdier adskilles ved komma. Her er foreløpig en uoversiktlig oversikt over hva det er for noe.
 

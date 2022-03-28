@@ -1,3 +1,7 @@
+---
+title: Innrykk
+created: 28 March 2022
+---
 # Innrykk
 Innrykk er mellomrommet fra helt til venstre til der teksten starter. Python er VELDIG strenge når det gjelder innrykk.
 
