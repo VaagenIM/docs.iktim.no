@@ -1,3 +1,9 @@
+---
+title: index
+author: Sondre Grønås
+created: 28 March 2022
+tags: 
+---
 # Fagboka til vågenelevene i 1IM
 Her jobbes det med å skape noe oversikt!
 

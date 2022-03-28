@@ -16,7 +16,7 @@ I din [[IDE]] åpner du prosjektmappen (i [[01 Atom IDE|Atom]] er det `Add Folde
 
 Lag en fil i prosjektet og kall denne for `app.js`
 
-La oss verifisere at [[5. Javascript/index|Javascript]] er installert ved å skrive inn koden:
+La oss verifisere at [[Javascript]] er installert ved å skrive inn koden:
 ```javascript
 console.log("Hello Node!")
 ```

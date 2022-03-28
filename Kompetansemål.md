@@ -1,10 +1,10 @@
 ---
-title: 01 Kompetansemål
+title: Kompetansemål
 author: Sondre Grønås
 created: 28 March 2022
 tags: 
 ---
-# 01 Kompetansemål
+# Kompetansemål
 Her er årets kompetansemål (Sist oppdatert 2022). Kilde: [Læreplan i vg1 informasjonsteknologi og medieproduksjon (IKM01-01)](https://www.udir.no/lk20/ikm01-01)
 
 ## Produksjon og historiefortelling
