@@ -1,25 +1,19 @@
 FROM alpine:3.15
 
-ARG REPO_URL=https://github.com/VaagenIM/docs.iktim.no
+ARG repo
 
 RUN apk add --no-cache \
             python3 \
             py3-pip \
             git \
-            thttpd \
             && rm -rf /var/lib/apt/lists/*
 
-RUN git clone ${REPO_URL} docs \
+RUN git clone ${repo} docs \
     && cd /docs \
     && pip install -r requirements.txt \
     && mkdir site \
     && mkdocs build \
-    && echo "0 */2 * * * git -C /docs pull && cd /docs && mkdocs build" | crontab - \
-    && touch /.entrypoint.sh \
-    && echo "thttpd -h "0.0.0.0" -d "/docs/site" -M 60" >> /.entrypoint.sh \
-    && echo "crond -f" >> /.entrypoint.sh
+    && echo "0 */2 * * * git -C /docs pull && cd /docs && mkdocs build" | crontab -
 
-WORKDIR /docs
-EXPOSE 80
 
-ENTRYPOINT ["sh", "/.entrypoint.sh"]
+ENTRYPOINT ["crond", "-f"]

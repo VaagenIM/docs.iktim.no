@@ -57,13 +57,24 @@ Nettsiden holdes oppe av Docker. Se `Dockerfile` for å se hva containeren gjør
 ```
 version: "3.3"
 services:
-  docs:
+  updater:
     build:
       context: https://raw.githubusercontent.com/VaagenIM/docs.iktim.no/main/Dockerfile
+      args:
+        - repo=https://github.com/VaagenIM/docs.iktim.no
+    restart: unless-stopped
+    volumes:
+      - content:/docs/site
+
+  http:
+    image: nginx:latest
+    volumes:
+      - content:/usr/share/nginx/html
     restart: unless-stopped
     ports:
       - "3000:80"
+
+volumes:
+  content:
 ```
 Startes med: `docker-compose up -d`. Nettsiden vil kjøre på port 3000 og automatisk hente oppdateringer hver 2. time.
-<br>
-Alternativt med docker run; `docker build -t docs https://raw.githubusercontent.com/VaagenIM/docs.iktim.no/main/Dockerfile && docker run -dp 3000:80 docs`
