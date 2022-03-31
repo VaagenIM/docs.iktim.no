@@ -38,7 +38,7 @@ En mer ryddig forklaring på hvordan du kan bidra kommer senere.
 <br><br>
 Prosjektet støtter og innbygging av YouTube videoer, ved å bruke "Del YouTube" funksjonen på nettsiden til YouTube, og velge `Bygg inn`. HTML koden kan limes direkte inn i dokumentet.
 
-## Sett opp et dev-miljø 
+## Sett opp et dev-miljø
 For å sette opp et dev-miljø gjør du:
 ```
 git clone https://github.com/VaagenIM/docs.iktim.no
@@ -60,10 +60,8 @@ services:
   docs:
     build:
       context: https://raw.githubusercontent.com/VaagenIM/docs.iktim.no/main/Dockerfile
-      args:
-        - REPO_URL=https://github.com/VaagenIM/docs.iktim.no
     restart: unless-stopped
     ports:
       - "3000:80"
 ```
-Startes med: `docker-compose up --build -d`. Nettsiden vil automatisk hente oppdateringer hver 2. time.
+Startes med: `docker-compose up -d`. Nettsiden vil kjøre på port 3000 og automatisk hente oppdateringer hver 2. time.
