@@ -65,3 +65,5 @@ services:
       - "3000:80"
 ```
 Startes med: `docker-compose up -d`. Nettsiden vil kjøre på port 3000 og automatisk hente oppdateringer hver 2. time.
+<br>
+Alternativt med docker run; `docker build -t docs https://raw.githubusercontent.com/VaagenIM/docs.iktim.no/main/Dockerfile && docker run -dp 3000:80 docs`
