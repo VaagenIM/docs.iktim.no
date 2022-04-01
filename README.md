@@ -38,6 +38,7 @@ En mer ryddig forklaring på hvordan du kan bidra kommer senere.
 <br><br>
 Prosjektet støtter og innbygging av YouTube videoer, ved å bruke "Del YouTube" funksjonen på nettsiden til YouTube, og velge `Bygg inn`. HTML koden kan limes direkte inn i dokumentet.
 
+---
 ## Hostes via Docker
 Nettsiden holdes oppe av Docker. Se `Dockerfile` for å se hva containeren gjør :)
 <br><br>
@@ -66,3 +67,8 @@ volumes:
   content:
 ```
 Startes med: `docker-compose up -d`. Nettsiden vil kjøre på port 3000 og automatisk hente oppdateringer hver 2. time.
+
+## Tekniske utfordringer
+Siden støtter foreløpig ikke [Obsidian / Microsoft Callouts](https://help.obsidian.md/How+to/Use+callouts) - bare [Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage), for å generere Info/Note/Warning bokser.
+<br>
+Mangler integrasjon med Zotero/BibTeX - ikke så kjent med det, men hadde vært fint å ordnet med referanser/kilder på ordentlig vis.
