@@ -38,18 +38,6 @@ En mer ryddig forklaring på hvordan du kan bidra kommer senere.
 <br><br>
 Prosjektet støtter og innbygging av YouTube videoer, ved å bruke "Del YouTube" funksjonen på nettsiden til YouTube, og velge `Bygg inn`. HTML koden kan limes direkte inn i dokumentet.
 
-## Sett opp et dev-miljø
-For å sette opp et dev-miljø gjør du:
-```
-git clone https://github.com/VaagenIM/docs.iktim.no
-cd docs.iktim.no
-pip install -r requirements.txt
-mkdocs serve
-```
-Så kan du besøke http://localhost:8000 for å se endringene i sanntid!<br>
-`mkdocs build` bygger ut sidene i en `/site` mappe som serveres av en webserver.
-<br>
-
 ## Hostes via Docker
 Nettsiden holdes oppe av Docker. Se `Dockerfile` for å se hva containeren gjør :)
 <br><br>
