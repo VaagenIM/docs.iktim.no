@@ -1,5 +1,7 @@
 ---
 title: 04 Express HTML - Pug Templating
+alias: Express HTML - Pug Templating
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Express HTML - Pug Templating

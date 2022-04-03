@@ -1,5 +1,7 @@
 ---
 title: 02 Dictionaries
+alias: Dictionaries
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Dictionaries

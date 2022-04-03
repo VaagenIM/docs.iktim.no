@@ -1,5 +1,7 @@
 ---
 title: 02 Python Chatrobot
+alias: Python Chatrobot
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Python Chatrobot

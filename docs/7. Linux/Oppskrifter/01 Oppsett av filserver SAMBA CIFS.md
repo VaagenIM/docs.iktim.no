@@ -1,5 +1,7 @@
 ---
 title: 01 Oppsett av filserver SAMBA CIFS
+alias: Oppsett av filserver SAMBA CIFS
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Oppsett av filserver (SAMBA CIFS)

@@ -1,5 +1,7 @@
 ---
 title: 01 Node Javascript - Installasjon og oppsett i IDE
+alias: NodeJS - Installasjon og oppsett i IDE
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Installasjon og oppsett av IDE
@@ -32,3 +34,4 @@ I NodeJS bruker man noe som heter [[NPM]] til å installere pakker og kjøre vå
 	```sh
 	apm install atom-ternjs platform-ide-terminal linter-js-standard
 	```
+

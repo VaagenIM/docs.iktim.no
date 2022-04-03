@@ -1,5 +1,7 @@
 ---
 title: 03 Utviklingsmiljø
+alias: NodeJS - Utviklingsmiljø
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Utviklingsmiljø i Javascript

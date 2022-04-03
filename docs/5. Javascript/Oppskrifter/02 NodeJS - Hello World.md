@@ -1,5 +1,7 @@
 ---
 title: 02 NodeJS - Hello World
+alias: NodeJS - Hello World
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # NodeJS: Hello World

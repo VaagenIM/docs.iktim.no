@@ -1,5 +1,7 @@
 ---
 title: 01 Turtle med funksjoner
+alias: Turtle med funksjoner
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Turtle med funksjoner

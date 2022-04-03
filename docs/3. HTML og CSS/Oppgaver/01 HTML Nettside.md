@@ -1,5 +1,7 @@
 ---
 title: Ditt eget nettsted!
+alias: HTML Nettside
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Ditt eget nettsted!

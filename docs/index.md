@@ -1,5 +1,7 @@
 ---
 title: Hjem
+alias: Hjem
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Fagboka til Vågenelevene i 1IM
@@ -16,3 +18,6 @@ Fagboken er delt inn i kapitler. Foreløpig er det dårlig med innhold :)
 - [[Lesestoff]]
 - [[Linux Ressurser|Linux Ressurser]]
 - [W3Schools Online Web Tutorials](https://w3schools.com) - Internett skolen, alt mulig rart fra HTML, Javascript, Database, Programmering
+
+
+[@hair2010multivariate] ![[@gamification-thesis]]

@@ -1,5 +1,7 @@
 ---
 title: 01 Print og Input funksjonene
+alias: Print og Input funksjonene
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Print og Input funksjonene

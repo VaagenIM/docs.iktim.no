@@ -1,5 +1,7 @@
 ---
 title: Frontend
+alias: Frontend
+author: Sondre Grønås
 created: 01 April 2022
 ---
 # Frontend

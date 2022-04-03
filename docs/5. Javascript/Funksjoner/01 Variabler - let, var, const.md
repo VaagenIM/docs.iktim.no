@@ -1,5 +1,7 @@
 ---
 title: Variabler - let, var, const
+alias: Javascript variabler
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Variabler - let, var, const

@@ -1,5 +1,7 @@
 ---
 title: 03 Tuples og lister
+alias: Tuples og lister
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Tuples og lister

@@ -1,5 +1,7 @@
 ---
 title: Innrykk
+alias: Innrykk
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Innrykk

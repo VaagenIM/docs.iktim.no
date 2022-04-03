@@ -1,5 +1,7 @@
 ---
 title: Atom IDE
+alias: Atom IDE
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Atom IDE

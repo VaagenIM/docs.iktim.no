@@ -1,5 +1,7 @@
 ---
 title: Programmering
+alias: Programmering
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Programmering

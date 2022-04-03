@@ -1,5 +1,7 @@
 ---
 title: Standardkommandoer i Linux
+alias: Standardkommandoer i Linux
+author: Sondre Grønås
 created: 28 March 2022
 ---
 # Standardkommandoer i Linux

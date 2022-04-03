@@ -1,5 +1,7 @@
 ---
 title: 05 Enkel Innloggingsdemo
+alias: NodeJS - Enkel Innloggingsdemo
+author: Sondre Grønås
 created: 01 April 2022
 ---
 # 05 Enkel Innloggingsdemo
