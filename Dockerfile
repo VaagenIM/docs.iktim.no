@@ -13,7 +13,7 @@ RUN git clone ${repo} docs \
     && pip install -r requirements.txt \
     && mkdir site \
     && mkdocs build \
-    && echo "0 */2 * * * git -C /docs pull && cd /docs && mkdocs build" | crontab -
+    && echo "0 */2 * * * git -C /docs pull && cd /docs && pip install -r requirements.txt && mkdocs build" | crontab -
 
 
 ENTRYPOINT ["crond", "-f"]
