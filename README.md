@@ -15,13 +15,20 @@ For å sende inn dine forslag, trykker du "Commit" inne i GitHub Desktop.
 For å opprette lenker mellom dokumenter, brukes `[[Wikilinks]]` funksjonen. Skriv navnet på filen du skal linke til (`[[MinFil]]`), så ordner Obsidian resten. For å endre navn bruker du `[[MinFil|Lenketekst]]`. Det er ikke mulig å ha filer med samme navn, unntak av index.md filer (Disse skal ikke lenkes til).<br>
 <br>
 Filer sorteres etter rekkefølge, benytt tall foran tittel (01 Første artikkel, 02 En annen artikkel). Navnet defineres av # Tittelen, eller en `title:` tag.<br>
-Filer kan starte slik, `01 Min side`:
+Filer kan starte slik, `01 Min side`. Gjerne bruk følgende [Template](https://github.com/SilentVoid13/Templater) som din YAML frontmatter:
 ```
 ---
-title: Min side
 ---
-# Overskrift
-Eksempel
+title: <%* tR += `${tp.file.title}` %>
+aliases: [<%* tR += `${tp.file.title}` %>,]
+author: Navnetditt
+tags:
+  - missing
+created: <% tp.date.now("DD MMMM YYYY") %>
+---
+# <%* tR += `${tp.file.title}` %>
+<% tp.file.cursor() %>
+---
 ```
 Vil vises som "Min side" i menyen
 <br>

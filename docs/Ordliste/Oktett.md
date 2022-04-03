@@ -1,0 +1,19 @@
+---
+title: Oktett
+alias: [Oktett,Octet]
+author: Sondre Grønås
+tags:
+  - Nettverk
+  - IP
+created: 03 April 2022
+---
+# Oktett
+Et mer vennlig navn for [[Byte]], altså 8 bits, som definerer de ulike tallene i en [[02. IPv4-adresser|IPv4-adresse]]. En IP adresse har 4 oktetter separert med punktum. $192.168.1.255$ er et eksempel på en privat ip-adresse.
+
+| Oktett 1 | Oktett 2 | Oktett 3 | Oktett 4 |
+| -- | -- | -- | -- |
+|$11000000$ | $10101000$ | $00000001$ | $11111111$ |
+| $192$ | $168$ | $1$ | $255$ |
+
+## Les mer
+[IP Addressing Fundamentals > Fundamentals of IP for the CCNA INTRO Exam | Cisco Press](https://www.ciscopress.com/articles/article.asp?p=101151&seqNum=3#:~:text=Each%20of%20the%20decimal%20numbers,is%201%2C%20and%20so%20on.)

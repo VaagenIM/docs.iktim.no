@@ -1,6 +1,6 @@
 ---
 title: Kompetansemål
-alias: Kompetansemål
+aliases: [Kompetansemål,]
 author: Sondre Grønås
 created: 28 March 2022
 ---
