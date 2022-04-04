@@ -15,6 +15,7 @@ Merk at hacking er en alvorlig kriminell aktivitet når det utføres uten tillat
 
 [^1]: [Apple Confirms iPhone Hacking Reward Of $1.5 Million](https://www.forbes.com/sites/daveywinder/2019/12/20/apple-confirms-iphone-hacking-reward-of-15-million/)
 
+---
 ## Ressurser
 - Læreressurs: [YouTube - John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 - Læreressurs: [YouTube - Loi Liang Yang](https://www.youtube.com/c/LoiLiangYang/videos)
