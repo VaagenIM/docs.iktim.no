@@ -16,7 +16,7 @@ Når du er ferdig, vil du kunne bruke `npm run watch` til å kjøre koden din, i
 For å installere npm-watch kjører vi følgende kommando i prosjektet vårt sin terminal: `npm install npm-watch`
 
 Vi er nå nødt til å gjøre noen endringer i vår fil som heter `package.json`, den vil se noe slik ut:
-```
+```json
 {
   "name": "hellonode",
   "version": "1.0.0",
@@ -39,7 +39,7 @@ Om du har flere dependencies her, eller ulike verdier, så gjør det ingenting. 
 Her må vi endre på `"scripts"`, og legge til et nytt felt: `"watch":`
 
 Dette er det som må inn:
-```
+```json
   "scripts": {
     "watch": "start http://localhost:3000 & npm-watch",
     "test": "node app.js"
@@ -50,7 +50,7 @@ Dette er det som må inn:
 ```
 
 Hele `package.json` vil da se slik ut:
-```
+```json
 {
   "name": "hellonode",
   "version": "1.0.0",
