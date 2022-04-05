@@ -57,7 +57,7 @@ html
     h1 Velkommen
 ```
 
-For å tegne denne i Express, bruker vi `response.render(pug(, {data}))` istedet. `(, {data})` kommer vi tilbake til!
+For å tegne denne i Express, bruker vi `response.render('index.pug', {data})` istedet. `(, {data})` Er valgfritt å denne kommer vi tilbake til!
 ```js
 app.get('/', function (request, response) {
   response.render('index')
