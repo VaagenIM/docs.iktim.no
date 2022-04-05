@@ -15,7 +15,7 @@ I vår `app.js` må vi legge inn en ny side hvor vår app lytter på [[GET]] for
 
 `app.js`
 ```js
-app.get('/login' (request, response) => {
+app.get('/login', (request, response) => {
 	response.render('login')
 })
 ```
@@ -50,7 +50,7 @@ Verdiene vi får legger seg automatisk inn i `request` objektet som tas inn i fu
 
 `app.js`
 ```js
-app.get('/auth' (request, response) => {
+app.get('/auth', (request, response) => {
 	console.log(request.query)
 	// Printer {username:"verdi", password:"verdi"}
 	var brukernavn = request.query.username
@@ -93,7 +93,7 @@ I `app.js` må vi også endre fra `get` til `post` forespørsler. Det er heller 
 
 `app.js`
 ```js
-app.post('/auth' (request, response) => {
+app.post('/auth', (request, response) => {
 	var brukernavn = request.body.username
 	var passord = request.body.password
 
