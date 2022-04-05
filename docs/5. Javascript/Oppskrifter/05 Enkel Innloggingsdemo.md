@@ -69,7 +69,7 @@ app.get('/auth' (request, response) => {
 ## POST metode
 Nå har vi sett på GET metoden for å sende data, som legger inn dataen direkte i URL'en, `?nøkkel=verdi&nøkkel2=verdi2&nøkkel3=verdi3`. Nå skal vi se på POST metoden, som sender dataen "bak kulissene".
 
-For å benytte oss av [[POST]], bytter vi bare ut `get")` med `form(method="post")`. Vi må også endre vår app til å lytte til post, ikke get:
+For å benytte oss av [[POST]], bytter vi bare ut `form(method="get")` med `form(method="post")`:
 
 `login.pug`
 ```pug
@@ -89,7 +89,7 @@ html
 		h1 Ikke registrert? <a href="/register">Registrer deg da vel</a>.
 ```
 
-I `app.js` er det heller ikke verre enn å bytte ut `.get()` med `.post()` - forskjellen er hvor vi henter verdiene. Nå kommer de ikke fra forespørselen ([[Query]]), men fra en annen usynlig forespørsel med innhold. Nettleseren sender altså et brev (post) av innhold bak kulissene, og det som blir lest av er `body` delen av brevet, som på norsk kan oversettes til innhold. `request.query` (URL, GET) blir derfor byttet ut med `request.body` (POST)
+I `app.js` må vi også endre fra `get` til `post` forespørsler. Det er heller ikke verre enn å bytte ut `.get()` med `.post()` - forskjellen her blir bare hvor vi henter verdiene fra. Nå kommer de ikke fra forespørselen ([[Query]]), men fra en annen usynlig forespørsel med innhold. Nettleseren sender altså et brev (post) av innhold bak kulissene, og det som blir lest av er `body` delen av brevet, som på norsk kan oversettes til innhold. `request.query` (URL, GET) blir derfor byttet ut med `request.body` (POST)
 
 `app.js`
 ```js
