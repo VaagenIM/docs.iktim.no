@@ -7,10 +7,8 @@ Foreløpig er README.md rotete og fyllt av informasjon. Dette skal ryddes og gj�
 Last ned GitHub repo'et via https://desktop.github.com/ (Via programmet, ikke nettsiden)<br>
 Bruk en markdown editor, for eksempel https://obsidian.md/<br>
 Alternativt kan du og sette opp Obsidian til å bruke Git ved å følge denne oppskriften: https://github.com/denolehov/obsidian-git<br>
-<br><br>
-Oppskrift på kilde-referering kommer. Her brukes det Zotero med Better BibTeX, med Pandoc som siteringsformat (inkl. braketter). Zotero link er https://www.zotero.org/groups/docs.iktim.no
 <br>
-Anbefalte plug-ins: Templater, Citations, Auto Link Title, Tag Wrangler.
+Anbefalte plug-ins: Templater, Auto Link Title, Tag Wrangler.
 <br>
 Åpne Vaultet `docs` i Obsidian, endringer du gjør i Obsidian vil automatisk havne i GitHub Desktop.<br>
 For å sende inn dine forslag, trykker du "Commit" inne i GitHub Desktop.
@@ -32,9 +30,6 @@ created: <% tp.date.now("DD MMMM YYYY") %>
 # <%* tR += `${tp.file.title}` %>
 <% tp.file.cursor() %>
 
----
-## Referanser
-\bibliography
 ```
 Vil vises som "Min side" i menyen
 <br>
@@ -81,3 +76,5 @@ Startes med: `docker-compose up -d`. Nettsiden vil kjøre på port 3000 og autom
 
 ## Tekniske utfordringer
 Siden støtter foreløpig ikke [Obsidian / Microsoft Callouts](https://help.obsidian.md/How+to/Use+callouts) - bare [Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage), for å generere Info/Note/Warning bokser.
+<br>
+Mangler en god integrasjon for kilde-referering.
