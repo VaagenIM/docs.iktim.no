@@ -51,6 +51,9 @@ plugins:
     - tags
     - roamlinks
     - git-revision-date-localized
+    - bibtex:
+        bib_file: "docs.iktim.no.bib"
+        csl_file: "apa.csl"
     - include_dir_to_nav:
         flat: true
         file_name_as_title: true

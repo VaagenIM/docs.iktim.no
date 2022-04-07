@@ -1,6 +1,6 @@
 FROM alpine:3.15
 
-ARG repo
+ARG repo=https://github.com/VaagenIM/docs.iktim.no
 
 RUN apk add --no-cache \
             python3 \

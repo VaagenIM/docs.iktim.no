@@ -11,9 +11,7 @@ created: 03 April 2022
 # Etisk Hacking
 I denne fanen vil det være fokus på cybersikkerhet, konsepter for hacking og etiske øvelser.
 
-Merk at hacking er en alvorlig kriminell aktivitet når det utføres uten tillatelse - men oppfordret av store teknologiske giganter innforbi deres rammer.[^1] En av sidene hvor det lyses ut dusør til hackere er [HackerOne | Hacker-Powered Security, Bug Bounties, and Pentests](https://www.hackerone.com/)
-
-[^1]: [Apple Confirms iPhone Hacking Reward Of $1.5 Million](https://www.forbes.com/sites/daveywinder/2019/12/20/apple-confirms-iphone-hacking-reward-of-15-million/)
+Merk at hacking er en alvorlig kriminell aktivitet når det utføres uten tillatelse - men oppfordret av store teknologiske giganter innforbi deres rammer.[@winderAppleConfirmsIPhonea] En av sidene hvor det lyses ut dusør til hackere er [HackerOne | Hacker-Powered Security, Bug Bounties, and Pentests](https://www.hackerone.com/)
 
 ---
 ## Ressurser
@@ -26,3 +24,6 @@ Merk at hacking er en alvorlig kriminell aktivitet når det utføres uten tillat
 - Skann etter åpne porter: [Web Application Security, Testing, & Scanning - PortSwigger](https://portswigger.net/)
 - Reverser programvare: [Ghidra](https://ghidra-sre.org/)
 - Dusørprogram: [Bug Bounties](Hackerone.com/bug-bounty-programs)
+
+## Referanser
+\bibliography
