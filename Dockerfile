@@ -1,10 +1,11 @@
-FROM alpine:3.15
+FROM ubuntu:focal
 
 ARG repo=https://github.com/VaagenIM/docs.iktim.no
 
-RUN apk add --no-cache \
+RUN apt update && apt install -y \
+            cron \
             python3 \
-            py3-pip \
+            python3-pip \
             git \
             && rm -rf /var/lib/apt/lists/*
 
