@@ -7,7 +7,7 @@ copyright: "Copyright &copy; 2021-2022 Sondre Grønås"
 
 theme:
     name: material
-    language: "nb"
+    language: "no"
     features:
         - content.code.annotate
         - navigation.indexes
