@@ -32,8 +32,7 @@ created: <% tp.date.now("DD MMMM YYYY") %>
 # <%* tR += `${tp.file.title}` %>
 <% tp.file.cursor() %>
 
----
-## Referanser
+<!-- Zotero Referanser -->
 \bibliography
 ```
 Vil vises som "Min side" i menyen
@@ -81,3 +80,4 @@ Startes med: `docker-compose up -d`. Nettsiden vil kjøre på port 3000 og autom
 
 ## Tekniske utfordringer
 Siden støtter foreløpig ikke [Obsidian / Microsoft Callouts](https://help.obsidian.md/How+to/Use+callouts) - bare [Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage), for å generere Info/Note/Warning bokser.
+<br>Zotero lenker støtter ikke zoteroSelectURI, litt rotete å sette inn referanser. Fungerende format er: `[@{{citeKey}}]`, ønskelig format er: `[@{{citeKey}} + sidenr]({{zoteroSelectURI}})` - som vil gjøre det mulig å åpne kildeliste fra Obsidian.
