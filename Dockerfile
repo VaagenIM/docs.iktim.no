@@ -16,5 +16,4 @@ RUN git clone ${repo} docs \
     && mkdocs build \
     && echo "0 */2 * * * git -C /docs pull && cd /docs && pip install -r requirements.txt && mkdocs build" | crontab -
 
-
-ENTRYPOINT ["crond", "-f"]
+ENTRYPOINT ["cron", "-f"]
