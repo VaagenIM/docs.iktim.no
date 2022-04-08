@@ -1,9 +1,12 @@
 FROM ubuntu:focal
 
 ARG repo=https://github.com/VaagenIM/docs.iktim.no
+ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt update && apt install -y \
             cron \
+            pandoc \
+            pandoc-citeproc \
             python3 \
             python3-pip \
             git \
