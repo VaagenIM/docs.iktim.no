@@ -1,6 +1,6 @@
 ---
 title: Etisk Hacking
-aliases: [Etisk Hacking, test55]
+aliases: [Etisk Hacking,]
 author: Sondre Grønås
 tags:
   - Hacking
@@ -9,7 +9,7 @@ tags:
 created: 03 April 2022
 ---
 # Etisk Hacking
-I denne fanen vil det være fokus på cybersikkerhet, konsepter for hacking og etiske øvelser. 
+I denne fanen vil det være fokus på cybersikkerhet, konsepter for hacking og etiske øvelser.
 
 Merk at hacking er en alvorlig kriminell aktivitet når det utføres uten tillatelse - men oppfordret av store teknologiske giganter innforbi deres rammer.[@winderAppleConfirmsIPhone] En av sidene hvor det lyses ut dusør til hackere er [HackerOne | Hacker-Powered Security, Bug Bounties, and Pentests](https://www.hackerone.com/)
 

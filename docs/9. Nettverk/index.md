@@ -1,6 +1,6 @@
 ---
 title: Nettverk
-aliases: [Nettverk,Test12,Kallo]
+aliases: [Nettverk,]
 author: Sondre Grønås
 tags:
   - Nettverk
