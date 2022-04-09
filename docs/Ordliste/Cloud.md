@@ -9,6 +9,3 @@ created: 06 April 2022
 ---
 # Cloud
 En annen sin maskin. Fordelen med å bruke maskiner i skya er at de kan skaleres enklere. Forklaringen på det er lang, men den er ikke skrevet enda.
-
-<!-- Referanser -->
-\bibliography

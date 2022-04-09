@@ -24,8 +24,3 @@ Merk at hacking er en alvorlig kriminell aktivitet når det utføres uten tillat
 - Skann etter åpne porter: [Web Application Security, Testing, & Scanning - PortSwigger](https://portswigger.net/)
 - Reverser programvare: [Ghidra](https://ghidra-sre.org/)
 - Dusørprogram: [Bug Bounties](Hackerone.com/bug-bounty-programs)
-
-<!---
-Referanser
--->
-\bibliography
