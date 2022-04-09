@@ -1,8 +1,12 @@
 ---
 title: Innrykk
-alias: Innrykk
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Innrykk,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Innrykk
 Innrykk er mellomrommet fra helt til venstre til der teksten starter. Python er VELDIG strenge når det gjelder innrykk.

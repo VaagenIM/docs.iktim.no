@@ -1,8 +1,12 @@
 ---
 title: 01 Print og Input funksjonene
-alias: Print og Input funksjonene
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Print og Input funksjonene,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Python
+date: 2022-04-09
 ---
 # Print og Input funksjonene
 `print()` og `input()` er to [[Funksjon|basisfunksjoner]] som brukes mye i konsollen til å behandle tekst. Den ene, `print()` bruker tekst som [[Utdata|utdata]], mens `input()` bruker tekst som [[Inndata]].

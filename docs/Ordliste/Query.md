@@ -1,8 +1,12 @@
 ---
 title: Query
-alias: Query
-author: Sondre Grønås
-created: 01 April 2022
+aliases: [Query,Forespørsel]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Query
 Betyr forespørsel

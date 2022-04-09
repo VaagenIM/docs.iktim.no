@@ -1,8 +1,13 @@
 ---
 title: 01 Oppsett av filserver SAMBA CIFS
-alias: Oppsett av filserver SAMBA CIFS
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Oppsett av filserver SAMBA CIFS,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Linux
+  - NAS
+date: 2022-04-09
 ---
 # Oppsett av filserver (SAMBA CIFS)
 Her er en steg for steg oppskrift på hvordan man setter opp en delt mappe over nettverk på en Linux maskin. Mappen lar deg overføre filer til og fra din maskin, og fungerer i prinsipp på samme måte med delte mapper i en [[NAS]]. Videre kan du koble opp [[samba]] med [[apache2]] og hoste en mappe (med f.eks. HTML) på nettet. For å konfigurere med apache2 se [[02 Oppsett av Apache2 i delt mappe]]

@@ -1,7 +1,11 @@
 ---
 title: 07 Brukerregistrering
-alias: 07 Brukerregistrering
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Brukerregistrering,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Javascript
+date: 2022-04-09
 ---
 # 07 Express - Brukerregistrering

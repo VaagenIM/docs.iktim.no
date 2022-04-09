@@ -1,8 +1,13 @@
 ---
 title: Atom IDE
-alias: Atom IDE
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Atom IDE,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - IDE
+  - Editor
+date: 2022-04-09
 ---
 # Atom IDE
 Atom IDE er GitHub sin egen kode-editor, også kalt en [[IDE]] (Integrated development environment). Denne kan lastes ned på [atom.io](https://atom.io/)

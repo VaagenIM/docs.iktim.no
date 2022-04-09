@@ -1,7 +1,11 @@
 ---
 title: Plug-in
-alias: Plug-in
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Plug-in,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Plug-in

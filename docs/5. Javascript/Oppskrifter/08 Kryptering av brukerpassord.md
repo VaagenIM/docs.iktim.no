@@ -1,6 +1,11 @@
 ---
 title: 08 Kryptering av brukerpassord
-alias: 08 Kryptering av brukerpassord
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [08 Kryptering av brukerpassord,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Javascript
+date: 2022-04-09
 ---
+# 08 Kryptering av brukerpassord

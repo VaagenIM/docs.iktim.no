@@ -1,7 +1,11 @@
 ---
 title: Cookie
-alias: Cookie
-author: Sondre Grønås
-created: 31 March 2022
+aliases: [Cookie,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Cookie

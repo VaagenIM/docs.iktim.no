@@ -1,8 +1,12 @@
 ---
 title: Kompetansemål
 aliases: [Kompetansemål,]
-author: Sondre Grønås
-created: 28 March 2022
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Kompetansemål
+date: 2022-04-09
 ---
 # Kompetansemål
 Her er årets kompetansemål (Sist oppdatert 2022). Kilde: [Læreplan i vg1 informasjonsteknologi og medieproduksjon (IKM01-01)](https://www.udir.no/lk20/ikm01-01)

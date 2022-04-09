@@ -1,7 +1,11 @@
 ---
 title: CSV
-alias: CSV
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [CSV,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # CSV

@@ -1,8 +1,12 @@
 ---
 title: Linux
-alias: Linux
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Linux,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Linux
+date: 2022-04-09
 ---
 # Linux
 Her står det lite

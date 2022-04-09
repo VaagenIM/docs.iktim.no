@@ -1,8 +1,12 @@
 ---
 title: Javascript
-alias: Javascript
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Javascript,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Javascript
+date: 2022-04-09
 ---
 # Javascript
 Javascript er et spennende språk vi skal lære oss litt av. I motsetning til WebJavascript, er Javascript (Node) et programmeringsspråk som brukes i apputvikling til PC, Mac, Linux, Android og iOS. Det er mange plattformer det!

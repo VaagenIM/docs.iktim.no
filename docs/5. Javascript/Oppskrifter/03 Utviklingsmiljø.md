@@ -1,8 +1,13 @@
 ---
 title: 03 Utviklingsmiljø
-alias: NodeJS - Utviklingsmiljø
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [NodeJS - Utviklingsmiljø,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - IDE
+  - Javascript
+date: 2022-04-09
 ---
 # Utviklingsmiljø i Javascript
 Her er en oppskrift på hvordan du kan sette opp et enkelt utviklingsmiljø i [[Javascript]]. Oppsettet setter opp et prosjekt i en mappe via [[NPM]] (Node Package Manager) og tar i bruk en modul som heter [npm-watch](https://www.npmjs.com/package/npm-watch). 

@@ -1,11 +1,14 @@
 ---
 title: ISP
-alias: [ISP,Internett Tilbyder,Internet Service Provider]
-author: Sondre Grønås
+aliases: [ISP,Internett Tilbyder,Internet Service Provider]
+lang: nb-NO
+author:
+  - Sondre Grønås
 tags:
+  - Definisjon
   - Nettverk
   - IP
-created: 03 April 2022
+date: 2022-04-09
 ---
 # ISP
 I Rogaland området har vi Get, Altibox, Telenor, Osv.

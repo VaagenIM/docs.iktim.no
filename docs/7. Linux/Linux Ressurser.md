@@ -1,8 +1,13 @@
 ---
 title: Linux Ressurser
-alias: Linux Ressurser
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Linux Ressurser,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Linux
+  - Ekstra
+date: 2022-04-09
 ---
 # Linux Ressurser
 

@@ -1,11 +1,14 @@
 ---
 title: Oktett
-alias: [Oktett,Octet]
-author: Sondre Grønås
+aliases: [Oktett,Octet]
+lang: nb-NO
+author:
+  - Sondre Grønås
 tags:
+  - Definisjon
   - Nettverk
   - IP
-created: 03 April 2022
+date: 2022-04-09
 ---
 # Oktett
 Et mer vennlig navn for [[Byte]], altså 8 bits, som definerer de ulike tallene i en [[02. IPv4-adresser|IPv4-adresse]]. En IP adresse har 4 oktetter separert med punktum. $192.168.1.255$ er et eksempel på en privat ip-adresse.

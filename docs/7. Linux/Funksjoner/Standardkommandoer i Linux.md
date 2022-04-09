@@ -1,10 +1,13 @@
 ---
 title: Standardkommandoer i Linux
-alias: Standardkommandoer i Linux
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Standardkommandoer i Linux,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Linux
+date: 2022-04-09
 ---
-# Standardkommandoer i Linux
 # Standardkommandoer i Linux
 Kan du disse standardkommandoene i Linux, så kan du få til det meste.
 

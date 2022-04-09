@@ -1,8 +1,12 @@
 ---
 title: Lesestoff
-alias: Lesestoff
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Lesestoff,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Ekstra
+date: 2022-04-09
 ---
 # Ekstra lesestoff
 

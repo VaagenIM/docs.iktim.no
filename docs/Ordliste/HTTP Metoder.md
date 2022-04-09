@@ -1,8 +1,12 @@
 ---
 title: HTTP Methods
-alias: HTTP Metoder
-author: Sondre Grønås
-created: 26 March 2022
+aliases: [HTTP Metoder,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # HTTP Methods
 Protokoller for å kommunisere mellom enheter.

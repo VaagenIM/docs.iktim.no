@@ -1,8 +1,12 @@
 ---
 title: 03 Tuples og lister
-alias: Tuples og lister
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Tuples og lister,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Python
+date: 2022-04-09
 ---
 # Tuples og lister
 En Tuple er en verdi som inneholder FLERE verdier, de refereres ofte som lister. Du lager en Tuple ved å ramme verdien inn i en ``[]`` blokk, verdier adskilles ved komma. Her er foreløpig en uoversiktlig oversikt over hva det er for noe.

@@ -1,10 +1,12 @@
 ---
 title: IoT
-alias: [IoT,]
-author: Sondre Grønås
+aliases: [IoT,]
+lang: nb-NO
+author:
+  - Sondre Grønås
 tags:
-  - missing
-created: 04 April 2022
+  - Definisjon
+date: 2022-04-09
 ---
 # IoT
 Internet of Things

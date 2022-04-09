@@ -1,7 +1,11 @@
 ---
 title: apache2
-alias: apache2
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [apache2,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # apache2

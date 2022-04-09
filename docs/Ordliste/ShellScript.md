@@ -1,7 +1,11 @@
 ---
 title: ShellScript
-alias: ShellScript
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [ShellScript,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # ShellScript

@@ -1,8 +1,12 @@
 ---
 title: Funksjon
-alias: Funksjon
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Funksjon,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Funksjon
 En funksjon er i sin enkleste forklaring det samme som en tradisjonell kokebok oppskrift, som i seg selv ikke er så komplisert - men dersom en funksjon kombineres med andre funksjoner blir det fort komplekst. 

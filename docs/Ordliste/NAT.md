@@ -1,10 +1,13 @@
 ---
 title: NAT
-alias: [NAT,Network Address Translation]
-author: Sondre Grønås
+aliases: [NAT,Network Address Translation]
+lang: nb-NO
+author:
+  - Sondre Grønås
 tags:
+  - Definisjon
   - Nettverk
-created: 03 April 2022
+date: 2022-04-09
 ---
 # NAT
 Står for Network Address Translation. Oversetter èn eller flere [[02. IPv4-adresser|IP-adresser]] til èn IP-adresse.

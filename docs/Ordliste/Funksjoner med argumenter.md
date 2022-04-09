@@ -1,8 +1,12 @@
 ---
 title: Funksjoner med argumenter
-alias: Funksjoner med argumenter
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Funksjoner med argumenter,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Funksjoner med argumenter
 Kommer snart

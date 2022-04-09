@@ -1,7 +1,11 @@
 ---
 title: Templating Engine
-alias: Templating Engine
-author: Sondre Grønås
-created: 31 March 2022
+aliases: [Templating Engine,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Templating Engine

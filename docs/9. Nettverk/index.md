@@ -1,11 +1,13 @@
 ---
 title: Nettverk
 aliases: [Nettverk,]
-author: Sondre Grønås
+lang: nb-NO
+author:
+  - Sondre Grønås
 tags:
   - Nettverk
   - Cybersikkerhet
-created: 03 April 2022
+date: 2022-04-09
 ---
 # Nettverk
 Her vil det komme mange nettverkskonsepter.

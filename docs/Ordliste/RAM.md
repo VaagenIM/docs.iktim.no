@@ -1,8 +1,12 @@
 ---
 title: RAM
-alias: RAM
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [RAM,Minne]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # RAM
 Random Access Memory

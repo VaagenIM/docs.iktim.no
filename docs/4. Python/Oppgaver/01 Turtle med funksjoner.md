@@ -1,8 +1,12 @@
 ---
 title: 01 Turtle med funksjoner
-alias: Turtle med funksjoner
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Turtle med funksjoner,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Python
+date: 2022-04-09
 ---
 # Turtle med funksjoner
 Vi har sett på Python pakken [[Turtle]], et forenklet underspråk laget i [[Python]]. En skilpadde som tar fysisk logiske kommandoer som forward, right, left, backward. Vi installerer Turtle ved å åpne [[Konsollvindu]], på mac heter dette [[Terminal]], Windows [[Kommandolinjeverktøy]] (CMD). Der skriver vi koden for "Python Install Package", som er `pip install turtle`. 

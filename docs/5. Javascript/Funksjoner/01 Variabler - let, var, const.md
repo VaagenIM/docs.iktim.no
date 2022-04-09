@@ -1,8 +1,12 @@
 ---
 title: Variabler - let, var, const
-alias: Javascript variabler
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Javascript variabler,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Javascript
+date: 2022-04-09
 ---
 # Variabler - let, var, const
 I Javascript er det tre forskjellige måter å opprette variabler på.

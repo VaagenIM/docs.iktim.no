@@ -1,8 +1,14 @@
 ---
 title: 01 Node Javascript - Installasjon og oppsett i IDE
-alias: NodeJS - Installasjon og oppsett i IDE
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [NodeJS - Installasjon og oppsett i IDE,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - IDE
+  - Editor
+  - Javascript
+date: 2022-04-09
 ---
 # Installasjon og oppsett av IDE
 Her er noen gode tips for å komme i gang med JavaScript programmering.

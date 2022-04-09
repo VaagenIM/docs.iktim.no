@@ -1,12 +1,14 @@
 ---
 title: Etisk Hacking
 aliases: [Etisk Hacking,]
-author: Sondre Grønås
+lang: nb-NO
+author:
+  - Sondre Grønås
 tags:
   - Hacking
   - Linux
   - Cybersikkerhet
-created: 03 April 2022
+date: 2022-04-09
 ---
 # Etisk Hacking
 I denne fanen vil det være fokus på cybersikkerhet, konsepter for hacking og etiske øvelser.

@@ -1,7 +1,11 @@
 ---
 title: Nettverksport
-alias: Nettverksport
-author: Sondre Grønås
-created: 26 March 2022
+aliases: [Nettverksport,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Nettverksport

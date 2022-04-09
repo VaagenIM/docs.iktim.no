@@ -1,8 +1,13 @@
 ---
 title: Ditt eget nettsted!
-alias: HTML Nettside
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [HTML Nettside,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - HTML
+  - Oppgave
+date: 2022-04-09
 ---
 # Ditt eget nettsted!
 Din oppgave er å lage ditt eget personlige nettsted ved bruk av oppmerkingsspråkene [[HTML]] og [[CSS]].

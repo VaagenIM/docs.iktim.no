@@ -1,8 +1,13 @@
 ---
 title: HTML og CSS
-alias: HTML og CSS
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [HTML og CSS,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - HTML
+  - CSS
+date: 2022-04-09
 ---
 # HTML og CSS
 I arbeid

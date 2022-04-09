@@ -1,9 +1,11 @@
 ---
 title: L33T Speak
-alias: [L33T Speak,]
-author: Sondre Grønås
+aliases: [L33T Speak,]
+lang: nb-NO
+author:
+  - Sondre Grønås
 tags:
-  - missing
-created: 04 April 2022
+  - Definisjon
+date: 2022-04-09
 ---
 # L33T Speak

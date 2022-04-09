@@ -1,8 +1,14 @@
 ---
 title: 04 Express HTML - Pug Templating
-alias: Express HTML - Pug Templating
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Express HTML - Pug Templating,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Javascript
+  - HTML
+  - Pug
+date: 2022-04-09
 ---
 # Express HTML - Pug Templating
 Nå skal vi se på en Templating Engine som heter [pug](https://pugjs.org/) - hva er en [[Templating Engine]] spør du? Jo - det er rett å slett noe som tar imot en form for innhold, og genererer en mer komplisert versjon. Den kan også ta imot verdier, som er grunnen til at en templating engine er nyttig.

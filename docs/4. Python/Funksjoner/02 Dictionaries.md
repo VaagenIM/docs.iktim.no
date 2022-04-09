@@ -1,8 +1,12 @@
 ---
 title: 02 Dictionaries
-alias: Dictionaries
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Dictionaries,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Python
+date: 2022-04-09
 ---
 # Dictionaries
 Kommer fra det flotte engelske ordet for ordbok. Det er på mange måter likt som [[03 Tuples og lister]] - men det skiller seg ut ved at det bruker nøkler. Det er et veldig universelt format på lik linje som [[JSON]] - et skriftlig dataformat typ-excel fil, men for datamaskiner.

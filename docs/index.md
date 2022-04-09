@@ -1,8 +1,12 @@
 ---
 title: Hjem
-alias: Hjem
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Hjem,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Hjem
+date: 2022-04-09
 ---
 # Fagboka til Vågenelevene i 1IM
 Her jobbes det med å skape noe oversikt!

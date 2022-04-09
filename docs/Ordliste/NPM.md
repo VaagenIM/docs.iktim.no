@@ -1,7 +1,11 @@
 ---
 title: NPM
-alias: NPM
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [NPM,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # NPM

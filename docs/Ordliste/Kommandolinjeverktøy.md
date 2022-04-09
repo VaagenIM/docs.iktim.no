@@ -1,7 +1,11 @@
 ---
 title: Kommandolinjeverktøy
-alias: Kommandolinjeverktøy
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Kommandolinjeverktøy,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Definisjon
+date: 2022-04-09
 ---
 # Kommandolinjeverktøy

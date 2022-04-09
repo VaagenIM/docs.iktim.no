@@ -1,8 +1,12 @@
 ---
 title: Data
-alias: Data
-author: Sondre Grønås
-created: 28 March 2022
+aliases: [Data,]
+lang: nb-NO
+author:
+  - Sondre Grønås
+tags:
+  - Data
+date: 2022-04-09
 ---
 # Data
 Her vil det være informasjon om datamaskinen, dens konsepter og komponenter.

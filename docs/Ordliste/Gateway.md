@@ -1,11 +1,13 @@
 ---
 title: Gateway
-alias: [Gateway,]
-author: Sondre Grønås
+aliases: [Gateway,]
+lang: nb-NO
+author:
+  - Sondre Grønås
 tags:
+  - Definisjon
   - Nettverk
   - IP
-  - Definisjon
-created: 04 April 2022
+date: 2022-04-09
 ---
 # Gateway
