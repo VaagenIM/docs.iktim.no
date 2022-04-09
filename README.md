@@ -24,10 +24,11 @@ Filer kan starte slik, `01 Min side`. Gjerne bruk følgende [Template](https://g
 ---
 title: <%* tR += `${tp.file.title}` %>
 aliases: [<%* tR += `${tp.file.title}` %>,]
-author: Ditt Navn
+author: 
+  - Ditt Navn
 tags:
   - 
-created: <% tp.date.now("DD MMMM YYYY") %>
+date: <% tp.date.now("DD MMMM YYYY") %>
 ---
 # <%* tR += `${tp.file.title}` %>
 <% tp.file.cursor() %>
