@@ -13,7 +13,6 @@ I motsetning til Python, har NodeJS litt mer avanserte syntakser som kan være l
 
 I denne oppskriften skal vi lage et Express prosjekt som viser teksten "Hello Node!"
 
----
 ## Steg 1: Hello World, konsoll
 Opprett en ny mappe på maskinen din og kall denne for HelloNode
 
@@ -34,7 +33,6 @@ Her skriver vi `node app.js`.
 Hvis alt har gått etter planen, vil du nå få opp teksten "Hello Node!"
 Dette er et godt tegn på at alt er installert, bra jobba!
 
----
 ## Steg 2: Opprett et Node prosjekt
 Nå som vi har et prosjekt gående i vår [[IDE]], er det på tide å erklære prosjektet som et node prosjekt. Dette gjøres i terminalen i samme mappe (samme sted hvor man kjørte `node app.js`).
 
@@ -44,7 +42,6 @@ Her vil man få opp mange valg, men med standardvalg satt i parantes. Her trenge
 
 Du skal nå kunne se en ny fil i mappen; `package.json`. Dette er filen som inneholder all relevant prosjektdata.
 
----
 ## Steg 3: Installer `express` npm modul
 [Express](https://expressjs.com/) er et rammeverk for web- og mobilapplikasjoner som brukes til å "servere" filer i nettleseren. Express benytter seg av [[HTTP Metoder]] som [[GET]] og [[POST]] til å formidle data.
 
@@ -52,7 +49,6 @@ For å installere modulen, må man kjøre en enkel kommando i terminalen. Vi bru
 
 Mappen `node_modules` og filen `package-lock.json` skal nå dukke opp i prosjektmappa.
 
----
 ## Steg 4: Hello Node, fra Express
 Vi skal nå endre `app.js` til å sende "Hello Node!" fra Express i en nettleser, istedetfor konsollen.
 
@@ -74,7 +70,6 @@ app.listen(3000)
 
 Denne skal ligge **nederst** i dokumentet.
 
----
 ### Legg inn HTTP metode
 Nå har vi satt opp en express server, men innholdet er likevel tomt. For å legge til innhold, er vi først nødt til å definere en HTTP metode som express skal lytte på.
 
@@ -101,7 +96,6 @@ Her er en forklaring på hva de ulike delene gjør:
 - `(request, response) => {...})` Er en funksjon med variablene `request` og `response`. Inne i `request` ligger det mye data som for eksempel hvilken nettleser som er brukt, hvilken enhet og hvilket nettsted som er forsøkt å besøke. `response` brukes til å sende data tilbake.
 - `{ response.send('Hello Express!') })` er funksjonen som utføres når noen besøker `/`, som er hjemmesiden. Her vil serveren sende tilbake "Hello Express!" hver gang noen besøker hjemmesiden.
 
----
 ### Sett det sammen
 Nå har vi sett på de ulike komponente vi trenger for å opprette en express-app. Til slutt skal vi sitte igjen med følgende kode:
 
@@ -118,6 +112,5 @@ app.listen(3000)
 
 Hvis vi nå kjører koden ved å bruke kommando `node app.js` i terminalen, kan vi besøke nettsiden på http://localhost:3000 og se vår Hello Express!
 
----
 ## Utfordring / Oppgave
 Se nå om du klarer, utifra teksten over, å vise teksten "Du fant meg!" når vi besøker nettadressen http://localhost:3000/paaske-egg

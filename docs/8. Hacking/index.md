@@ -15,7 +15,6 @@ I denne fanen vil det være fokus på cybersikkerhet, konsepter for hacking og e
 
 Merk at hacking er en alvorlig kriminell aktivitet når det utføres uten tillatelse - men oppfordret av store teknologiske giganter innforbi deres rammer.[@winderAppleConfirmsIPhone] En av sidene hvor det lyses ut dusør til hackere er [HackerOne | Hacker-Powered Security, Bug Bounties, and Pentests](https://www.hackerone.com/)
 
----
 ## Ressurser
 - Læreressurs: [YouTube - John Hammond](https://www.youtube.com/c/JohnHammond010/videos)
 - Læreressurs: [YouTube - Loi Liang Yang](https://www.youtube.com/c/LoiLiangYang/videos)

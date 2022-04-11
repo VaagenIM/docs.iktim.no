@@ -15,7 +15,6 @@ Nå skal vi se på en Templating Engine som heter [pug](https://pugjs.org/) - hv
 
 Formålet med det er å konvertere noe vanskelig, tidkrevende, eller begge deler - til noe enklere og mer programmeringsvennlig.
 
----
 ## Installasjon av pugjs
 For å installere pugjs, må vi gå inn i terminalen i vårt node prosjekt og skrive følgende kommando:
 ```
@@ -30,7 +29,6 @@ const app = express()
 app.set('view engine', 'pug')
 ```
 
----
 ## Eksempel med og uten pug
 Til vanlig kan vi bruke `response.send(<innhold>)` for å sende tilbake innhold når en forsøker å nå en ressurs på vår Express app. Det vi legger i `<innhold>`, vil bli sendt til nettleseren. Ønsker vi derfor å sende ut en HTML side, må vi derfor sende hele HTML koden, slik som dette:
 
@@ -72,7 +70,6 @@ app.get('/', function (request, response) {
 
 Resultatet? Helt likt som det over!
 
----
 ## Legge til style.css
 I tradisjonell HTML, så bruker vi en `<link>` tag til å importere CSS kode. Det gjør vi ikke i Pug. I stedet legger vi til hele `style.css` filen inn i en og en fil ved å bruke `include` funksjonen.
 
@@ -87,7 +84,6 @@ html
     h1 Velkommen
 ```
 
----
 ## Sende variabler til Pug
 Nå kommer vi tilbake til `(, {data})` - det kule med pug er at vi kan sende data til våre `.pug` filer fra NodeJS, som for eksempel kan være hentet fra en [[Cookie]]. Vi skal komme tilbake til cookies senere. Pug tar imot vanlig Objekt, eller [[JSON]] data.
 
@@ -114,7 +110,6 @@ html
     h1 Velkommen, #{brukernavn}. Din e-post konto, #{email}, har #{nymail} nye beskjeder. 
 ```
 
----
 ## Class og ID
 Til vanlig i HTML bruker vi `class=""` og `id=""` mye i våre tagger for å kunne selektere elementer i [[CSS]], f.eks. `<h1 class="tittel">Min Tittel</h1>` får CSS selektoren `.tittel {<css her>}`. I pug gjøres dette før du legger til innholdet:
 ```pug
@@ -132,7 +127,6 @@ html
 		p Innhold i divven med ID div2
 ```
 
----
 ## Attributter i Pug
 Attributter, eller nøkler og verdier i elementer: `<a nøkkel="verdi" nøkkel2="verdi2">`, legges til i paranteser. For eksempel en lenke:
 ```pug
@@ -150,7 +144,6 @@ body
 		button <a href="/login">Logg inn</a>
 ```
 
----
 ## Layouts
 En enda kulere ting, er at pug kan bygge på andre pugger. Det betyr at vi kan ha en pug som er mal for nettsiden, og en pug som er bare innholdet. Lettest å se med eksempel:
 
@@ -189,13 +182,11 @@ app.get('/', function (request, response) {
 })
 ```
 
----
 ## Det finnes mye mer, Google er kongen!
 Dette er bare et lite fnugg av hva som er mulig med Pug. Du kan gjøre loops (Vis alle søkeresultater for ...), gjøre IF statements (Hvis loggetinn = sant, hvis X).
 
 Dette skal legges inn på siden senere, for nå må du google!
 
----
 ## Les mer
 [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
 [Jinja — Jinja Documentation (3.1.x)](https://jinja.palletsprojects.com/en/3.1.x/)

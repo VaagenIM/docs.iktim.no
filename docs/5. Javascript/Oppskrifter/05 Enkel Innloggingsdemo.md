@@ -13,7 +13,6 @@ Ut ifra det vi nå har lært om [[04 Express HTML - Pug Templating|Pug Templatin
 
 Verdt å merke så er dette IKKE en sikker måte å gjøre ting på, men det synliggjør mer avanserte problemstillinger vi må ta henhold til senere.
 
----
 ## Sett opp en Login side (GET-metode)
 I vår `app.js` må vi legge inn en ny side hvor vår app lytter på [[GET]] forespørsler til en ny side, `/login`, som viser innholdet i en ny Pug vi lager, `views/login.pug`. Innholdet må være et skjema som sender vår innloggingsinformasjon tilbake til vår Express [[Backend]]. Dette gjøres i form av et HTML `<form>` ([W3schools - HTML Forms](https://www.w3schools.com/html/html_forms.asp)).
 
@@ -69,7 +68,6 @@ app.get('/auth', (request, response) => {
 })
 ```
 
----
 ## POST metode
 Nå har vi sett på GET metoden for å sende data, som legger inn dataen direkte i URL'en, `?nøkkel=verdi&nøkkel2=verdi2&nøkkel3=verdi3`. Nå skal vi se på POST metoden, som sender dataen "bak kulissene".
 

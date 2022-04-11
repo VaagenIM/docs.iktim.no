@@ -1,0 +1,5 @@
+h2{
+	border-bottom: .05rem solid var(--md-default-fg-color--lightest);
+	display: flow-root;
+	padding-bottom: 0.25rem;
+}

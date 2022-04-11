@@ -16,7 +16,6 @@ npm-watch sin oppgave er å restarte ditt prosjekt hver gang den merker endringe
 
 Når du er ferdig, vil du kunne bruke `npm run watch` til å kjøre koden din, istedetfor å bruke `node app.js`. Fordelen med å bruke `npm run watch` er at `npm-watch` oppdaterer og kjører koden din automagisk hver gang etter du har gjort endringer, slik at du sparer mye tid.
 
----
 ## Oppsett av `npm-watch`:
 For å installere npm-watch kjører vi følgende kommando i prosjektet vårt sin terminal: `npm install npm-watch`
 
