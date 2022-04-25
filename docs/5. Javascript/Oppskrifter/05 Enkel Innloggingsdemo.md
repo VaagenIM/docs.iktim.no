@@ -40,7 +40,7 @@ html
 			input(type="password" placeholder="Passord" name="password")
 			br
 			input(type="submit" value="Logg inn")
-		h1 Ikke registrert? <a href="/register">Registrer deg da vel</a>.
+		h1 Ikke registrert? <a href="/signup">Registrer deg da vel</a>.
 ```
 
 Dette vil generere en HTML side med 2 tekstfelt og en "Logg inn" knapp. Skjemaet bruker parametrene `(action="/auth" method="get")`, som sier noe om hvordan skjema-dataen vil bli behandlet. I dette tilfelle vil den generere og gå til en lenke: `/auth?name=value&name2=value2`. Vi bruker 2 ulike `name` verdier, `username` og `password`. `value` kommer av hva bruker har skrevet inn.
@@ -61,9 +61,9 @@ app.get('/auth', (request, response) => {
 
 	// Sjekk om data stemmer
 	if (brukernavn == "Ole" && passord == "123"){
-		res.send("Velkommen inn, Ole!")
+		response.send("Velkommen inn, Ole!")
 	} else {
-		res.send("Feil brukernavn eller passord")
+		response.send("Feil brukernavn eller passord")
 	}
 })
 ```
@@ -88,7 +88,7 @@ html
 			input(type="password" placeholder="Passord" name="password")
 			br
 			input(type="submit" value="Logg inn")
-		h1 Ikke registrert? <a href="/register">Registrer deg da vel</a>.
+		h1 Ikke registrert? <a href="/signup">Registrer deg da vel</a>.
 ```
 
 I `app.js` må vi også endre fra `get` til `post` forespørsler. Det er heller ikke verre enn å bytte ut `.get()` med `.post()` - forskjellen her blir bare hvor vi henter verdiene fra. Nå kommer de ikke fra forespørselen ([[Query]]), men fra en annen usynlig forespørsel med innhold. Nettleseren sender altså et brev (post) av innhold bak kulissene, og det som blir lest av er `body` delen av brevet, som på norsk kan oversettes til innhold. `request.query` (URL, GET) blir derfor byttet ut med `request.body` (POST)
@@ -101,9 +101,15 @@ app.post('/auth', (request, response) => {
 
 	// Sjekk om data stemmer
 	if (brukernavn == "Ole" && passord == "123"){
-		res.send("Velkommen inn, Ole!")
+		response.send("Velkommen inn, Ole!")
 	} else {
-		res.send("Feil brukernavn eller passord")
+		response.send("Feil brukernavn eller passord")
 	}
 })
+```
+
+## Tips
+Hvis man vil unngå å måtte skille mellom små og store bokstaver, så kan man bruke `.toLowerCase()` funksjonen. Merk at brukernavnet må da også lagres med små bokstaver.
+```javascript
+var brukernavn = request.body.username.toLowerCase()
 ```
