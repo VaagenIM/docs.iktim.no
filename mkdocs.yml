@@ -58,7 +58,6 @@ plugins:
         bib_file: "refs/docs.iktim.no.bib"
         csl_file: "refs/harvard.csl"
     - include_dir_to_nav:
-        flat: true
         file_name_as_title: true
     - exclude:
         glob:
