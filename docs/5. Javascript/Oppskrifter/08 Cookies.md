@@ -9,7 +9,7 @@ tags:
   - Cookie
 date: 2022-04-25
 ---
-# 08 Cookies
+# Cookies
 Forklaring kommer snart. [[Cookie]]
 
 `npm install express-session`

@@ -1,5 +1,5 @@
 ---
-title: 10. Publiser i skya
+title: 10 Publiser i skya
 aliases: [Publiser i skya]
 lang: nb-NO
 author:

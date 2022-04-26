@@ -8,7 +8,7 @@ tags:
   - Javascript
 date: 2022-04-09
 ---
-# 07 Express - Brukerregistrering
+# Express - Brukerregistrering
 Nå som vi har sett på hvordan man bruker en [[JSON]] database i Javascript, skal vi se på noe som tar det opp enda flere hakk - nemlig prosessen av å legge til innhold i en JSON database. Vi må dog og sette opp en side for å registrere vår bruker.
 
 Heldigvis for oss, er det ikke noe verre enn når vi skrev inn vår `.json` fil manuelt, og skrive 2 linjer av kode som lagrer den. Vi trenger kun å importere `fs` modulen og bruke kommandoen `fs.writeFileSync(_filbane_, JSON.stringify(_database_))`

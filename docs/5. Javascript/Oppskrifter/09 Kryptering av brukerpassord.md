@@ -1,6 +1,6 @@
 ---
-title: 08 Kryptering av brukerpassord
-aliases: [09 Kryptering av brukerpassord,]
+title: 09 Kryptering av brukerpassord
+aliases: [Kryptering av brukerpassord,]
 lang: nb-NO
 author:
   - Sondre Grønås
@@ -8,7 +8,7 @@ tags:
   - Javascript
 date: 2022-04-09
 ---
-# 08 Kryptering av brukerpassord
+# Kryptering av brukerpassord
 Dette er UTROLIG viktig, og er et lovbrudd dersom man lar være å kryptere data i ekte bruksområder. Det er heller ikke så vanskelig.
 
 Dokumentet er ikke ferdig.
