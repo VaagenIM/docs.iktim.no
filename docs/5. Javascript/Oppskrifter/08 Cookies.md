@@ -1,6 +1,6 @@
 ---
 title: 08 Cookies
-aliases: [08 Cookies,]
+aliases: [Cookies,]
 lang: nb-NO
 author:
   - Sondre Grønås
@@ -32,10 +32,10 @@ app.post('/auth', (request, response) => {
 	var brukernavn = request.body.username
 	var passord = request.body.password
 
-	var database = require('database.json')["users"][brukernavn]
+	var database = require('./database.json')
 
 	// Sjekk om data stemmer
-	if (brukernavn == database["username"] && passord == database["password"]){
+	if (brukernavn == database["users"][brukernavn] && passord == database["users"][brukernavn]["password"]){
 		// Hvis login info er korrekt, legg til i cookie:
 		request.session.loggedin = true
 		request.session.name = brukernavn

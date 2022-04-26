@@ -91,10 +91,20 @@ html
 		h1 Ikke registrert? <a href="/signup">Registrer deg da vel</a>.
 ```
 
+For å kunne lese `post` forespørsler er vi nødt til å definere at vi leser `post`forespørsler i [[JSON]] format - dette gjør vi ved å legge inn følgende kommando, der hvor vi definerer `'view engine', 'pug'`:
+
+```javascript
+app.use(express.json())
+app.use(express.urlencoded({ extended: true }))
+```
+
 I `app.js` må vi også endre fra `get` til `post` forespørsler. Det er heller ikke verre enn å bytte ut `.get()` med `.post()` - forskjellen her blir bare hvor vi henter verdiene fra. Nå kommer de ikke fra forespørselen ([[Query]]), men fra en annen usynlig forespørsel med innhold. Nettleseren sender altså et brev (post) av innhold bak kulissene, og det som blir lest av er `body` delen av brevet, som på norsk kan oversettes til innhold. `request.query` (URL, GET) blir derfor byttet ut med `request.body` (POST)
 
 `app.js`
 ```js
+app.use(express.json())
+app.use(express.urlencoded({ extended: true }))
+
 app.post('/auth', (request, response) => {
 	var brukernavn = request.body.username
 	var passord = request.body.password

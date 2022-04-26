@@ -11,7 +11,6 @@ date: 2022-04-09
 # 06 Innlogging via JSON Database
 Når vi skal behandle større mengder data lagres disse ofte i [[03. Datasystem, SQL|Databaser]], et format som er vanlig å bruke i programmering er [[JSON|JSON]] formatet. Det er en tekstfil med data hvor verdier får en nøkkel som inneholder eventuelt flere verdier, dette kalles for [[Nesting]].
 
-
 ## Opprett en databasefil
 Lag en ny fil i prosjektmappen og kall denne for `database.json`. Her må vi tenke oss frem til et design av vår database. I tilfellet med innlogging så kan vet vi at vi trenger følgende verdier:
 - Liste over `users`
@@ -47,12 +46,11 @@ Merk at man kan legge til flere verdier, separert med komma:
 }
 ```
 
-
 ## Importer i Javascript
-For å importere filen er det mange måter å gjøre det på, den enkleste er å bruke `require('filnavn')` funksjonen, som vil returnere filens innhold. Vi kan navigere oss inn i databasen ved å spesifisere hvilken nøkkel vi vil ha:
+For å importere filen er det mange måter å gjøre det på, den enkleste er å bruke `require('./filnavn')` funksjonen, som vil returnere filens innhold. Merk at vi må bruke `./` for å definere at filen ligger i vår rotmappe. Vi kan navigere oss inn i databasen ved å spesifisere hvilken nøkkel vi vil ha:
 
 ```javascript
-const database = require('database.json')
+const database = require('./database.json')
 console.log(database["users"]["test"]["password"])
 
 // Output: password
@@ -63,7 +61,7 @@ Vi tar utgangspunkt i vår `app.post('/auth')` funksjon vi lagde i forrige kapit
 `app.js`
 ```javascript
 app.post('/auth', (request, response) => {
-	var database = require('database.json')
+	var database = require('./database.json')
 
 	var brukernavn = request.body.username
 	var passord = request.body.password
@@ -81,19 +79,18 @@ app.post('/auth', (request, response) => {
 ```
 
 Koden vil nå:
-1. Laste inn databasefilen (Lese den)
-2. Definere brukernavnet utifra innloggingsforespørselen, lagres til `brukernavn`
-3. Definere passordet utifra innloggingsforespørselen, lagres til `passord`
-4. Forsøke å hente verdien til nøkkelen `"username"`, inne i nøkkelen: `"users"` inne i brukernavnet - lagres til `db_brukernavn`
-5. Forsøke å verdien til nøkkelen `"password"` inne i nøkkelen: `"users"` inne i brukernavnet - lagres til `db_passord`
-6. Sjekk om `brukernavn == db_brukernavn` og `passord == db_passord`
-7. Hvis ja, gjør X, hvis ikke, gjør Y
-
+- Laste inn databasefilen (Lese den)
+- Definere brukernavnet utifra innloggingsforespørselen, lagres til `brukernavn`
+- Definere passordet utifra innloggingsforespørselen, lagres til `passord`
+- Forsøke å hente verdien til nøkkelen `"username"`, inne i nøkkelen: `"users"` inne i brukernavnet - lagres til `db_brukernavn`
+- Forsøke å verdien til nøkkelen `"password"` inne i nøkkelen: `"users"` inne i brukernavnet - lagres til `db_passord`
+- Sjekk om `brukernavn == db_brukernavn` og `passord == db_passord`
+- Hvis ja, gjør X, hvis ikke, gjør Y
 
 ## Tips
 For å gjøre koden litt mindre, kan vi definere hvilken del av databasen vi vil ønsker. Denne koden vil gjøre det samme som den over, men med mindre kompleksitet ettersom vi starter fra en definert nøkkel:
 ```javascript
-const database = require('database.json')["users"]
+const database = require('./database.json')["users"]
 console.log(database["test"]["password"])
 ```
 
@@ -104,7 +101,7 @@ app.post('/auth', (request, response) => {
 	var brukernavn = request.body.username
 	var passord = request.body.password
 
-	var database = require('database.json')["users"][brukernavn]
+	var database = require('./database.json')["users"][brukernavn]
 
 	// Sjekk om data stemmer
 	if (brukernavn == database["username"] && passord == database["password"]){

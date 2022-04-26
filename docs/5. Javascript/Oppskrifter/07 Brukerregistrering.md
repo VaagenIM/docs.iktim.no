@@ -28,9 +28,8 @@ var db = {
 }
 
 // Lagre db til database.json
-fs.writeFileSync('database.json', JSON.stringify(db))`
+fs.writeFileSync('./database.json', JSON.stringify(db))`
 ```
-
 
 ## Legge til en verdi på eksisterende database
 Når vi skal for eksempel legge til en ny bruker i vår JSON database, må vi først importere vår database, bekrefte at brukeren ikke allerede eksisterer og så legge den til, så lagre.
@@ -46,7 +45,7 @@ const fs = require('fs')
 
 // Legges nede
 app.post('/signup', (request, response) => {
-	var db = require('database.json')
+	var db = require('./database.json')
 
 	var brukernavn = request.body.username
 	var passord = request.body.password
@@ -60,7 +59,7 @@ app.post('/signup', (request, response) => {
 		}
 		
 		// Lagre databasen
-		fs.writeFileSync('database.json', JSON.stringify(db))
+		fs.writeFileSync('./database.json', JSON.stringify(db))
 		
 		// Send videre til innlogging
 		response.redirect('/login')
@@ -72,12 +71,12 @@ app.post('/signup', (request, response) => {
 ```
 
 Her gjør koden følgende:
-1. Importer databasen
-2. Hent ut verdiene brukernavn og passord fra en `form` forespørsel
-3. Sjekk at databasen ikke har verdien `brukernavn` i `"users"`, hvis den finnes, send beskjed om det.
-4. Legg til nøkkelen `brukernavn` med nøklene og verdiene til `username` og `password`
-5. Lagre filen med endringene
-6. Send bruker videre til `/login`
+- Importer databasen
+- Hent ut verdiene brukernavn og passord fra en `form` forespørsel
+- Sjekk at databasen ikke har verdien `brukernavn` i `"users"`, hvis den finnes, send beskjed om det.
+- Legg til nøkkelen `brukernavn` med nøklene og verdiene til `username` og `password`
+- Lagre filen med endringene
+- Send bruker videre til `/login`
 
 Merk at koden tar utgangspunkt i at `database.json` eksisterer og er satt opp med riktig struktur. Strukturen som er minimum er: `{"users":{}}`
 
@@ -85,13 +84,12 @@ Et alternativ er å generere strukturen dersom `database.json` ikke finnes:
 ```javascript
 app.post('/signup', (request, response) => {
 	  var db = {}
-	  try   { db = require('database.json') }
+	  try   { db = require('./database.json') }
 	  catch { db = {"users":{}} }
 	  // catch kjører, HVIS try gir feilmelding
 	  // Resten av koden her ...
 }
 ```
-
 
 ## Tegn en registreringsside
 Vi har allerede sett på hvordan vi lager en innloggingsside, en registreringsside er jo på mange måter ganske lik.
@@ -124,7 +122,6 @@ app.get('/signup', (request, response) => {
 })
 ```
 
-
 ## Tips
 Som i tipset i [[05 Enkel Innloggingsdemo]] så kan det være lurt å bruke funksjonen `.toLowerCase()` når man skal lagre brukernavnet, for å ikke måtte skille mellom store og små bokstaver i brukernavnet:
 ```javascript
@@ -138,7 +135,6 @@ if (!db["users"][brukernavn_lower])
 	}
 	// ...
 ```
-
 
 ## Utfordring
 Utifra det du har lest om i dette kapittelet, klarer du å legge til mer informasjon som kan lagres i databasen? For eksempel brukerens e-post, eller telefonnummer?
