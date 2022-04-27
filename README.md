@@ -8,7 +8,7 @@ Last ned GitHub repo'et via https://desktop.github.com/ (Via programmet, ikke ne
 Bruk en markdown editor, for eksempel https://obsidian.md/<br>
 Alternativt kan du og sette opp Obsidian til å bruke Git ved å følge denne oppskriften: https://github.com/denolehov/obsidian-git<br>
 <br><br>
-Oppskrift på kilde-referering kommer. Her brukes det Zotero med Better BibTeX, med Pandoc som siteringsformat (inkl. braketter). Zotero link er https://www.zotero.org/groups/docs.iktim.no
+Oppskrift på kilde-referering kommer. Her brukes det Zotero med Better BibTeX, med Pandoc som siteringsformat (inkl. braketter). Zotero link er https://www.zotero.org/groups/docs.iktim.no Citation_Key format i Better BibTex er `[zotero]`
 <br>
 Anbefalte plug-ins: Templater, Citations, Auto Link Title, Tag Wrangler.
 <br>

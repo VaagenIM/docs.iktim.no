@@ -55,8 +55,8 @@ plugins:
     - roamlinks
     - git-revision-date-localized
     - bibtex:
-        bib_file: "refs/docs.iktim.no.bib"
-        csl_file: "refs/harvard.csl"
+        bib_url: "https://api.zotero.org/groups/4658815/items?format=bibtex"
+        csl_file: "harvard.csl"
     - include_dir_to_nav:
         file_name_as_title: true
     - exclude:
