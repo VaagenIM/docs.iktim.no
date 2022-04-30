@@ -51,18 +51,19 @@ Prosjektet støtter og innbygging av YouTube videoer, ved å bruke "Del YouTube"
 
 ---
 ## Hostes via Docker
-Nettsiden holdes oppe av Docker. Se `Dockerfile` for å se hva containeren gjør :)
+Nettsiden holdes oppe av Docker.
 <br><br>
 `docker-compose.yml`:
 ```
 version: "3.3"
 services:
   updater:
-    build: https://raw.githubusercontent.com/VaagenIM/docs.iktim.no/main/Dockerfile
+    image: sondregronas/mkdocs-updater
     restart: unless-stopped
     volumes:
-      - content:/docs/site
-
+      - content:/site
+    environment:
+      - REPO=https://github.com/VaagenIM/docs.iktim.no
   http:
     image: nginx:latest
     volumes:
