@@ -10,7 +10,7 @@ Alternativt kan du og sette opp Obsidian til å bruke Git ved å følge denne op
 <br><br>
 Oppskrift på kilde-referering kommer. Her brukes det Zotero med Better BibTeX, med Pandoc som siteringsformat (inkl. braketter). Zotero link er https://www.zotero.org/groups/docs.iktim.no Citation_Key format i Better BibTex er `[zotero]`
 <br>
-Anbefalte plug-ins: Templater, Citations, Auto Link Title, Tag Wrangler.
+Anbefalte plug-ins: Templater, Zotero Desktop Connector, Auto Link Title, Tag Wrangler.
 <br>
 Åpne Vaultet `docs` i Obsidian, endringer du gjør i Obsidian vil automatisk havne i GitHub Desktop.<br>
 For å sende inn dine forslag, trykker du "Commit" inne i GitHub Desktop.
@@ -58,8 +58,7 @@ Nettsiden holdes oppe av Docker. Se `Dockerfile` for å se hva containeren gjør
 version: "3.3"
 services:
   updater:
-    build:
-      context: https://raw.githubusercontent.com/VaagenIM/docs.iktim.no/main/Dockerfile
+    build: https://raw.githubusercontent.com/VaagenIM/docs.iktim.no/main/Dockerfile
     restart: unless-stopped
     volumes:
       - content:/docs/site
