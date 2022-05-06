@@ -25,7 +25,7 @@ extra:
       link: https://github.com/sondregronas
       name: "@sondregronas"
     - icon: fontawesome/solid/paper-plane
-      link: mailto:sondre.gronas@skole.rogfk.no
+      link: mailto:mail@iktim.no
 
 extra_css: 
     - extra.css
