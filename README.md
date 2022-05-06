@@ -78,5 +78,4 @@ volumes:
 Startes med: `docker-compose up -d`. Nettsiden vil kjøre på port 3000 og automatisk hente oppdateringer hver 2. time.
 
 ## Tekniske utfordringer
-Siden støtter foreløpig ikke [Obsidian / Microsoft Callouts](https://help.obsidian.md/How+to/Use+callouts) - bare [Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#usage), for å generere Info/Note/Warning bokser.
-<br>Håper å finne en bedre Zotero integrasjon med Obsidian.
+Håper å finne en bedre Zotero integrasjon med Obsidian - men det funker helt greit.

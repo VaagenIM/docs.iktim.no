@@ -52,6 +52,7 @@ markdown_extensions:
 plugins:
     - search
     - tags
+    - callouts_to_admonitions
     - roamlinks
     - git-revision-date-localized
     - bibtex:
