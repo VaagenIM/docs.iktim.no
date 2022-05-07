@@ -5,4 +5,4 @@ mkdocs-include-dir-to-nav
 mkdocs-exclude
 git+https://github.com/sondregronas/mkdocs-bibtex@master
 mkdocs-git-revision-date-localized-plugin
-mkdocs-callouts-to-admonitions
+mkdocs-callouts
