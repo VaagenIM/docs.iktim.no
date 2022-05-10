@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block styles %}
+    {{ super() }}
+	<link rel="stylesheet" href="{{ base_url }}/assets/css/extra.css">
+	<link rel="stylesheet" href="{{ base_url }}/assets/css/scrollbar.css">
+{% endblock styles %}
+
+{% block scripts %}
+    {{ super() }}
+	<script src="{{ base_url }}/assets/js/mkdocs-to-lightbox.js"></script>
+	<script src="{{ base_url }}/assets/js/fslightbox.js"></script>
+	<script src="{{ base_url }}/assets/js/tex-mml-chtml.js"></script>
+{% endblock scripts %}
