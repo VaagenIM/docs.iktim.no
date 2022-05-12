@@ -6,6 +6,8 @@ name: CI
 on:
   push:
     branches: [ main ]
+  schedule:
+    - cron: '0 8 * * 1-5'
 
 jobs:
   build:
@@ -17,8 +19,8 @@ jobs:
     - uses: actions/checkout@v3
     - name: Set up Pandoc
       run: |
-        apt-get update
-        apt-get install -y --no-install-recommends pandoc pandoc-citeproc
+        sudo apt-get update
+        sudo apt-get install -y --no-install-recommends pandoc pandoc-citeproc
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
