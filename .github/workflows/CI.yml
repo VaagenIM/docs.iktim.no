@@ -1,19 +1,18 @@
-# Sjekk at plug-ins fremdeles virker som de skal
-
 name: CI
+
+# Sjekk at plug-ins fremdeles virker som de skal,
+# hvis ikke: varsle på mail.
 
 on:
   push:
     branches: [ main ]
 
-permissions:
-  contents: read
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: read
+      packages: write
     steps:
     - uses: actions/checkout@v3
     - name: Set up Pandoc
