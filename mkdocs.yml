@@ -15,8 +15,8 @@ theme:
         scheme: slate
         primary: light blue
         accent: cyan
-    logo: https://iktim.no/favicon.png
-    favicon: https://iktim.no/favicon.png
+    logo: https://iktim.no/favicon.ico
+    favicon: https://iktim.no/favicon.ico
 
 extra:
   generator: false
