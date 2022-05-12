@@ -16,6 +16,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - name: Set up Pandoc
+      run: |
+        apt-get update
+        apt-get install -y --no-install-recommends pandoc pandoc-citeproc
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
