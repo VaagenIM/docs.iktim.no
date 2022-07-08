@@ -1,6 +1,6 @@
 ---
 title: 04 Classes
-aliases: [Class,]
+aliases: [Class,Classes]
 lang: nb-NO
 author:
   - Sondre Grønås
