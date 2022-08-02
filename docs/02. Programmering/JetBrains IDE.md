@@ -30,7 +30,7 @@ Alt innen webutvikling og webdesign
 https://www.jetbrains.com/webstorm/
 
 ## IntelliJ IDEA (Javascript)
-For[Node.js](https://nodejs.org/en/) (eller [Bun](https://bun.sh/)) prosjekter
+For [Node.js](https://nodejs.org/en/) (eller [Bun](https://bun.sh/)) prosjekter
 https://www.jetbrains.com/idea/
 
 ## DataGrip (Databaser)

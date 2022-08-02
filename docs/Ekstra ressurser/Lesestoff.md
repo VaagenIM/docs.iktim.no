@@ -15,12 +15,14 @@ Her er en liste av nettsider og blogger som er verdt å holde et øye med, kateg
 ## Dagsaktuelle tema / Blogger 
 - [https://nrkbeta.no/](https://nrkbeta.no/) 
 - [https://www.jeffgeerling.com/blog](https://www.jeffgeerling.com/blog) 
+- https://www.arjancodes.com/
 
 ## Nettverk 
 - [https://www.crosstalksolutions.com/blog/](https://www.crosstalksolutions.com/blog/) 
 
 ## Programmering 
 - [https://refactoring.guru/](https://refactoring.guru/) - Teknikker, design og strukturer (Refactoring) av programmering 
+	- [Factory Method](https://refactoring.guru/design-patterns/factory-method)
 - **Clean Code** - A Handbook of Agile Software Craftsmanship (2008), Robert C. Martin
 
 ## Apputvikling:  
@@ -29,6 +31,7 @@ Her er en liste av nettsider og blogger som er verdt å holde et øye med, kateg
 
 ## Webdesign 
 - [https://www.awwwards.com/](https://www.awwwards.com/) - Inspirasjonsside for webdesign 
+- [https://w3schools.com](https://w3schools.com)
 
 ## Ting som er KULT, men som ikke er vanlig å sette opp for “vanlige” folk: 
 

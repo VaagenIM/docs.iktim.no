@@ -1,5 +1,5 @@
 ---
-title: Anbefalte Atom Packages
+title: Anbefalte Atom Packages (Utdatert)
 aliases: [Anbefalte Atom Packages,]
 lang: nb-NO
 author:
@@ -8,7 +8,7 @@ tags:
   - Definisjon
 date: 2022-05-05
 ---
-# Anbefalte Atom Packages
+# Anbefalte Atom Packages (Utdatert)
 For oppsett av Atom, se [[01 Atom IDE]]. Merk at mange av pakkene finnes også i VSCode.
 
 Mer info kommer, her er en uryddig liste:
