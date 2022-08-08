@@ -20,6 +20,7 @@ Merk at listen er ikke komplett eller sortert, det finnes mye bra der ute! (Men 
 ## Programmering
 - [ArjanCodes (Python, prinsipper)](https://www.youtube.com/c/ArjanCodes)
 - [Fireship (Alle språk)](https://www.youtube.com/c/Fireship)
+- [mCoding (Dybdelæring/forståelse)](https://www.youtube.com/c/mCodingWithJamesMurphy)
 
 ## Webutvikling
 - [Kevin Powell (CSS-Guru)](https://www.youtube.com/kepowob)
