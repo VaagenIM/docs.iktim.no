@@ -7,7 +7,7 @@ Foreløpig er README.md rotete og fyllt av informasjon. Dette skal ryddes og gj�
 Last ned GitHub repo'et via https://desktop.github.com/ (Via programmet, ikke nettsiden)<br>
 Bruk en markdown editor, for eksempel https://obsidian.md/<br>
 Alternativt kan du og sette opp Obsidian til å bruke Git ved å følge denne oppskriften: https://github.com/denolehov/obsidian-git<br>
-<br><br>
+<br>
 Oppskrift på kilde-referering kommer. Her brukes det Zotero med Better BibTeX, med Pandoc som siteringsformat (inkl. braketter). Zotero link er https://www.zotero.org/groups/docs.iktim.no Citation_Key format i Better BibTex er `[zotero]`
 <br>
 Anbefalte plug-ins: Templater, Zotero Desktop Connector, Auto Link Title, Tag Wrangler.
@@ -48,34 +48,6 @@ Her bør du laste ned en Obsidian plug-in: [Clear Unused Images](https://github.
 En mer ryddig forklaring på hvordan du kan bidra kommer senere.
 <br><br>
 Prosjektet støtter og innbygging av YouTube videoer, ved å bruke "Del YouTube" funksjonen på nettsiden til YouTube, og velge `Bygg inn`. HTML koden kan limes direkte inn i dokumentet.
-
----
-## Hostes via Docker
-Nettsiden holdes oppe av Docker.
-<br><br>
-`docker-compose.yml`:
-```
-version: "3.3"
-services:
-  updater:
-    image: sondregronas/mkdocs-updater
-    restart: unless-stopped
-    volumes:
-      - content:/site
-    environment:
-      - REPO=https://github.com/VaagenIM/docs.iktim.no
-  http:
-    image: nginx:latest
-    volumes:
-      - content:/usr/share/nginx/html
-    restart: unless-stopped
-    ports:
-      - "3000:80"
-
-volumes:
-  content:
-```
-Startes med: `docker-compose up -d`. Nettsiden vil kjøre på port 3000 og automatisk hente oppdateringer hver 2. time.
 
 ## Tekniske utfordringer
 Håper å finne en bedre Zotero integrasjon med Obsidian - men det funker helt greit.
