@@ -23,10 +23,6 @@ jobs:
       with:
         pandoc-version: "2.14.0.3"
 
-    - name: Gather Zotero references
-      run: |
-        zot2bbt -i https://api.zotero.org/groups/4658815/items?format=bibtex -o bibtex.bib
-
     - name: Deploy
       run: |
         echo 'docs.iktim.no' > ./docs/CNAME
