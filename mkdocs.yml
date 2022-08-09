@@ -50,7 +50,7 @@ plugins:
     - roamlinks
     - git-revision-date-localized
     - bibtex:
-        bib_file: "/bibtex.bib"
+        bib_file: "bibtex.bib"
         csl_file: "https://raw.githubusercontent.com/citation-style-language/styles/master/harvard-cite-them-right.csl"
     - include_dir_to_nav:
         file_name_as_title: true

@@ -22,7 +22,7 @@ jobs:
 
     - name: Gather Zotero references
       run: |
-        zot2bbt -i https://api.zotero.org/groups/4658815/items?format=bibtex -o /bibtex.bib
+        zot2bbt -i https://api.zotero.org/groups/4658815/items?format=bibtex -o bibtex.bib
 
     - name: Deploy
       run: |
