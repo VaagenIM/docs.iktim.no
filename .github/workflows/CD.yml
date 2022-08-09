@@ -17,8 +17,8 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y --no-install-recommends pandoc-citeproc
-        sudo wget https://github.com/jgm/pandoc/releases/download/2.19/pandoc-2.19-1-amd64.deb
-        sudo dpkg -i pandoc-2.19-1-amd64.deb
+        sudo wget -O pandoc_install.deb https://github.com/jgm/pandoc/releases/download/2.12/pandoc-2.12-1-amd64.deb
+        sudo dpkg -i pandoc_install.deb
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
@@ -28,4 +28,4 @@ jobs:
 
     - name: Deploy
       run: |
-        mkdocs gh-deploy -q --clean --force
+        echo 'docs.iktim.no' > ./build/CNAME && mkdocs gh-deploy --clean --force
