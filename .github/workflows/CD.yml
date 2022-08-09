@@ -28,4 +28,6 @@ jobs:
 
     - name: Deploy
       run: |
-        echo 'docs.iktim.no' > ./build/CNAME && mkdocs gh-deploy --clean --force
+        echo 'docs.iktim.no' > ./docs/CNAME
+        mkdocs gh-deploy --clean --force
+        
