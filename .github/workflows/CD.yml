@@ -16,9 +16,7 @@ jobs:
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y --no-install-recommends pandoc-citeproc
-        sudo wget -O pandoc_install.deb https://github.com/jgm/pandoc/releases/download/2.12/pandoc-2.12-1-amd64.deb
-        sudo dpkg -i pandoc_install.deb
+        sudo apt-get install -y --no-install-recommends pandoc-citeproc pandoc
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
