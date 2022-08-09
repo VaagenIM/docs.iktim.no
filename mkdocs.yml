@@ -50,8 +50,9 @@ plugins:
     - roamlinks
     - git-revision-date-localized
     - bibtex:
-        bib_file: "bibtex.bib"
-        csl_file: "https://raw.githubusercontent.com/citation-style-language/styles/master/harvard-cite-them-right.csl"
+        bib_file: "bibtex.bib"  # fra zot2bbt (.github/workflows/CD.yml)
+        csl_file: "https://www.zotero.org/styles/harvard-cite-them-right?source=1"
+        cite_inline: True
     - include_dir_to_nav:
         file_name_as_title: true
     - exclude:
