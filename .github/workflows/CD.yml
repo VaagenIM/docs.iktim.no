@@ -19,6 +19,11 @@ jobs:
         sudo apt-get install -y --no-install-recommends pandoc pandoc-citeproc
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+
+    - name: Gather Zotero references
+      run: |
+        zot2bbt -i https://api.zotero.org/groups/4658815/items?format=bibtex -o bibtex.bib
+
     - name: Deploy
       run: |
         mkdocs gh-deploy -q --clean --force

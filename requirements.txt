@@ -6,3 +6,4 @@ mkdocs-exclude
 mkdocs-bibtex
 mkdocs-git-revision-date-localized-plugin
 mkdocs-callouts
+git+https://github.com/sondregronas/zot2bbt@main
