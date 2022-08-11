@@ -22,6 +22,9 @@ Merk at listen er ikke komplett eller sortert, det finnes mye bra der ute! (Men 
 - [Fireship (Alle språk)](https://www.youtube.com/c/Fireship)
 - [mCoding (Dybdelæring/forståelse)](https://www.youtube.com/c/mCodingWithJamesMurphy)
 
+## Spillutvikling
+- [GDQuest (Godot)](https://www.youtube.com/c/Gdquest)
+
 ## Webutvikling
 - [Kevin Powell (CSS-Guru)](https://www.youtube.com/kepowob)
 - [WebDevSimplified (JavaScript)](https://www.youtube.com/c/WebDevSimplified)
