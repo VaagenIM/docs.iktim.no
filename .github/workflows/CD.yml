@@ -4,6 +4,9 @@ on:
   push:
     branches: [ main ]
 
+env:
+  MKDOCS_GIT_COMMITTERS_APIKEY: ${{ secrets.GH_PAT }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
