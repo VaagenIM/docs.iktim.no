@@ -22,16 +22,16 @@
 
 /* code */
 .md-typeset .admonition.code,
-.md-typeset details.video {
-  border-color: rgb(123, 38, 106);
+.md-typeset details.code {
+  border-color: rgb(90, 163, 156);
 }
 .md-typeset .code > .admonition-title,
 .md-typeset .code > summary {
-  background-color: rgba(123, 38, 106, 0.1);
+  background-color: rgba(90, 163, 156, 0.1);
 }
 .md-typeset .code > .admonition-title::before,
 .md-typeset .code > summary::before {
-  background-color: rgb(123, 38, 106);
+  background-color: rgb(90, 163, 156);
   -webkit-mask-image: var(--md-admonition-icon--code);
           mask-image: var(--md-admonition-icon--code);
 }
