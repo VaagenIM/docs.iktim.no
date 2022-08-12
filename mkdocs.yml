@@ -11,6 +11,11 @@ theme:
     features:
         - content.code.annotate
         - navigation.indexes
+        - navigation.tabs
+        - navigation.top
+        - navigation.instant
+        - navigation.prune
+        
     palette:
         scheme: slate
         primary: light blue
