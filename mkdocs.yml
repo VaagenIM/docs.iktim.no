@@ -5,7 +5,7 @@ site_description: >-
     En åpen digital fagbok for Informasjonsteknologi og Medieproduksjon ved Vågen VGS
 docs_dir: docs
 
-repo_name: VaagenIM/docs.iktim.no
+repo_name: docs.iktim.no
 repo_url: https://github.com/VaagenIM/docs.iktim.no
 edit_uri: edit/main/docs/
 

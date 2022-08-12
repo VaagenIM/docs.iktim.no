@@ -5,8 +5,6 @@ aliases: [Hjem,]
 lang: nb-NO
 author:
   - Sondre Grønås
-tags:
-  - 
 date: 2022-04-09
 ---
 # Fagboka til Vågenelevene i 1IM

@@ -1,6 +1,6 @@
 ---
 title: Azure Cloud
-aliases: [index,]
+aliases: [Azure,]
 lang: nb-NO
 author:
   - Sondre Grønås
