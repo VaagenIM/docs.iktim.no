@@ -25,7 +25,7 @@ Fagboken er delt inn i kapitler. Foreløpig er det dårlig med innhold og strukt
 ## Kompetansemål
 Her er årets kompetansemål (Sist oppdatert 2022). Kilde: [Læreplan i vg1 informasjonsteknologi og medieproduksjon (IKM01-01)](https://www.udir.no/lk20/ikm01-01)
 
-> [!INFO] Produksjon og historiefortelling
+> [!VIDEO]- Produksjon og historiefortelling
 > - produsere og kommunisere innhold innenfor ulike sjangre tilpasset visuelle og auditive medier
 > - utvikle og presentere budskap tilpasset ulike målgrupper og kanaler
 > - utforske og bruke komposisjonsprinsipper for å sikre god lesbarhet tilpasset budskap og målgruppe
@@ -39,7 +39,7 @@ Her er årets kompetansemål (Sist oppdatert 2022). Kilde: [Læreplan i vg1 info
 > - forstå hvordan teknologi og sikkerhet kan påvirke åpne og demokratiske prosesser og utøve etisk refleksjon knyttet til hvordan teknologi kan påvirke disse prosessene
 > - gjøre rede for og vurdere hvordan partene i arbeidslivet samarbeider for å utvikle et bedre arbeidsliv
 
-> [!INFO] Teknologiforståelse
+> [!TECH]- Teknologiforståelse
 > - planlegge og gjennomføre sanntidsproduksjoner
 > - reflektere over og beskrive hvordan media påvirker mennesker og deres medievaner
 > - kjenne til og anvende bransjefaglige metoder og relevant utstyr i produksjon
@@ -53,7 +53,7 @@ Her er årets kompetansemål (Sist oppdatert 2022). Kilde: [Læreplan i vg1 info
 > - gjøre rede for hvordan man behandler informasjon og personopplysninger i tråd med gjeldende regelverk
 > - vurdere, anbefale og kvalitetssikre tiltak som reduserer risiko for uønsket spredning av data
 
-> [!INFO] Konseptutvikling og programmering
+> [!CODE]- Konseptutvikling og programmering
 > - anvende regelverk for bruk og formidling av innhold i egen produksjon og reflektere over ansvar og etikk knyttet til bruk og formidling av innhold i egen produksjon
 > - utforske og beskrive sammenhenger mellom løsninger, kundens behov og brukernes forutsetninger og erfaringer
 > - bruke programmering til å løse praktiske utfordringer og til å fortelle interaktive historier
