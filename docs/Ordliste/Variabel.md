@@ -22,4 +22,4 @@ print(Onkel) # Printer Ole Jespersen
 print(Alder) # Printer 5
 ```
 
-For javascript, se [[01 Variabler - let, var, const|Javascript variabler]]
+For javascript, se [[01 Variabeltyper|Javascript variabler]]

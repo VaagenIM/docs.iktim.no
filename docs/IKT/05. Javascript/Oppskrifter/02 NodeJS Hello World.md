@@ -9,7 +9,7 @@ tags:
 date: 2022-04-09
 ---
 # NodeJS: Hello World
-I motsetning til Python, har NodeJS litt mer avanserte syntakser som kan være litt frustrerende å jobbe med, men fortvil ikke! Med pakkene vi installerte i forrige artikkel, [[01 Node Javascript - Installasjon og oppsett i IDE]], så får vi god hjelp!
+I motsetning til Python, har NodeJS litt mer avanserte syntakser som kan være litt frustrerende å jobbe med, men fortvil ikke! Med pakkene vi installerte i forrige artikkel, [[01 Node Javascript Installasjon og oppsett i IDE]], så får vi god hjelp!
 
 I denne oppskriften skal vi lage et Express prosjekt som viser teksten "Hello Node!"
 
@@ -54,7 +54,7 @@ Vi skal nå endre `app.js` til å sende "Hello Node!" fra Express i en nettleser
 
 For å gjøre dette må vi først si til Javascript at vi skal bruke `express`. 
 Vi må først importere modulen, det gjøres ved funksjonen `require(<modul>)`. 
-Så må vi definere en app som bruker express, det gjøres ved å lage en [[01 Variabler - let, var, const|javascript variabel]] som bruker express: `const app = express()`
+Så må vi definere en app som bruker express, det gjøres ved å lage en [[01 Variabeltyper|javascript variabel]] som bruker express: `const app = express()`
 
 Legg derfor inn denne linjen øverst i dokumentet:
 ```js
