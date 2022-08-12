@@ -16,5 +16,6 @@ Velkommen!
 ## IKT ressurser
 - [[Lesestoff]]
 - [[YouTube Kanaler]]
+- [[Nedlastbare ressurser]]
 - [[Linux Ressurser|Linux Ressurser]]
 - [W3Schools Online Web Tutorials](https://w3schools.com) - Internett skolen, alt mulig rart fra HTML, Javascript, Database, Programmering
