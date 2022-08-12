@@ -26,7 +26,7 @@ jobs:
     - name: Format spaces
       run: |
         sudo apt-get install rename
-        find docs/ -execdir rename 's/ /-/' '{}' \+
+        find docs/ -execdir rename 's/ /-/g' '{}' \+
 
     - name: Deploy
       run: |
