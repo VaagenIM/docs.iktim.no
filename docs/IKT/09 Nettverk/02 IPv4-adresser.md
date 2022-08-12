@@ -25,7 +25,7 @@ Private IP-adresser tildeles av en ruter som er [[NAT|NATet]] fra en offentlig I
 
 Private IP-adresser finnes i 3 ulike klasser, A, B og C:
 
-| Klasse | IP-start      | IP-stopp          | [[03 Subnetting\|Subnet mask]] | Antall Adresser |
+| Klasse | IP-start      | IP-stopp          | [[03 Subnetting|Subnet mask]] | Antall Adresser |
 | ------ | ------------- | ----------------- | ------------------------------- | --------------- |
 | A      | $10.0.0.0$    | $10.255.255.255$  | $/8$                            | $16.777.216$    |
 | B      | $172.16.0.0$  | $172.31.0.0$      | $/12$                           | $1.048.576$     |
