@@ -25,8 +25,8 @@ jobs:
         
     - name: Format spaces
       run: |
-        find . -type d -name "docs/*" | while read f; do mv $f $(echo $f | sed 's/ /-/'); done
-        find . -type f -name "docs/*.md" | while read f; do mv $f $(echo $f | sed 's/ /-/'); done
+        find docs/ -type d -name "*" -path "docs/" -prune | while read f; do mv $f $(echo $f | sed 's/ /-/'); done
+        find docs/ -type f -name "*.md" | while read f; do mv $f $(echo $f | sed 's/ /-/'); done
 
     - name: Deploy
       run: |
