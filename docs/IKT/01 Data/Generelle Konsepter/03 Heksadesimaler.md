@@ -11,7 +11,7 @@ date: 2022-04-09
 # Heksadesimaler
 Heksadesimaler er et 16-tallsystem hvor laveste tall er 0, og høyeste tall er F (15). Også kjent som Hex.
 
-1 siffer i det heksadesimale systemet er det samme som 4 siffer i [[02. Binærtall|binærtall]], en [[Byte]] kan derfor representeres med 2 siffer i hex.
+1 siffer i det heksadesimale systemet er det samme som 4 siffer i [[02 Binærtall|binærtall]], en [[Byte]] kan derfor representeres med 2 siffer i hex.
 
 De fleste PC-skjermer bruker 8bit farge (også referert til som 24bit), med 8 bits i de ulike fargekanalene, [[RGB|Rød, grønn og blå]]. For å representere 8 bits med heksadesimaler trenger vi kun 2 siffer for å gjengi alle verdiene mellom 0-255.
 
@@ -29,7 +29,7 @@ Mange redigeringsprogram bruker som standard hex fargekoder når man velger ut f
 | \#000000 | Svart |
 
 ## Å regne med Hex
-Vi regner med heksadesimaltall på samme måte som med [[02. Binærtall|Binærtall]], hvor vi ganger verdien av posisjonen med verdien av $n$, opphøyd i posisjon, som blir summert med resten av tallene i sekvensen.[@CitationNeeded]
+Vi regner med heksadesimaltall på samme måte som med [[02 Binærtall|Binærtall]], hvor vi ganger verdien av posisjonen med verdien av $n$, opphøyd i posisjon, som blir summert med resten av tallene i sekvensen.[@CitationNeeded]
 
 Formelen for hex, hvor $n$ er et tall mellom 0-15: $(n * 16^1) + (n * 16^0)$
 Obs. Tall som er opphøyd i 0 vil alltid bli tallet 1 ($∞^0$ = 1)

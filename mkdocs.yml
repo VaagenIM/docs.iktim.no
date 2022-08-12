@@ -16,19 +16,38 @@ theme:
     name: material
     custom_dir: resources
     language: "no"
+
+    palette:  # Light/Dark Mode
+    - media: "(prefers-color-scheme: light)"  # Light mode
+      scheme: default
+      primary: light blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"  # Dark mode
+      scheme: slate
+      primary: light blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+
     features:
-        - content.code.annotate
-        - navigation.indexes
-        - navigation.tabs
-        - navigation.top
-        - navigation.instant
-        - navigation.prune
-    palette:
-        scheme: slate
-        primary: light blue
-        accent: cyan
+        - content.code.annotate     # Add annotations to codeblocks (```code (1)``` 1. annotation)
+        - navigation.indexes        # Attach index.md to parent
+        - navigation.tabs           # Subdirectories of docs/ as tabs
+        - navigation.tracking       # Automatically add #anchor to URL while scrolling
+        - navigation.top               # Back to top button
+        - navigation.instant        # Load without reloading the page
+        - navigation.prune          # Performance / size optimization
+        - search.suggest            # Autocomplete results during search
+        - search.highlight          # Highlight occurences inside clicked search result
+        - search.share              # Share search URL button in text input
+
     logo: assets/logo.png
     favicon: https://iktim.no/favicon.ico
+
 
 extra:
   generator: false
@@ -39,37 +58,64 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:mail@iktim.no
 
+
 markdown_extensions:
-  - attr_list
-  - nl2br
-  - meta
-  - admonition
-  - footnotes
-  - pymdownx.details
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.magiclink
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tilde
+  # Essentials
+  - meta                        # Load frontmatter (---\ntitle: Title\n---
+  - attr_list                   # Add HTML attributes to anything (![image](link) { align=left })
+  - nl2br                       # All linebreaks add <br> tags (starts new line on new lines...)
+  - mdx_breakless_lists         # single linebreak required for lists, instead of two
+  - pymdownx.magiclink          # Automatically wrap links to <a> tags https://google.com = <a href="https://google.com">https://google.com</a>
+
+  # Features
+  - footnotes                   # Citations (Zotero/Pandoc), Last edited ([^1], [^1]: Lorem ipsum)
+  - admonition                  # Callout blocks > [!INFO], > [!WARNING], > [!VIDEO], > [!TECH], > [!CODE] (alt: !!! type)  
+  - pymdownx.details            # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#configuration
+  - pymdownx.tasklist:          # - [ ] Task, - [x] Task completed
+      custom_checkbox: true         # https://squidfunk.github.io/mkdocs-material/reference/lists/#using-definition-lists
+
+  # Code highlighting
+  - pymdownx.superfences        # Code higlighting ```language\n code\n ```
+  - pymdownx.highlight:         # Syntax highlighting + superfences
+      linenums: true                # numbered lines
+      anchor_linenums: true         # generate anchor links to line number
+  - pymdownx.inlinehilite       # Inline code highlighting
+  # Math / Formulas
+
+  - pymdownx.arithmatex:        # Mathematical formulas $f(a)=f(b)$ $5*2=10$
+      generic: true             # Clean formatting for non-MathJax libraries
+
+  # ^~= modifiers
+  - pymdownx.caret              # ^^underline^^, ^superscript^ (H^2^O)
+  - pymdownx.tilde              # ~~strikethrough~~, ~subscript~ (~2~OH)
+  - pymdownx.mark               # ==mark text== (yellow marker)
+  - pymdownx.betterem:          # **bold** *italic*, __bold__ _italic_ 
+      smart_enable: all             # Both modifiers (* and _)
+
+  # Extra
+  - pymdownx.keys               # ++ctrl+alt+delete++ 
+  - pymdownx.smartsymbols       # Convert special characters from markdown ((tm) = ™)
+  - smarty                      # '' -> ‘’, "" -> “”, etc..
 
 plugins:
-    - search
-    - tags
-    - callouts
-    - roamlinks
-    - git-revision-date-localized
-    - bibtex:
+    - search                        # Search bar
+    - tags                          # Searchable tags
+    - callouts                      # Convert obsidian callouts to markdown format
+    - roamlinks                     # Use WikiLinks 
+    - git-committers:
+        repository: VaagenIM/docs.iktim.no
+        branch: main
+        token: !ENV ["MKDOCS_GIT_COMMITTERS_APIKEY"]
+    - bibtex:                       # Citations & reference management (Zotero)
         bib_file: "https://api.zotero.org/groups/4658815/items?format=bibtex"
         csl_file: "https://www.zotero.org/styles/harvard-cite-them-right?source=1"
         cite_inline: True
-    - include_dir_to_nav:
-        file_name_as_title: true
-    - exclude:
+    - include_dir_to_nav            # Automatically generate nav: (show directories and pages in sidebar)
+    - exclude:                      # Exclude pattern from site
         glob:
           - .obsidian/*
           - _DATA/*
         regex:
           - '.*\.(tmp|bin|tar)$'
+    - minify:                       # Optimize load times
+        minify_html: true

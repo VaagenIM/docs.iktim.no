@@ -47,7 +47,7 @@ Det er likevel noen valg som gjenstår, og det er vår administratorkonto. Her f
 
 Et godt administratornavn er like viktig som et passord, skriv det gjerne ned. Merk at passordet må inneholde minst 12 bokstaver - skriv dette og gjerne ned en plass. Unngå tullepassord som 123456passord da det kan ha konsekvenser for deg dersom din virtuelle maskin blir kapret.
 
-**Public inbound ports** kan du la stå med [[SSH]] (22) åpen, slik at vi kan [[03. Koble til Virtuell Maskin|koble oss til.]]
+**Public inbound ports** kan du la stå med [[SSH]] (22) åpen, slik at vi kan [[03 Koble til Virtuell Maskin|koble oss til.]]
 
 ![[vm-settings-2.png]]
 

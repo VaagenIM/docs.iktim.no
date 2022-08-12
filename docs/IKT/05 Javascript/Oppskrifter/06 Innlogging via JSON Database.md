@@ -9,7 +9,7 @@ tags:
 date: 2022-04-09
 ---
 # Innlogging via JSON Database
-Når vi skal behandle større mengder data lagres disse ofte i [[03. Datasystem, SQL|Databaser]], et format som er vanlig å bruke i programmering er [[JSON|JSON]] formatet. Det er en tekstfil med data hvor verdier får en nøkkel som inneholder eventuelt flere verdier, dette kalles for [[Nesting]].
+Når vi skal behandle større mengder data lagres disse ofte i [[03 Datasystem, SQL|Databaser]], et format som er vanlig å bruke i programmering er [[JSON|JSON]] formatet. Det er en tekstfil med data hvor verdier får en nøkkel som inneholder eventuelt flere verdier, dette kalles for [[Nesting]].
 
 ## Opprett en databasefil
 Lag en ny fil i prosjektmappen og kall denne for `database.json`. Her må vi tenke oss frem til et design av vår database. I tilfellet med innlogging så kan vet vi at vi trenger følgende verdier:

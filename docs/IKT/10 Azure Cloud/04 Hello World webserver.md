@@ -12,12 +12,12 @@ date: 2022-04-16
 ---
 # 04. Hello World webserver
 For å sette opp en enkel webserver i Azure må man gjøre følgende steg:
-- [[03. Koble til Virtuell Maskin|Koble seg til via SSH]]
+- [[03 Koble til Virtuell Maskin|Koble seg til via SSH]]
 - Laste ned Webserver
-- Åpne tilgang i brannmuren (For mer utfyllende, se [[08. Azure Brannmur|Azure Brannmur]])
+- Åpne tilgang i brannmuren (For mer utfyllende, se [[08 Azure Brannmur|Azure Brannmur]])
 
 ## Koble til via SSH
-For å koble til, følg stegene i [[03. Koble til Virtuell Maskin|03. Koble til Virtuell Maskin]].
+For å koble til, følg stegene i [[03 Koble til Virtuell Maskin|03. Koble til Virtuell Maskin]].
 
 ## Laste ned Webserver
 Inne i terminalen kan vi laste ned en webserver, for eksempel `apache2`. Før vi kan laste ned en pakke, må vi oppdatere listen over pakker. Dette gjør vi via `sudo apt-get update`.

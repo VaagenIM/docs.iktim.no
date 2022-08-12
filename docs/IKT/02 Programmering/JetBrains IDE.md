@@ -34,6 +34,6 @@ For [Node.js](https://nodejs.org/en/) (eller [Bun](https://bun.sh/)) prosjekter
 https://www.jetbrains.com/idea/
 
 ## DataGrip (Databaser)
-Få lett innsikt og redigeringsmuligheter i en [[06. Database/index|Database]].
+Få lett innsikt og redigeringsmuligheter i en [[06 Database/index|Database]].
 https://www.jetbrains.com/datagrip/
 

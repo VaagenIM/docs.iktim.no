@@ -11,9 +11,9 @@ date: 2022-04-09
 # Tallsystemer
 Det vanligste tallsystemet som er brukt hos mennesker er [[10-Tallsystemet|10-tallsystemet]], som fungerer flott til de vanligste matematiske utfordringer hvor vi regner med tall. Dette er ikke tilfelle for datamaskiner, som representerer data i form av elektroniske signaler; av eller på.
 
-Når en elektronisk krets bare har to utfall, som heter bits (1 eller 0), er det mer logisk å bruke to-tallsystemet [[02. Binærtall|Binærtall]]. Ofte er 8 bits satt sammen til 1 [[Byte]], eller delt inn i 4-bits ([[Nibble]])
+Når en elektronisk krets bare har to utfall, som heter bits (1 eller 0), er det mer logisk å bruke to-tallsystemet [[02 Binærtall|Binærtall]]. Ofte er 8 bits satt sammen til 1 [[Byte]], eller delt inn i 4-bits ([[Nibble]])
 
-Et kompakt tallsystem som fungerer bra og er mye brukt i kombinasjon med binærtall er [[03. Heksadesimaler|Heksadesimaler]], eller et 16-tallsystem, med tallene 0-F.
+Et kompakt tallsystem som fungerer bra og er mye brukt i kombinasjon med binærtall er [[03 Heksadesimaler|Heksadesimaler]], eller et 16-tallsystem, med tallene 0-F.
 
 ## Tabell av tall, fra 0-255
 | 10-tallsystem | Heksadesimal | Binærtall |
