@@ -11,6 +11,10 @@ date: 2022-08-12
 # Informasjonsteknologi
 Velkommen!
 
+## Programvare
+- [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com/)
+- [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
+
 ## IKT ressurser
 - [[Lesestoff]]
 - [[YouTube Kanaler]]

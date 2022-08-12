@@ -1,8 +1,16 @@
 site_name: IM Fagboka
-docs_dir: docs  
+site_url: https://docs.iktim.no
+site_author: Sondre Grønås
+site_description: >-
+    En åpen digital fagbok for Informasjonsteknologi og Medieproduksjon ved Vågen VGS
+docs_dir: docs
+
+repo_name: VaagenIM/docs.iktim.no
 repo_url: https://github.com/VaagenIM/docs.iktim.no
 edit_uri: edit/main/docs/
+
 copyright: "Copyright &copy; 2021-2022 Sondre Grønås"
+
 
 theme:
     name: material
@@ -15,7 +23,6 @@ theme:
         - navigation.top
         - navigation.instant
         - navigation.prune
-        
     palette:
         scheme: slate
         primary: light blue
@@ -66,20 +73,3 @@ plugins:
           - _DATA/*
         regex:
           - '.*\.(tmp|bin|tar)$'
-
-# Overstyr navigasjonsfane
-#nav:
-#    - Hjem: 'index.md'
-#    - Kompetansemål: 'Kompetansemål.md'
-#    - 1. Data: '1. Data'
-#    - 2. Programmering: '2. Programmering'
-#    - 3. HTML og CSS: '3. HTML og CSS'
-#    - 4. Python: '4. Python'
-#    - 5. Javascript: '5. Javascript'
-#    - 6. Database: '6. Database'
-#    - 7. Linux: '7. Linux'
-#    - 8. Hacking: '8. Hacking'
-#    - 9. Nettverk: '9. Nettverk'
-#    - 10. Azure Cloud: '10. Azure Cloud'
-#    - Ekstra ressurser: 'Ekstra ressurser'
-#    - Ordliste: 'Ordliste'

@@ -1,4 +1,5 @@
 ---
+template: home.html
 title: Hjem
 aliases: [Hjem,]
 lang: nb-NO
@@ -15,6 +16,11 @@ Dette er en digital fagbok administrert av Sondre Grønås. Ønsker du å bidra,
 
 ## Fagbok
 Fagboken er delt inn i kapitler. Foreløpig er det dårlig med innhold og struktur :)
+
+## Programvare
+- [Kun Mac: RFK App Store](https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/last-ned-programmer/rfk-app-store-managed-software-center/)
+- [Microsoft Office 365 - Rogaland Fylkeskommune](https://o365.rogfk.no/)
+- [Adobepakken - Vågen videregående skole](https://www.vaagen.vgs.no/hovedmeny/for-elever/skolehverdag-og-ikt/ikt-og-elev-pc/programmer/adobepakken/)
 
 ## Kompetansemål
 Her er årets kompetansemål (Sist oppdatert 2022). Kilde: [Læreplan i vg1 informasjonsteknologi og medieproduksjon (IKM01-01)](https://www.udir.no/lk20/ikm01-01)
