@@ -13,6 +13,11 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
+    - name: Set Timezone to Europe/Oslo
+      uses: szenius/set-timezone@v1.0
+      with:
+        timezoneLinux: "Europe/Oslo"
+
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
