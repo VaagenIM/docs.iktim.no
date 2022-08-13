@@ -102,6 +102,10 @@ plugins:
     - tags                          # Searchable tags
     - callouts                      # Convert obsidian callouts to markdown format
     - roamlinks                     # Use WikiLinks
+    - git-revision-date-localized:  # Time since last update
+        type: timeago
+        offset_commit: 2
+        enable_creation_date: true
     - bibtex:                       # Citations & reference management (Zotero)
         bib_file: "https://api.zotero.org/groups/4658815/items?format=bibtex"
         csl_file: "https://www.zotero.org/styles/harvard-cite-them-right?source=1"
