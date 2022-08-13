@@ -30,7 +30,7 @@ jobs:
       run: |
         echo sudo apt-get install rename
         echo find docs/ -execdir rename 's/ /-/g' '{}' \+
-        find docs/ -execdir bash -c 'file={}; git mv $file ${file/ /-}' \;
+        find docs/ -execdir bash -c 'file={}; git mv "$file" "${file/\ /-}"' \;
 
     - name: Deploy
       run: |
