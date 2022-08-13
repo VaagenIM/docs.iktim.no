@@ -32,8 +32,17 @@
           <span class="footermatter-text">GitHub</span>
           <span class="footermatter-authors">
           {%- for author in footermatter_authors -%}
-              <a href="{{ author.url }}" title="{{ author.name }}" target="_blank">
-              <img class="footermatter-author" src="{{ base_url }}/{{ author.img }}" alt="{{ author.name }}"></a>
+              {% if author.img %}
+                  <a href="{{ author.url }}" title="{{ author.name }}" target="_blank">
+                  {% if author.img.startswith('https://ui-avatars.com') %}
+                      <img class="footermatter-author" src="https://ui-avatars.com/api/?name={{author.name}}&background=random&bold=true" alt="{{ author.name }}">
+                  {% elif author.img.startswith('https://') or author.img.startswith('http://') %}
+                      <img class="footermatter-author" src="{{author.img}}" alt="{{ author.name }}">
+                  {% else %}
+                      <img class="footermatter-author" src="{{ base_url }}/{{author.img}}" alt="{{ author.name }}">
+                  {% endif %}
+                  </a>
+              {% endif %}
           {%- endfor -%}
           </span>
         </div>

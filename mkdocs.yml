@@ -102,11 +102,13 @@ plugins:
     - tags                          # Searchable tags
     - callouts                      # Convert obsidian callouts to markdown format
     - roamlinks                     # Use WikiLinks
-    - footermatter:                 # Last edited, date created, author links
+    - footermatter:                 # Last edited, date created, author links. Needs to be updated for proper author rendering
+        default_author_img: https://ui-avatars.com
+        default_author_url: https://github.com/VaagenIM/docs.iktim.no
         key_authors: author
         locale: nb_NO
-        author_map:
-          - Sondre Grønås | assets/authors/sondregronas.png | https://github.com/sondregronas
+        author_map:                 # Name in frontmatter | path RELATIVE TO: resources/assets/authors or URL | website
+          - Sondre Grønås | sondregronas.png | https://github.com/sondregronas
     - bibtex:                       # Citations & reference management (Zotero)
         bib_file: "https://api.zotero.org/groups/4658815/items?format=bibtex"
         csl_file: "https://www.zotero.org/styles/harvard-cite-them-right?source=1"
