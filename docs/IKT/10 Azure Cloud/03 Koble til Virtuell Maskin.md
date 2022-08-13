@@ -9,7 +9,8 @@ tags:
   - Azure
   - SSH
   - PuTTY
-date: 2022-04-16
+created: 2022-04-16 02:00:00
+updated: 2022-08-13 20:26:52
 ---
 # 03. Koble til Virtuell Maskin
 Inne på din Virtuelle maskin i Azure vil du se et felt som heter `Public IP Address`. Dette er maskinen sin adresse.

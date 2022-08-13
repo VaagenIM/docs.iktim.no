@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Javascript
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:26:21
 ---
 # Kryptering av brukerpassord
 Dette er UTROLIG viktig, og er et lovbrudd dersom man lar være å kryptere data i ekte bruksområder. Det er heller ikke så vanskelig.

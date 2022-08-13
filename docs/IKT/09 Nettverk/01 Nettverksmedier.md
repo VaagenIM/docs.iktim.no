@@ -7,7 +7,8 @@ author:
 tags:
   - Nettverk
   - WiFi
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:16
 ---
 # Nettverksmedier
 Det er flere ulike medier man kan sende informasjon gjennom. Her er en kort, ukomplett liste.

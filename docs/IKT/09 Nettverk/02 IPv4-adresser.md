@@ -8,7 +8,8 @@ tags:
   - Nettverk
   - Cybersikkerhet
   - IP
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:32
 ---
 # IP-adresser (IPv4)
 IP adresser er en adresse tildelt alle enheter som kobler seg til internett. Vi skiller IP-adresser i to kategorier, offentlig og privat. Eksempel på en privat ip-adresse er $192.168.1.55$.

@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-04-26
+created: 2022-04-26 02:00:00
+updated: 2022-08-13 20:28:24
 ---
 # Hashing
 Omgjørelse av data til kryptert variant. Hashing er kun en-veis kryptering, som vil si at det ikke kan reverseres for å hente opprinnelig data.

@@ -4,7 +4,8 @@ aliases: [Hjem IT]
 lang: nb-NO
 author:
   - Sondre Grønås
-date: 2022-08-12
+created: 2022-08-12 02:00:00
+updated: 2022-08-13 20:28:40
 ---
 # Informasjonsteknologi
 Velkommen!

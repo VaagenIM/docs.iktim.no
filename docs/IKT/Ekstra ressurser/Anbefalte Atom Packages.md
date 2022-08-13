@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-05-05
+created: 2022-05-05 02:00:00
+updated: 2022-08-13 20:26:23
 ---
 # Anbefalte Atom Packages (Utdatert)
 For oppsett av Atom, se [[01 Atom IDE]]. Merk at mange av pakkene finnes også i VSCode.

@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-05-03
+created: 2022-05-03 02:00:00
+updated: 2022-08-13 20:30:36
 ---
 # PuTTY
 [[SSH]] og [[Telnet]] klient, se https://www.putty.org/

@@ -7,6 +7,7 @@ author:
 tags:
   - Definisjon
   - Nettverk
-date: 2022-04-27
+created: 2022-08-13 20:26:41
+updated: 2022-08-13 20:26:41
 ---
 # Domain Name System

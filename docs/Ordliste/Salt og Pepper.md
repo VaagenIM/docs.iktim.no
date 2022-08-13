@@ -7,6 +7,7 @@ author:
 tags:
   - Definisjon
   - Kryptografi
-date: 2022-04-26
+created: 2022-04-26 02:00:00
+updated: 2022-08-13 20:29:18
 ---
 # Salt og Pepper

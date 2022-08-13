@@ -8,7 +8,8 @@ tags:
   - Cloud
   - Nettverk
   - Javascript
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:26:18
 ---
 # Publiser i skya
 Godt jobba! Nå skal vi migrere vårt prosjekt til [[Cloud|skyen]]. Vi bruker [Microsoft Azure](https://azure.microsoft.com/en-us/) - du logger inn med din skolekonto

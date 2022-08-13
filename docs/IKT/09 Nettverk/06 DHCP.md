@@ -7,7 +7,8 @@ author:
 tags:
   - Nettverk
   - DHCP
-date: 2022-04-27
+created: 2022-04-27 02:00:00
+updated: 2022-08-13 20:26:34
 ---
 # DHCP
 ## Dynamic Host Configuration Protocol

@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Javascript
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:26:17
 ---
 # Innlogging via JSON Database
 Når vi skal behandle større mengder data lagres disse ofte i [[03 Datasystem, SQL|Databaser]], et format som er vanlig å bruke i programmering er [[JSON|JSON]] formatet. Det er en tekstfil med data hvor verdier får en nøkkel som inneholder eventuelt flere verdier, dette kalles for [[Nesting]].

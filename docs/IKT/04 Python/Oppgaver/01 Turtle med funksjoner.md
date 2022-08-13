@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Python
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:23
 ---
 # Turtle med funksjoner
 Vi har sett på Python pakken [[Turtle]], et forenklet underspråk laget i [[Python]]. En skilpadde som tar fysisk logiske kommandoer som forward, right, left, backward. Vi installerer Turtle ved å åpne [[Konsollvindu]], på mac heter dette [[Terminal]], Windows [[Kommandolinjeverktøy]] (CMD). Der skriver vi koden for "Python Install Package", som er `pip install turtle`. 

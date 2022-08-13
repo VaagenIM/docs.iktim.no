@@ -7,7 +7,8 @@ author:
 tags:
   - Linux
   - Webserver
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:25
 ---
 # Oppsett av Apache2 i delt mappe
 Kommer snart.

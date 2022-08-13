@@ -6,6 +6,7 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-04-16
+created: 2022-04-16 02:00:00
+updated: 2022-08-13 20:30:33
 ---
 # Virtual Machine

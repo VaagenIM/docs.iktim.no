@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Python
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:22
 ---
 # Print og Input funksjonene
 `print()` og `input()` er to [[Funksjon|basisfunksjoner]] som brukes mye i konsollen til å behandle tekst. Den ene, `print()` bruker tekst som [[Utdata|utdata]], mens `input()` bruker tekst som [[Inndata]].

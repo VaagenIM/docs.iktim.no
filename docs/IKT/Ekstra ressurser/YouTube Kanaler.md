@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Ekstra
-date: 2022-08-02
+created: 2022-08-02 02:00:00
+updated: 2022-08-13 20:28:54
 ---
 # YouTube Kanaler
 Er lesing litt to-tusen og stein? Mange pompøse typer på nett som ikke *helt* har peiling på hva de snakker om?

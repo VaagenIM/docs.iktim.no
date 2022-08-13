@@ -8,7 +8,8 @@ tags:
   - Cloud
   - Azure
   - RAM
-date: 2022-04-16
+created: 2022-04-16 02:00:00
+updated: 2022-08-13 20:26:06
 ---
 # 05. Last ned mer RAM (SWAP)
 I motsetning til maskinene vi er vandt med, kommer ikke Azure sine virtuelle maskiner med [[SWAP]] fil forhåndsdefinert. SWAP er et mellomlager for minnet som er allokert av lagringsdisken. Uten SWAP fil vil programmer krasje når maskinen går tom for RAM. 

@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Cloud
-date: 2022-04-16
+created: 2022-04-16 02:00:00
+updated: 2022-08-13 20:28:34
 ---
 # Azure Cloud
 [[Virtual Machine|Virtuelle maskiner]], men i [[Cloud|Skyen]]!

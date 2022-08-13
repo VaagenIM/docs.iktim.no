@@ -6,6 +6,7 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-07-06
+created: 2022-07-06 02:00:00
+updated: 2022-08-13 20:28:13
 ---
 # Getters og Setters

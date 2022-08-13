@@ -7,7 +7,8 @@ author:
 tags:
   - Nettverk
   - VLAN
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:38
 ---
 # Subnetting
 Subnet definerer et område hvor det kan eksistere IP-adresser. Jo større subnet, jo flere enheter kan koble til nettverket. Den første verdien og siste verdien i et subnet forteller enhetene som er koblet til hvor de kan hente informasjon om andre enheter i nettverket automatisk, via for eksempel tjenester som [Apple sin Bonjour](https://developer.apple.com/bonjour/). 

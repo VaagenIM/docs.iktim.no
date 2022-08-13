@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Javascript
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:34
 ---
 # NodeJS: Hello World
 I motsetning til Python, har NodeJS litt mer avanserte syntakser som kan være litt frustrerende å jobbe med, men fortvil ikke! Med pakkene vi installerte i forrige artikkel, [[01 Node Javascript Installasjon og oppsett i IDE]], så får vi god hjelp!

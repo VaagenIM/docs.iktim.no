@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Javascript
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:28:49
 ---
 # Javascript
 Javascript er et spennende språk vi skal lære oss litt av. I motsetning til WebJavascript, er Javascript (Node) et programmeringsspråk som brukes i apputvikling til PC, Mac, Linux, Android og iOS. Det er mange plattformer det!

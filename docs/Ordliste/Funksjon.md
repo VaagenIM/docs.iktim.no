@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:28:10
 ---
 # Funksjon
 En funksjon er i sin enkleste forklaring det samme som en tradisjonell kokebok oppskrift, som i seg selv ikke er så komplisert - men dersom en funksjon kombineres med andre funksjoner blir det fort komplekst. 

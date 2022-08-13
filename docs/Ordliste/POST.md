@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:29:28
 ---
 # POST
 `POST` er en av de vanligste [[HTTP Metoder|HTTP Metodene]], og brukes til å SENDE (poste) data TIL en server.

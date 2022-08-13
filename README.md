@@ -39,13 +39,16 @@ lang: nb-NO
 author:
   - Ditt navn
 tags:
-  - missing
-date: <% tp.date.now("YYYY-MM-DD") %>
+  - Definisjon
+created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
+updated: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 ---
 # <%* tR += `${tp.file.title}` %>
 <% tp.file.cursor() %>
 ```
 `title` er navnet som vil vises i sidebar.
+
+**OBS:** For å være synlig som en forfatter må du legge til en linje i `mkdocs.yml` under `footermatter / author_map` plugin feltet, samt laste opp bilde under `resources/assets/authors`. Format: `Ditt navn | assets/authors/dittbilde.png | https://github.com/dinbruker`
 
 # Kildereferering via [Zotero](https://www.zotero.org/)
 Bibliotek (bruk synkronisering): https://www.zotero.org/groups/4658815/docs.iktim.no/library

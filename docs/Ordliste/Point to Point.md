@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Nettverk
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:29:30
 ---
 # Point to Point
 Trådløs kabel! Info kommer snart

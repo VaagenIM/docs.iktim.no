@@ -7,7 +7,8 @@ author:
 tags:
   - Azure
   - Docker
-date: 2022-05-03
+created: 2022-05-03 02:00:00
+updated: 2022-08-13 20:26:13
 ---
 # 07. HTTPS og NGINX Proxy Manager
 Her kommer instruks på hvordan man bruker [Nginx Proxy Manager](https://nginxproxymanager.com/) - denne brukes til å dirigere trafikk til nettsider og behandler [[SSL]] sertifikater for oss.

@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Tallsystem
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:23:47
 ---
 # Heksadesimaler
 Heksadesimaler er et 16-tallsystem hvor laveste tall er 0, og høyeste tall er F (15). Også kjent som Hex.

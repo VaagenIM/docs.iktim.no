@@ -8,7 +8,8 @@ tags:
   - Database
   - JSON
   - CSV
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:31
 ---
 # Datasystem, filbasert
 En måte vi kan lagre data på i system, er å bruke tradisjonelle mappesystemer. Dataen vi lagrer og behandler bruker datamaskinens filsystem, som betyr at vi kan finne frem og endre på informasjonen ved å bruke vanlig filutforsker.

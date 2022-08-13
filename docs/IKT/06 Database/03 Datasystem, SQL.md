@@ -7,7 +7,8 @@ author:
 tags:
   - Database
   - SQL
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:37
 ---
 # Datasystem, SQL
 

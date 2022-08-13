@@ -9,7 +9,8 @@ tags:
   - JSON
   - CSV
   - SQL
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:25:12
 ---
 # Dataformater
 Når vi sender mye data mellom maskiner, bruker man ofte et eget format som er egnet for større mengder data. En av de vanligste formatene som er brukt, er [[JSON]].

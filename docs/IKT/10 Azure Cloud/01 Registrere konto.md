@@ -7,7 +7,8 @@ author:
 tags:
   - Cloud
   - Azure
-date: 2022-04-16
+created: 2022-04-16 02:00:00
+updated: 2022-08-13 20:25:28
 ---
 # Registrere konto hos Azure
 Når man logger inn på https://signup.azure.com/studentverification, så er man nødt til å bruke sin elevkonto. Dette er fordi som elev, eller student, får du automatisk tildelt midler som kan brukes i Azure, uten å måtte registrere betalingskort.

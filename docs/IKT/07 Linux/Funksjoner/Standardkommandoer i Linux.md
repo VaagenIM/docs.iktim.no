@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Linux
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:30:43
 ---
 # Standardkommandoer i Linux
 Kan du disse standardkommandoene i Linux, så kan du få til det meste.

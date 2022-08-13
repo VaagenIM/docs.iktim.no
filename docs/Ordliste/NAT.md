@@ -7,7 +7,8 @@ author:
 tags:
   - Definisjon
   - Nettverk
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:29:41
 ---
 # NAT
 Står for Network Address Translation. Oversetter èn eller flere [[02 IPv4-adresser|IP-adresser]] til èn IP-adresse.

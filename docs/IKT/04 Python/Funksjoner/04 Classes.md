@@ -7,7 +7,8 @@ author:
 tags:
   - Python
   - OOP
-date: 2022-07-06
+created: 2022-07-06 02:00:00
+updated: 2022-08-13 20:25:59
 ---
 # Classes
 Class er en standardfunksjon i [[OOP|Objekt-orientert programmering]] (OOP)

@@ -5,7 +5,8 @@ aliases: [Hjem,]
 lang: nb-NO
 author:
   - Sondre Grønås
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:28:19
 ---
 # Fagboka til Vågenelevene i 1IM
 Her jobbes det med å skape noe oversikt!

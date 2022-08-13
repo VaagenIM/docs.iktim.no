@@ -6,6 +6,7 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-05-03
+created: 2022-05-03 02:00:00
+updated: 2022-08-13 20:29:42
 ---
 # Minecraft Server

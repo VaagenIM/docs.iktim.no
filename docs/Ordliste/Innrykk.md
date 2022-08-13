@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Definisjon
-date: 2022-04-09
+created: 2022-04-09 02:00:00
+updated: 2022-08-13 20:30:26
 ---
 # Innrykk
 Innrykk er mellomrommet fra helt til venstre til der teksten starter. Python er VELDIG strenge når det gjelder innrykk.

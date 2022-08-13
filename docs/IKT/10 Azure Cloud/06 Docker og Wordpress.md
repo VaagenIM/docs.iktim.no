@@ -9,7 +9,8 @@ tags:
   - Docker
   - Wordpress
   - Webdesign
-date: 2022-05-03
+created: 2022-05-03 02:00:00
+updated: 2022-08-13 20:26:12
 ---
 # 06. Docker og Wordpress
 For å sette opp en enkel webserver i Azure må man gjøre følgende steg:
