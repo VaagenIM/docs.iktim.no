@@ -1,37 +1,33 @@
-.contributors{
-	padding-top: 1ch;
+.footermatter{
+    color: var(--md-default-fg-color--light);
+    padding-top: 1ch;
 }
-.contributors img{
+.footermatter-authors img{
     border-radius:100%;
     width:1.75rem;
-	margin-left: 0.5ch;
+    margin-left: 0.5ch;
     margin-top:-3px;
     overflow:hidden;
-	vertical-align: middle;
+    vertical-align: middle;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
-	transition:.3s all;
+    transition:.3s all;
 }
 
-.contributors img:hover {
+.footermatter-authors img:hover {
     filter: none;
     -webkit-filter: grayscale(0);
-	transform: scale(1.1);
-	transition:.3s all;
+    transform: scale(1.1);
+    transition:.2s all;
 }
 
-
-.last-updated{
-	color: var(--md-default-fg-color--light);
+.footermatter-text{
+    margin-inline: 0.5ch;
 }
 
-.last-updated-text{
-	margin-inline: 0.5ch;
-}
-
-.last-updated-icon{
-	display: inline-block;
-	vertical-align: middle;
-	font-size: .75rem;
-	padding-bottom: 2px;
+.footermatter-icon{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: .75rem;
+    padding-bottom: 2px;
 }
