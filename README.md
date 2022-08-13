@@ -8,7 +8,7 @@ Kilde for innholdet til https://docs.iktim.no.<br>
 Last ned GitHub repo'et via https://desktop.github.com/ (Via programmet, ikke nettsiden)
 
 Bruk en markdown editor, for eksempel https://obsidian.md/
-- Anbefalte plug-ins: Templater, Zotero Desktop Connector, Auto Link Title, Tag Wrangler, Clear Unused Images.<br>
+- Anbefalte plug-ins: **Templater**, **Update time on edit**, Zotero Desktop Connector, Auto Link Title, Tag Wrangler, Clear Unused Images.<br>
 - Åpne Vaultet `docs` i Obsidian, endringer du gjør i Obsidian vil automatisk havne i GitHub Desktop.
 
 For å sende inn dine forslag, trykker du "Commit" inne i GitHub Desktop.

@@ -6,7 +6,8 @@ author:
   - Sondre Grønås
 tags:
   - Tallsystem
-date: 2022-04-09
+created: 2022-04-09
+updated: 2022-08-13
 ---
 # Tallsystemer
 Det vanligste tallsystemet som er brukt hos mennesker er [[10-Tallsystemet|10-tallsystemet]], som fungerer flott til de vanligste matematiske utfordringer hvor vi regner med tall. Dette er ikke tilfelle for datamaskiner, som representerer data i form av elektroniske signaler; av eller på.
