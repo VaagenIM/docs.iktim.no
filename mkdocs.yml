@@ -38,7 +38,7 @@ theme:
         - navigation.indexes        # Attach index.md to parent
         - navigation.tabs           # Subdirectories of docs/ as tabs
         - navigation.tracking       # Automatically add #anchor to URL while scrolling
-        - navigation.top               # Back to top button
+        - navigation.top            # Back to top button
         - navigation.instant        # Load without reloading the page
         - navigation.prune          # Performance / size optimization
         - search.suggest            # Autocomplete results during search
