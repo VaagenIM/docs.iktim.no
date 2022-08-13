@@ -39,7 +39,7 @@
                   {% elif author.img.startswith('https://') or author.img.startswith('http://') %}
                       <img class="footermatter-author" src="{{author.img}}" alt="{{ author.name }}">
                   {% else %}
-                      <img class="footermatter-author" src="{{ base_url }}/{{author.img}}" alt="{{ author.name }}">
+                      <img class="footermatter-author" src="{{ base_url }}/assets/authors/{{ author.img }}" alt="{{ author.name }}">
                   {% endif %}
                   </a>
               {% endif %}
