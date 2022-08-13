@@ -30,7 +30,7 @@ jobs:
         pandoc-version: "2.14.0.3"
 
     - name: Format spaces
-      run: find docs/ -name "* *" -print0 | sort -rz | while read -d $'\0' f; do git mv -v "$f" "$(dirname "$f")/$(basename "${f// /-}")"; done
+      run: find docs/ -name "* *" -print0 | sort -rz | while read -d $'\0' f; do mv -v "$f" "$(dirname "$f")/$(basename "${f// /-}")"; done
 
     - name: Deploy
       run: |
