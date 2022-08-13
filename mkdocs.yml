@@ -108,7 +108,8 @@ plugins:
         key_authors: author
         locale: nb_NO
         author_map:                 # Name in frontmatter | path RELATIVE TO: resources/assets/authors or URL | website
-          - Sondre Grønås | sondregronas.png | https://github.com/sondregronas
+#          - Sondre Grønås | sondregronas.png | https://github.com/sondregronas
+          - Sondre Grønås | https://www.gravatar.com/avatar/4e0476393c848aef61ed66d404da0d14?s=250 | https://github.com/sondregronas
     - bibtex:                       # Citations & reference management (Zotero)
         bib_file: "https://api.zotero.org/groups/4658815/items?format=bibtex"
         csl_file: "https://www.zotero.org/styles/harvard-cite-them-right?source=1"
