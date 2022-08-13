@@ -9,4 +9,4 @@ mkdocs-callouts
 mdx-breakless-lists
 mkdocs-minify-plugin
 git+https://github.com/sondregronas/mkdocs-git-committers-plugin-2@master
-mkdocs-git-revision-date-localized-plugin
+git+https://github.com/sondregronas/mkdocs-git-revision-date-localized-plugin@docs-spacing-hack
