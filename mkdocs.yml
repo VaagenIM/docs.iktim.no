@@ -102,11 +102,11 @@ plugins:
     - tags                          # Searchable tags
     - callouts                      # Convert obsidian callouts to markdown format
     - roamlinks                     # Use WikiLinks 
-    - git-committers:
+    - git-committers:               # Authors
         repository: VaagenIM/docs.iktim.no
         branch: main
         token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
-    - git-revision-date-localized:   # Time since last update
+    - git-revision-date-localized:  # Time since last update
         type: timeago
         enable_creation_date: true
     - bibtex:                       # Citations & reference management (Zotero)
