@@ -13,13 +13,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Format spaces
-      run: |
-        echo sudo apt-get install rename
-        echo find docs/ -execdir rename 's/ /-/g' '{}' \+
-        echo find docs/ -execdir bash -c 'file={}; git mv "$file" "${file/\ /-}"' \;
-        find docs/ -name "* *" -print0 | sort -rz | while read -d $'\0' f; do git mv -v "$f" "$(dirname "$f")/$(basename "${f// /-}")"; done
-
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -33,7 +26,10 @@ jobs:
     - uses: r-lib/actions/setup-pandoc@master
       with:
         pandoc-version: "2.14.0.3"
-       
+
+    - name: Format spaces
+      run: find docs/ -name "* *" -print0 | sort -rz | while read -d $'\0' f; do mv -v "$f" "$(dirname "$f")/$(basename "${f// /-}")"; done
+
     - name: Deploy
       run: |
         echo 'docs.iktim.no' > ./docs/CNAME
