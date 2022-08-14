@@ -1,6 +1,6 @@
 ---
 title: Bash
-aliases: [Bash,Batch,Bat,Shell,Sh,#!/bin/bash,#!/bin/sh]
+aliases: [Bash,Batch,Bat,Shell,Sh,]
 lang: nb-NO
 author:
   - Sondre Grønås

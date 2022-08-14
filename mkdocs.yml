@@ -14,7 +14,7 @@ copyright: "Copyright &copy; 2021-2022 Sondre Grønås"
 
 theme:
     name: material
-    custom_dir: resources
+    custom_dir: overrides
     language: "no"
 
     palette:  # Light/Dark Mode
