@@ -2,7 +2,7 @@
 title: 06. DHCP
 aliases: [DHCP,Dynamic Host Configuration Protocol]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Nettverk

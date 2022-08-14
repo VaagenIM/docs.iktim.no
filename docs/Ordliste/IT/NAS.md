@@ -2,7 +2,7 @@
 title: NAS
 aliases: [NAS,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

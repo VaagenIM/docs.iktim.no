@@ -2,7 +2,7 @@
 title: Minecraft Server
 aliases: [Minecraft Server,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

@@ -2,7 +2,7 @@
 title: Backend
 aliases: [Backend,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

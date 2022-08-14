@@ -2,7 +2,7 @@
 title: Konsollvindu
 aliases: [Konsollvindu,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

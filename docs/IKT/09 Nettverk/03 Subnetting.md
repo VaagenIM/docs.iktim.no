@@ -2,7 +2,7 @@
 title: 03. Subnetting
 aliases: [Subnetting,Subnet Mask]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Nettverk

@@ -2,7 +2,7 @@
 title: YouTube Kanaler
 aliases: [YouTube Kanaler,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Ekstra

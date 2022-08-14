@@ -2,7 +2,7 @@
 title: docker build
 aliases: [docker build,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

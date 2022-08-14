@@ -2,7 +2,7 @@
 title: OS Image
 aliases: [OS Image,Operativsystem,OS]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

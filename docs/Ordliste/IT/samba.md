@@ -2,7 +2,7 @@
 title: samba
 aliases: [samba,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

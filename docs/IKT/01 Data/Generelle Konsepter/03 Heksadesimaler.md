@@ -2,7 +2,7 @@
 title: 03. Heksadesimaler
 aliases: [Heksadesimaler,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Tallsystem

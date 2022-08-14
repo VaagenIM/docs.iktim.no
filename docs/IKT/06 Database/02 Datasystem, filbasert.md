@@ -2,7 +2,7 @@
 title: 02. Datasystem, filbasert
 aliases: [Filbasert Database,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Database

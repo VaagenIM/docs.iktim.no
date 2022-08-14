@@ -2,7 +2,7 @@
 title: 03. Datasystem, SQL
 aliases: [SQL Database]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Database

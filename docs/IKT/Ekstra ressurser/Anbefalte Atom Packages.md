@@ -2,7 +2,7 @@
 title: Anbefalte Atom Packages (Utdatert)
 aliases: [Anbefalte Atom Packages,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

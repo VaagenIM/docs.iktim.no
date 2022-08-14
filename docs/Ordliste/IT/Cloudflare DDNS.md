@@ -2,7 +2,7 @@
 title: Cloudflare DDNS
 aliases: [Cloudflare DDNS,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

@@ -2,7 +2,7 @@
 title: Salt og Pepper
 aliases: [Salt og Pepper,Salt,Pepper]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

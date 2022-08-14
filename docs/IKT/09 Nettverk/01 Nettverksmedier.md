@@ -2,7 +2,7 @@
 title: 01. Nettverksmedier
 aliases: [Nettverksmedier,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Nettverk

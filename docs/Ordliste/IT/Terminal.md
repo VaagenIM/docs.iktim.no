@@ -2,7 +2,7 @@
 title: Terminal
 aliases: [Terminal,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

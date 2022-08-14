@@ -2,7 +2,7 @@
 title: Programmering
 aliases: [Programmering,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Programmering

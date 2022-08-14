@@ -2,7 +2,7 @@
 title: Azure Resource Group
 aliases: [Azure Resource Group,Resource Group]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

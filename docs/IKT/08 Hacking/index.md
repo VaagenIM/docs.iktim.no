@@ -2,7 +2,7 @@
 title: Etisk Hacking
 aliases: [Etisk Hacking,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Hacking

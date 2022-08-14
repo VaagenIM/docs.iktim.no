@@ -2,7 +2,7 @@
 title: Linux Ressurser
 aliases: [Linux Ressurser,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Linux

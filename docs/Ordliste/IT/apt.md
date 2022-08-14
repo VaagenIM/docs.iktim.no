@@ -2,7 +2,7 @@
 title: apt
 aliases: [apt,Advanced Packaging Tool]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

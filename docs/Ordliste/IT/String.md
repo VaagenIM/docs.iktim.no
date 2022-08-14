@@ -2,7 +2,7 @@
 title: String
 aliases: [String,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

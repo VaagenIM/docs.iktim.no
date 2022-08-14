@@ -2,7 +2,7 @@
 title: 06 Databaser
 aliases: [Databaser, SQLite]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

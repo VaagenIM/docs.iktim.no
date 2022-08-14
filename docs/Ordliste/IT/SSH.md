@@ -2,7 +2,7 @@
 title: SSH
 aliases: [SSH,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

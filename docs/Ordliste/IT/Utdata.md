@@ -2,7 +2,7 @@
 title: Utdata
 aliases: [Utdata,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

@@ -2,7 +2,7 @@
 title: RGB
 aliases: [RGB,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

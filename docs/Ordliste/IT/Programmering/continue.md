@@ -2,7 +2,7 @@
 title: continue
 aliases: [continue,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

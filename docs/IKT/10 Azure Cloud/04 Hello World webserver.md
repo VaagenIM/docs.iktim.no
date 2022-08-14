@@ -2,7 +2,7 @@
 title: 04. Hello World webserver
 aliases: [Hello World webserver,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Azure

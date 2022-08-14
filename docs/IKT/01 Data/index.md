@@ -2,7 +2,7 @@
 title: Data
 aliases: [Data,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Data

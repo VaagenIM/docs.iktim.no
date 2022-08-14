@@ -2,7 +2,7 @@
 title: Nettverk
 aliases: [Nettverk,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Nettverk

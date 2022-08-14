@@ -2,7 +2,7 @@
 title: 08 Cookies
 aliases: [Cookies,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

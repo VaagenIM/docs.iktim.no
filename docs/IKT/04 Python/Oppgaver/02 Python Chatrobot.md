@@ -2,7 +2,7 @@
 title: 02 Python Chatrobot
 aliases: [Python Chatrobot,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Python

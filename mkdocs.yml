@@ -45,7 +45,7 @@ theme:
         - search.highlight          # Highlight occurences inside clicked search result
         - search.share              # Share search URL button in text input
 
-    logo: assets/logo.png
+    logo: logo.png
     favicon: https://iktim.no/favicon.ico
 
 
@@ -105,7 +105,6 @@ plugins:
     - footermatter:                 # Last edited, date created, author links. Needs to be updated for proper author rendering
         default_author_img: https://ui-avatars.com
         default_author_url: https://github.com/VaagenIM/docs.iktim.no
-        key_authors: author
         locale: nb_NO
         author_map:                 # Name in frontmatter | path RELATIVE TO: resources/assets/authors or URL | website
 #          - Sondre Grønås | sondregronas.png | https://github.com/sondregronas

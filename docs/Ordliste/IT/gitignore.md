@@ -2,7 +2,7 @@
 title: .gitignore
 aliases: [.gitignore,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - GitHub

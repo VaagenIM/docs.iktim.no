@@ -2,7 +2,7 @@
 title: 01 Print og Input funksjonene
 aliases: [Print og Input funksjonene,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Python

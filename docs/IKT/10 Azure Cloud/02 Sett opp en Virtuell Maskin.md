@@ -2,7 +2,7 @@
 title: 02. Sett opp en Virtuell Maskin
 aliases: [Sett opp en Virtuell Maskin,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Cloud

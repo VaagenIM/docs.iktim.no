@@ -2,7 +2,7 @@
 title: 05 Enum, Identifisering
 aliases: [Enum, Identifisering,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Python

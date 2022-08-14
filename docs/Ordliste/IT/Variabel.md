@@ -2,7 +2,7 @@
 title: Variabel
 aliases: [Variabel,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

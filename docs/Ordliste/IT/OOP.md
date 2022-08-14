@@ -2,7 +2,7 @@
 title: OOP
 aliases: [OOP,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

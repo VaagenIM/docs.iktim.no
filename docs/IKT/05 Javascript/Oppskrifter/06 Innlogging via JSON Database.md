@@ -2,7 +2,7 @@
 title: 06 Innlogging via JSON Database
 aliases: [Innlogging via JSON Database,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

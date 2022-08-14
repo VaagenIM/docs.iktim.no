@@ -2,7 +2,7 @@
 title: Docker
 aliases: [Docker,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

@@ -2,7 +2,7 @@
 title: docker-compose
 aliases: [docker-compose,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

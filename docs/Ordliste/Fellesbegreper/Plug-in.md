@@ -2,7 +2,7 @@
 title: Plug-in
 aliases: [Plug-in,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

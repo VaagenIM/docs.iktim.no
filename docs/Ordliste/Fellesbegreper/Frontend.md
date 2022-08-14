@@ -2,7 +2,7 @@
 title: Frontend
 aliases: [Frontend,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

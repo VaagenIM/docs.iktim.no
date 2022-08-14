@@ -2,7 +2,7 @@
 title: SSL
 aliases: [SSL,TLS]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

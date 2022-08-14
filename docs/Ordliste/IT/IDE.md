@@ -2,7 +2,7 @@
 title: IDE
 aliases: [IDE,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

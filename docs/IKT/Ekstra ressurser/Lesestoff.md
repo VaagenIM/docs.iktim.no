@@ -2,7 +2,7 @@
 title: Lesestoff
 aliases: [Lesestoff,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Ekstra

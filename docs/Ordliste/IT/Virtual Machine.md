@@ -2,7 +2,7 @@
 title: Virtual Machine
 aliases: [Virtual Machine,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

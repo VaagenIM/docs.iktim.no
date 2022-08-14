@@ -2,7 +2,7 @@
 title: Atom IDE (GAMMEL)
 aliases: [Atom IDE,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - IDE

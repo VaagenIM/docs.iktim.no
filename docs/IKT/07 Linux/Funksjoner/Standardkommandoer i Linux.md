@@ -2,7 +2,7 @@
 title: Standardkommandoer i Linux
 aliases: [Standardkommandoer i Linux,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Linux

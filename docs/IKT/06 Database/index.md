@@ -2,7 +2,7 @@
 title: Database
 aliases: [Database,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Database

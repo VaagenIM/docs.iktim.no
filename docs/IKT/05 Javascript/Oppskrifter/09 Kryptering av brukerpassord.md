@@ -2,7 +2,7 @@
 title: 09 Kryptering av brukerpassord
 aliases: [Kryptering av brukerpassord,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

@@ -2,7 +2,7 @@
 title: 10-Tallsystemet
 aliases: [10-Tallsystemet,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

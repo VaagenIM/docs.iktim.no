@@ -2,7 +2,7 @@
 title: Syntax-highlighting
 aliases: [Syntax-highlighting,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

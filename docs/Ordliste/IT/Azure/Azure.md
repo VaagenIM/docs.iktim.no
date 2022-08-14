@@ -2,7 +2,7 @@
 title: Azure
 aliases: [Azure,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

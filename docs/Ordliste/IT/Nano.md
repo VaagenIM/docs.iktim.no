@@ -2,7 +2,7 @@
 title: Nano
 aliases: [Nano,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

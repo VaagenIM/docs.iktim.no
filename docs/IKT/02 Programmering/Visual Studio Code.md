@@ -2,7 +2,7 @@
 title: Visual Studio Code
 aliases: [VSCode,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

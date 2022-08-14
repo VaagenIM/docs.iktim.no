@@ -2,7 +2,7 @@
 title: Azure Region
 aliases: [Azure Region,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

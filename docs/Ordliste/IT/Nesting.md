@@ -2,7 +2,7 @@
 title: Nesting
 aliases: [Nesting,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

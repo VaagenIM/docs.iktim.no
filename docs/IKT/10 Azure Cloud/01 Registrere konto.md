@@ -2,7 +2,7 @@
 title: 01. Registrere konto
 aliases: [Registrere konto,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Cloud

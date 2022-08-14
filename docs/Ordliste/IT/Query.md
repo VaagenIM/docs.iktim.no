@@ -2,7 +2,7 @@
 title: Query
 aliases: [Query,Forespørsel]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

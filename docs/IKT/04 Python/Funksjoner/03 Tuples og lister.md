@@ -2,7 +2,7 @@
 title: 03 Tuples og lister
 aliases: [Tuples og lister,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Python

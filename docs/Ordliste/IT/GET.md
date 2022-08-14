@@ -2,7 +2,7 @@
 title: GET
 aliases: [GET,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

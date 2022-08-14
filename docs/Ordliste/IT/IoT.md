@@ -2,7 +2,7 @@
 title: IoT
 aliases: [IoT,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

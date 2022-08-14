@@ -2,7 +2,7 @@
 title: DNS
 aliases: [DNS,Domain Name System,Navnetjener]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

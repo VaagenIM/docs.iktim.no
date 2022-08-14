@@ -2,7 +2,7 @@
 title: Azure Virtual Machine
 aliases: [Azure Virtual Machine,AVM]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

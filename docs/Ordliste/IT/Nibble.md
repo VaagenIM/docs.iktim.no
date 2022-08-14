@@ -2,7 +2,7 @@
 title: Nibble
 aliases: [Nibble,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

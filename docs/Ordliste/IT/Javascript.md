@@ -2,7 +2,7 @@
 title: Javascript
 aliases: [Javascript,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

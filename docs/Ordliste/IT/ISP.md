@@ -2,7 +2,7 @@
 title: ISP
 aliases: [ISP,Internett Tilbyder,Internet Service Provider]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

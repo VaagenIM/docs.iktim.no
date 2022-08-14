@@ -2,7 +2,7 @@
 title: 05 Enkel Innloggingsdemo
 aliases: [NodeJS - Enkel Innloggingsdemo,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

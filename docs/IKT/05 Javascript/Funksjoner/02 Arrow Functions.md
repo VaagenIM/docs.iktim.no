@@ -2,7 +2,7 @@
 title: Arrow Functions
 aliases: [Arrow Functions,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

@@ -2,7 +2,7 @@
 title: Enumerate
 aliases: [Enumerate,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

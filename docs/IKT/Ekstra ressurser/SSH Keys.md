@@ -2,7 +2,7 @@
 title: SSH Keys
 aliases: [SSH Keys,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - SSH

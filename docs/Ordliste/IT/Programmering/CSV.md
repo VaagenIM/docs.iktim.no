@@ -2,7 +2,7 @@
 title: CSV
 aliases: [CSV,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

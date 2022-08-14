@@ -2,7 +2,7 @@
 title: Cloud
 aliases: [The Cloud,Skyen,Cloud,Skya]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

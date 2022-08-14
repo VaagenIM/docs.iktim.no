@@ -2,7 +2,7 @@
 title: Templating Engine
 aliases: [Templating Engine,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

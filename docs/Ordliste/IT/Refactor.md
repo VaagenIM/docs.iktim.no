@@ -2,7 +2,7 @@
 title: Refactor
 aliases: [Refactor,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

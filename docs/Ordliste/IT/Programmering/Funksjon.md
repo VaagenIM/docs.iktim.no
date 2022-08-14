@@ -2,7 +2,7 @@
 title: Funksjon
 aliases: [Funksjon,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

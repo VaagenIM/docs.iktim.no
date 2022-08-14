@@ -2,7 +2,7 @@
 title: docker run
 aliases: [docker run,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

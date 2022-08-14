@@ -2,7 +2,7 @@
 title: 02 Dictionaries
 aliases: [Dictionaries,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Python

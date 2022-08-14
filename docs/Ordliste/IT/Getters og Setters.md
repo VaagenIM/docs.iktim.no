@@ -2,7 +2,7 @@
 title: Getters og Setters
 aliases: [Getters og Setters,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

@@ -2,7 +2,7 @@
 title: 01. Dataformater
 aliases: [Dataformater,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Database

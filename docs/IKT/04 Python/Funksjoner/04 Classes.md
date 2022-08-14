@@ -2,7 +2,7 @@
 title: 04 Classes
 aliases: [Class,Classes]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Python

@@ -36,7 +36,7 @@ Siden støtter innbygging av YouTube via HTML. Bruk "Del YouTube" funksjonen på
 title: <%* tR += `${tp.file.title}` %>
 aliases: [<%* tR += `${tp.file.title}` %>,]
 lang: nb-NO
-author:
+authors:
   - Ditt navn
 tags:
   - Definisjon
@@ -48,7 +48,7 @@ updated: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 ```
 `title` er navnet som vil vises i sidebar.
 
-**OBS:** For å være synlig som en forfatter må du legge til en linje i `mkdocs.yml` under `footermatter / author_map` plugin feltet, samt laste opp bilde under `resources/assets/authors`. Format: `Ditt navn | assets/authors/dittbilde.png | https://github.com/dinbruker`
+**OBS:** For å få bilde som en forfatter må du legge til en linje i `mkdocs.yml` under `footermatter / author_map` plugin feltet og eventuelt laste opp bilde under `resources/assets/authors`. Format: `Ditt navn | assets/authors/dittbilde.png | https://github.com/dinbruker`
 
 # Kildereferering via [Zotero](https://www.zotero.org/)
 Bibliotek (bruk synkronisering): https://www.zotero.org/groups/4658815/docs.iktim.no/library

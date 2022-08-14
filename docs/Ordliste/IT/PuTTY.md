@@ -2,7 +2,7 @@
 title: PuTTY
 aliases: [PuTTY,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

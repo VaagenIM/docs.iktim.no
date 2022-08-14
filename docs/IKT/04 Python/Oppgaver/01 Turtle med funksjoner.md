@@ -2,7 +2,7 @@
 title: 01 Turtle med funksjoner
 aliases: [Turtle med funksjoner,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Python

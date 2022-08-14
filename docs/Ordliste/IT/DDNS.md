@@ -2,7 +2,7 @@
 title: DDNS
 aliases: [DDNS,DynDNS, Dynamic DNS]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

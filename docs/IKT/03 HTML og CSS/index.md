@@ -2,7 +2,7 @@
 title: HTML og CSS
 aliases: [HTML og CSS,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - HTML

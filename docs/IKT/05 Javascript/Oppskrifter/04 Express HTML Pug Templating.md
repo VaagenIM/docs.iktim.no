@@ -2,7 +2,7 @@
 title: 04 Express HTML - Pug Templating
 aliases: [Express HTML - Pug Templating,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

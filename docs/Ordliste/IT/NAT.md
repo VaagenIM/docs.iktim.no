@@ -2,7 +2,7 @@
 title: NAT
 aliases: [NAT,Network Address Translation]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

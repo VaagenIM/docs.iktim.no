@@ -2,7 +2,7 @@
 title: return
 aliases: [return,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

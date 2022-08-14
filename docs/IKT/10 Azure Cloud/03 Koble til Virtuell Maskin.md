@@ -2,7 +2,7 @@
 title: 03. Koble til Virtuell Maskin
 aliases: [Koble til Virtuell Maskin,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Cloud

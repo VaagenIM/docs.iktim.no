@@ -2,7 +2,7 @@
 title: Ubuntu Server
 aliases: [Ubuntu Server,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

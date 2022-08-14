@@ -2,7 +2,7 @@
 title: 02 NodeJS - Hello World
 aliases: [NodeJS - Hello World,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

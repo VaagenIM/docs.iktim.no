@@ -2,7 +2,7 @@
 title: 02. IPv4-adresser
 aliases: [IPv4-adresser, IPv4, IP-adresser]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Nettverk

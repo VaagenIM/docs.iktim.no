@@ -2,7 +2,7 @@
 title: 07. HTTPS og NGINX Proxy Manager
 aliases: [07. HTTPS og NGINX Proxy Manager,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Azure

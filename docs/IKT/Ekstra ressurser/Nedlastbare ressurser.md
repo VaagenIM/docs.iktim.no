@@ -2,7 +2,7 @@
 title: Nedlastbare ressurser
 aliases: [Nedlastbare ressurser,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

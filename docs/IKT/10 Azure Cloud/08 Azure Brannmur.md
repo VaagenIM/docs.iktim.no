@@ -2,7 +2,7 @@
 title: 08. Azure Brannmur
 aliases: [Azure Brannmur,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - missing

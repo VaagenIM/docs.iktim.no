@@ -2,7 +2,7 @@
 title: 02 Oppsett av Apache2 i delt mappe
 aliases: [Oppsett av Apache2 i delt mappe,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Linux

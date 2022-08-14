@@ -2,7 +2,7 @@
 title: 01 Node Javascript - Installasjon og oppsett i IDE
 aliases: [NodeJS - Installasjon og oppsett i IDE,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - IDE

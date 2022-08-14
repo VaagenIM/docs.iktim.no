@@ -2,7 +2,7 @@
 title: Ditt eget nettsted!
 aliases: [HTML Nettside,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - HTML

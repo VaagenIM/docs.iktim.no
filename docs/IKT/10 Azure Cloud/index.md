@@ -2,7 +2,7 @@
 title: Azure Cloud
 aliases: [Azure,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Cloud

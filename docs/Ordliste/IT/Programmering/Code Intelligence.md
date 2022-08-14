@@ -2,7 +2,7 @@
 title: Code Intelligence
 aliases: [Code Intelligence,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

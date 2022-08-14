@@ -2,7 +2,7 @@
 title: 05. Last ned mer RAM (SWAP)
 aliases: [Last ned mer RAM (SWAP),]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Cloud

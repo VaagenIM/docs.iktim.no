@@ -2,7 +2,7 @@
 title: Bash
 aliases: [Bash,Batch,Bat,Shell,Sh,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

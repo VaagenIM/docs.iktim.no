@@ -2,7 +2,7 @@
 title: Oktett
 aliases: [Oktett,Octet]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

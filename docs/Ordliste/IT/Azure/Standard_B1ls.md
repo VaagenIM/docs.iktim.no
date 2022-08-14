@@ -2,7 +2,7 @@
 title: Standard_B1ls
 aliases: [Standard_B1ls,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

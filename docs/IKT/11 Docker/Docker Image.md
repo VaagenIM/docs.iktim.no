@@ -2,7 +2,7 @@
 title: Docker Image
 aliases: [Docker Image,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

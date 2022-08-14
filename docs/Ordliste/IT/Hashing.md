@@ -2,7 +2,7 @@
 title: Hashing
 aliases: [Hashing,Hashet]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

@@ -2,7 +2,7 @@
 title: Docker Container
 aliases: [Docker Container,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

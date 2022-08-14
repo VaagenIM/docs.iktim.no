@@ -2,7 +2,7 @@
 title: HTTP Methods
 aliases: [HTTP Metoder,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

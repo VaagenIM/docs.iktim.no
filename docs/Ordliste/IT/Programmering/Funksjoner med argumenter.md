@@ -2,7 +2,7 @@
 title: Funksjoner med argumenter
 aliases: [Funksjoner med argumenter,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

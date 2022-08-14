@@ -2,7 +2,7 @@
 title: 03 Utviklingsmiljø
 aliases: [NodeJS - Utviklingsmiljø,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - IDE

@@ -2,7 +2,7 @@
 title: HTML
 aliases: [HTML,HyperText Markup Language]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

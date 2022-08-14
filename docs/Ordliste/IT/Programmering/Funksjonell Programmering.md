@@ -2,7 +2,7 @@
 title: Funksjonell Programmering
 aliases: [Funksjonell Programmering,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

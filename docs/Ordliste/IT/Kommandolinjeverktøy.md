@@ -2,7 +2,7 @@
 title: Kommandolinjeverktøy
 aliases: [Kommandolinjeverktøy,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

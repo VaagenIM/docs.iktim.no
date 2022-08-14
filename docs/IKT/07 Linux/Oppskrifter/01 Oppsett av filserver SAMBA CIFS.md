@@ -2,7 +2,7 @@
 title: 01 Oppsett av filserver SAMBA CIFS
 aliases: [Oppsett av filserver SAMBA CIFS,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Linux

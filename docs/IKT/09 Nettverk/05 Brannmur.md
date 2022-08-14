@@ -2,7 +2,7 @@
 title: 05. Brannmur
 aliases: [Brannmur,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Nettverk

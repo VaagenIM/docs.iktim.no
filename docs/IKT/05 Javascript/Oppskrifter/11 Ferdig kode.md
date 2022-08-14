@@ -2,7 +2,7 @@
 title: 11 Ferdig kode
 aliases: [11 Ferdig kode,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - missing

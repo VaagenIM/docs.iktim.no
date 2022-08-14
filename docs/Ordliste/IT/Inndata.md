@@ -2,7 +2,7 @@
 title: Inndata
 aliases: [Inndata,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

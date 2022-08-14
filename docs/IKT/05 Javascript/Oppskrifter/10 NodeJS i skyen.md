@@ -2,7 +2,7 @@
 title: 10 Publiser i skya
 aliases: [Publiser i skya]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Cloud

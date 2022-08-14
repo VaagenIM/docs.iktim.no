@@ -2,7 +2,7 @@
 title: Parameter
 aliases: [Parameter,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

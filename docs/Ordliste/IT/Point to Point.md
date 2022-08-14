@@ -2,7 +2,7 @@
 title: Point to Point
 aliases: [Point to Point,PTP]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Nettverk

@@ -2,7 +2,7 @@
 title: Variabler - let, var, const
 aliases: [Javascript variabler,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

@@ -2,7 +2,7 @@
 title: 02. Binærtall
 aliases: [To-tallsystem,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Tallsystem

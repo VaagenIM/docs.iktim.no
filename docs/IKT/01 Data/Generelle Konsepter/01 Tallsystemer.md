@@ -2,7 +2,7 @@
 title: 01. Tallsystemer
 aliases: [Tallsystemer,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Tallsystem

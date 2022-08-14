@@ -2,7 +2,7 @@
 title: JetBrains IDE
 aliases: [JetBrains IDE,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - IDE

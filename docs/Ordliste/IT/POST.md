@@ -2,7 +2,7 @@
 title: POST
 aliases: [POST,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

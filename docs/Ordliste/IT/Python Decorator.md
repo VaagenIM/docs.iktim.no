@@ -2,7 +2,7 @@
 title: Python Decorator
 aliases: [Python Decorator,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

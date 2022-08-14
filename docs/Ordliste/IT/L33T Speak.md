@@ -2,7 +2,7 @@
 title: L33T Speak
 aliases: [L33T Speak,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

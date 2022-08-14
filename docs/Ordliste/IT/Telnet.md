@@ -2,7 +2,7 @@
 title: Telnet
 aliases: [Telnet,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

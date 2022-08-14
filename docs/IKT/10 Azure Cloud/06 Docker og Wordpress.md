@@ -2,7 +2,7 @@
 title: 06. Docker og Wordpress
 aliases: [Docker og Wordpress,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Azure

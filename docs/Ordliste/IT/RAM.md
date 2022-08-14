@@ -2,7 +2,7 @@
 title: RAM
 aliases: [RAM,Minne]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

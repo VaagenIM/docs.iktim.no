@@ -2,7 +2,7 @@
 title: Statisk IP
 aliases: [Statisk IP,Statisk IP-adresser]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

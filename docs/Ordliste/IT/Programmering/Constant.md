@@ -2,7 +2,7 @@
 title: Constant
 aliases: [Constant,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

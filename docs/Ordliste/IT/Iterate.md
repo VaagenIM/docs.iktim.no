@@ -2,7 +2,7 @@
 title: Iterate
 aliases: [Iterer,Iterasjon]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon

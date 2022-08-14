@@ -2,7 +2,7 @@
 title: 07 Brukerregistrering
 aliases: [Brukerregistrering,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Javascript

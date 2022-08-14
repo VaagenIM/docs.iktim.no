@@ -2,7 +2,7 @@
 title: apache2
 aliases: [apache2,]
 lang: nb-NO
-author:
+authors:
   - Sondre Grønås
 tags:
   - Definisjon
