@@ -3,6 +3,10 @@ name: CD
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - 'README.md'
+  schedule:
+    - cron:  '0 */4 * * *'
 
 jobs:
   build:
