@@ -39,7 +39,6 @@ theme:
         - navigation.tabs           # Subdirectories of docs/ as tabs
         - navigation.tracking       # Automatically add #anchor to URL while scrolling
         - navigation.top            # Back to top button
-        - navigation.instant        # Load without reloading the page
         - navigation.prune          # Performance / size optimization
         - search.suggest            # Autocomplete results during search
         - search.highlight          # Highlight occurences inside clicked search result
@@ -57,6 +56,13 @@ extra:
       name: "@sondregronas"
     - icon: fontawesome/solid/paper-plane
       link: mailto:mail@iktim.no
+  alternate:
+    - name: Norsk
+      link: '%GT_RELATIVE_URL%'
+      lang: 'no'
+    - name: English
+      link: 'https://translate.goog/?_x_tr_sl=no&_x_tr_tl=en'
+      lang: 'en'
 
 
 markdown_extensions:
@@ -99,6 +105,8 @@ markdown_extensions:
 
 plugins:
     - search                        # Search bar
+    - google-translate:             # Relative paths for google translate
+        url: 'docs.iktim.no'
     - tags                          # Searchable tags
     - callouts                      # Convert obsidian callouts to markdown format
     - roamlinks                     # Use WikiLinks

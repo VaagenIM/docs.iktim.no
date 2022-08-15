@@ -9,3 +9,4 @@ mkdocs-callouts
 mdx-breakless-lists
 mkdocs-minify-plugin
 git+https://github.com/sondregronas/mkdocs-footermatter@main
+mkdocs-google-translate
