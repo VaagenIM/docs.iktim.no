@@ -16,7 +16,6 @@ theme:
     name: material
     custom_dir: overrides
     language: 'no'
-    locale: 'no'
     
     palette:  # Light/Dark Mode
     - media: "(prefers-color-scheme: light)"  # Light mode
