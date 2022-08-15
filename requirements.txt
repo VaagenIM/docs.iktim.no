@@ -8,5 +8,5 @@ git+https://github.com/sondregronas/mkdocs-bibtex@master
 mkdocs-callouts
 mdx-breakless-lists
 mkdocs-minify-plugin
-git+https://github.com/sondregronas/mkdocs-footermatter@main
+mkdocs-footermatter
 mkdocs-google-translate
