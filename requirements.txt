@@ -10,4 +10,3 @@ mdx-breakless-lists
 mkdocs-minify-plugin
 mkdocs-footermatter
 mkdocs-google-translate
-mkdocs-submodule-edit-uri
