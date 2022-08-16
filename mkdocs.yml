@@ -7,7 +7,7 @@ docs_dir: docs
 
 repo_name: docs.iktim.no
 repo_url: https://github.com/VaagenIM/docs.iktim.no
-edit_uri: https://github.com/VaagenIM/docs.iktim.no/tree/main/docs
+edit_uri: edit/main/docs/
 
 copyright: "Copyright &copy; 2021-2022 Sondre Grønås"
 
@@ -131,3 +131,11 @@ plugins:
           - '.*\.(tmp|bin|tar)$'
     - minify:                       # Optimize load times
         minify_html: true
+    - submodule-edit-uri:           # Edit_uri in submodules
+        modules:
+        - IKT:
+            old: https://github.com/VaagenIM/docs.iktim.no/edit/main/docs/IKT
+            new: https://github.com/VaagenIM/docs.iktim.no-IKT/edit/main
+        - MP:
+            old: https://github.com/VaagenIM/docs.iktim.no/edit/main/docs/MP
+            new: https://github.com/VaagenIM/docs.iktim.no-MP/edit/main
