@@ -7,6 +7,7 @@ docs_dir: docs
 
 repo_name: docs.iktim.no
 repo_url: https://github.com/VaagenIM/docs.iktim.no
+edit_uri: /
 
 copyright: "Copyright &copy; 2021-2022 Sondre Grønås"
 
