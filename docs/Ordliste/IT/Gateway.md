@@ -9,6 +9,6 @@ tags:
   - Nettverk
   - IP
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:28:16
+updated: 2022-08-16 21:09:10
 ---
 # Gateway

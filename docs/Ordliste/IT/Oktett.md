@@ -8,11 +8,11 @@ tags:
   - Definisjon
   - Nettverk
   - IP
-created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:29:37
+created: 2022-04-09 04:00:00
+updated: 2022-08-16 17:48:55
 ---
 # Oktett
-Et mer vennlig navn for [[Byte]], altså 8 bits, som definerer de ulike tallene i en [[02 IPv4-adresser|IPv4-adresse]]. En IP adresse har 4 oktetter separert med punktum. $192.168.1.255$ er et eksempel på en privat ip-adresse.
+Et mer vennlig navn for [[Byte]], altså 8 bits, som definerer de ulike tallene i en [[02 IPv4 adresser|IPv4-adresse]]. En IP adresse har 4 oktetter separert med punktum. $192.168.1.255$ er et eksempel på en privat ip-adresse.
 
 | Oktett 1 | Oktett 2 | Oktett 3 | Oktett 4 |
 | -- | -- | -- | -- |

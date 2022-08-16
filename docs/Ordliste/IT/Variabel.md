@@ -7,7 +7,7 @@ authors:
 tags:
   - Definisjon
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:28:57
+updated: 2022-08-16 20:52:58
 ---
 # Variabel
 En variabel er et navn, eller en definisjon, det kan være hva som helst, som inneholder noe informasjon - dette lagres i [[RAM|minnet]]. Variabler kan brukes i stedet for ren tekst, og kan endres dynamisk. Det vil si de kan holde på informasjon, endre på informasjon og bli manipulert.

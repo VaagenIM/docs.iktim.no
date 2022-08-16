@@ -7,6 +7,6 @@ authors:
 tags:
   - Definisjon
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:28:30
+updated: 2022-08-16 21:11:46
 ---
 # IKT
