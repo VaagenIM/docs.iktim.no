@@ -1,4 +1,0 @@
-[submodule "docs/IKT"]
-	path = docs/IKT
-	url = https://github.com/VaagenIM/docs.iktim.no-ikt
-	branch = main
