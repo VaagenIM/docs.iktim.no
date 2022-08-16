@@ -10,3 +10,4 @@ mdx-breakless-lists
 mkdocs-minify-plugin
 mkdocs-footermatter
 mkdocs-google-translate
+git+https://github.com/sondregronas/mkdocs-submodule-edit-uri@reverse-separator-hack
