@@ -1,0 +1,6 @@
+[submodule "docs/IKT"]
+	path = docs/IKT
+	url = https://github.com/VaagenIM/docs.iktim.no-ikt
+[submodule "docs/MP"]
+	path = docs/MP
+	url = https://github.com/VaagenIM/docs.iktim.no-mp
