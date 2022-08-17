@@ -33,7 +33,8 @@
 }
 
 @media only screen and (max-width: 600px){
-  .footermatter span:after {
+  .footermatter span:after,
+  .footermatter svg:after{
       content: "\a";
       white-space: pre;
   }
