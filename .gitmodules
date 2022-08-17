@@ -6,3 +6,7 @@
 	path = docs/MP
 	url = https://github.com/VaagenIM/docs.iktim.no-mp
 	branch = main
+[submodule "docs/2022"]
+	path = docs/2022
+	url = https://github.com/VaagenIM/docs.iktim.no-2022
+	branch = main
