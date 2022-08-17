@@ -138,3 +138,6 @@ plugins:
         - MP:
             old: https://github.com/VaagenIM/docs.iktim.no/edit/main/docs/MP
             new: https://github.com/VaagenIM/docs.iktim.no-MP/edit/main
+        - 2022:
+            old: https://github.com/VaagenIM/docs.iktim.no/edit/main/docs/2022
+            new: https://github.com/VaagenIM/docs.iktim.no-2022/edit/main
