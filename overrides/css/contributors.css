@@ -32,10 +32,9 @@
     padding-bottom: 2px;
 }
 
-@media only screen and (max-width: 600px){
-  .footermatter span:after,
-  .footermatter svg:after{
-      content: "\a";
-      white-space: pre;
+@media only screen and (max-width: 768px){
+  .footermatter span{
+    display: block;
+    padding-bottom: 0.5em;
   }
 }
