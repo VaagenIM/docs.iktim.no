@@ -10,3 +10,5 @@ _DATA/
 *.DS_Store
 .DS_Store
 .cache
+
+orphaned*output.md
