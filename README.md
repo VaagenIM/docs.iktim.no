@@ -31,22 +31,10 @@ Bilder kan limes inn fra utklippstavle direkte i et dokument, disse skal legges 
 Siden støtter innbygging av YouTube via HTML. Bruk "Del YouTube" funksjonen på YouTube og velg `Bygg inn` for å hente HTML koden.
 
 ## YAML Frontmatter [Template](https://github.com/SilentVoid13/Templater) (Obsidian)
-```
----
-title: <%* tR += `${tp.file.title}` %>
-aliases: [<%* tR += `${tp.file.title}` %>,]
-lang: nb-NO
-authors:
-  - Ditt navn
-tags:
-  - Definisjon
-created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
-updated: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
----
-# <%* tR += `${tp.file.title}` %>
-<% tp.file.cursor() %>
-```
-`title` er navnet som vil vises i sidebar.
+Et eksempel på frontmatter kan lastes ned her: https://raw.githubusercontent.com/sondregronas/obsidian-config/main/Obsidian/_cfg/templates/new-docs.md
+<br>Eventuelt så kan du laste ned en Obsidian konfigurasjon: https://github.com/sondregronas/obsidian-config/releases
+
+`title` i frontmatter er navnet som vil vises i sidebar.
 
 **OBS:** For å få bilde som en forfatter må du legge til en linje i `mkdocs.yml` under `footermatter / author_map` plugin feltet og eventuelt laste opp bilde under `resources/assets/authors`. Format: `Ditt navn | assets/authors/dittbilde.png | https://github.com/dinbruker`
 
