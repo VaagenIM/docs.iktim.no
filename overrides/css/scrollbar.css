@@ -18,8 +18,3 @@ body::-webkit-scrollbar-thumb {
 body::-webkit-scrollbar-thumb:hover {
   background-color: #7e7e7e;
 }
-
-/* Don't disable scrolling on Lightbox */
-.fslightbox-open{
-  overflow: auto!important;
-}

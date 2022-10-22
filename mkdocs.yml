@@ -112,6 +112,7 @@ plugins:
     - tags                          # Searchable tags
     - callouts                      # Convert obsidian callouts to markdown format
     - roamlinks                     # Use WikiLinks
+    - glightbox:                    # Lightbox! https://github.com/blueswen/mkdocs-glightbox
     - footermatter:                 # Last edited, date created, author links. Needs to be updated for proper author rendering
         default_author_img: https://ui-avatars.com
         default_author_url: https://github.com/VaagenIM/docs.iktim.no
