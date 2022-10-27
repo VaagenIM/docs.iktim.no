@@ -62,6 +62,23 @@ extra:
     - name: English
       link: 'https://translate.goog/?_x_tr_sl=no&_x_tr_tl=en'
       lang: 'en'
+  analytics:
+    provider: google
+    property: G-SRDC6RDQ19
+    feedback:
+      title: Var siden nyttig?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Siden var nyttig
+          data: 1
+          note: >-
+            Takk for tilbakemeldingen!
+        - icon: material/emoticon-sad-outline
+          name: Siden kan forbedres
+          data: 0
+          note: >-  # Migrate to fider.io
+            Takk for tilbakemeldingen! Hjelp oss bli bedre ved å
+            benytte vårt <a href="https://github.com/VaagenIM/docs.iktim.no/issues" target="_blank" rel="noopener">tilbakemeldingsskjema</a>.
 
 
 markdown_extensions:
