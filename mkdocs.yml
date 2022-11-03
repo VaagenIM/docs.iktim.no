@@ -139,7 +139,7 @@ plugins:
 #          - Sondre Grønås | sondregronas.png | https://github.com/sondregronas
           - Sondre Grønås | https://www.gravatar.com/avatar/4e0476393c848aef61ed66d404da0d14?s=250 | https://github.com/sondregronas
     - bibtex:                       # Citations & reference management (Zotero)
-        bib_file: "references/docs.iktim.no.bib"
+        bib_dir: "references"
         csl_file: "references/harvard-cite-them-right.xml"
         cite_inline: True
     - include_dir_to_nav            # Automatically generate nav: (show directories and pages in sidebar)
