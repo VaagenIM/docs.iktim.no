@@ -6,8 +6,10 @@ on:
     branches: [ main ]
     paths-ignore:
       - 'README.md'
+  repository_dispatch:
+    types: [doc_update]
   schedule:
-    - cron:  '0 */2 * * *'
+    - cron:  '0 0 * */1 *'
 
 jobs:
   build:
