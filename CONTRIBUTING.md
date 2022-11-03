@@ -1,7 +1,7 @@
 # **Hvordan bidra**
 https://docs.iktim.no er et åpent prosjekt om en digital fagbok for IM, og vi ønsker at alle skal kunne bidra. Du kan også bidra ved å gi tilbakemeldinger på hvordan vi kan gjøre prosjektet bedre gjennom [issues siden](https://github.com/VaagenIM/docs.iktim.no/issues), eller sponse prosjektet.
 
-Siden er bygget med [MkDocs](https://www.mkdocs.org/) og [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). Den drives av meg, [Sondre Grønås](https://github.com/sondregronas).
+Siden er bygget med [MkDocs](https://www.mkdocs.org/) og [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ## **GitHub** :octocat:
 Last ned GitHub repoet via https://desktop.github.com/. I mappen `docs` finner du alle dokumentene som er publisert på https://docs.iktim.no.
@@ -47,4 +47,4 @@ Via YouTube's embed kode kan du legge til videoer i markdown filer. For å få t
 ## **Zotero (Kilderefering)** :label:
 Referansene legges til i `references` mappen som `.bib` format. For å legge til referanser, installer [Zotero](https://www.zotero.org/) og [Better BibTeX](https://retorque.re/zotero-better-bibtex/). Opprett gjerne din egen `.bib` fil.
 
-Du finner referansene i Obsidian via `Zotero Desktop Connector` pluginen. For å legge til referanser, skriver du `[@citekey]` i markdown filen. For å få tak i citekey, trykk på `Better BibTeX` ikonet i Zotero, og velg `Copy citekey`.
+Du finner referansene i Obsidian via `Zotero Desktop Connector` pluginen. For å legge til referanser, skriver du `[@citekey]` i markdown filen.
