@@ -6,9 +6,6 @@ site/
 _cfg/
 _DATA/
 
-*.bib
 *.DS_Store
 .DS_Store
 .cache
-
-orphaned*output.md

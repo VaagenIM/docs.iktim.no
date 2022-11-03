@@ -139,8 +139,8 @@ plugins:
 #          - Sondre Grønås | sondregronas.png | https://github.com/sondregronas
           - Sondre Grønås | https://www.gravatar.com/avatar/4e0476393c848aef61ed66d404da0d14?s=250 | https://github.com/sondregronas
     - bibtex:                       # Citations & reference management (Zotero)
-        bib_file: "https://api.zotero.org/groups/4658815/items?format=bibtex"
-        csl_file: "https://www.zotero.org/styles/harvard-cite-them-right?source=1"
+        bib_file: "references/docs.iktim.no.bib"
+        csl_file: "references/harvard-cite-them-right.xml"
         cite_inline: True
     - include_dir_to_nav            # Automatically generate nav: (show directories and pages in sidebar)
     - exclude:                      # Exclude pattern from site
