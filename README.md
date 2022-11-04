@@ -4,7 +4,7 @@
 
 Kilde for innholdet til https://docs.iktim.no.
 
-Dersom du ønsker å bidra til å forbedre innholdet, referer til [CONTRIBUTING.md](CONTRIBUTING.md), eller opprett en issue for å diskutere forbedringer.
+Dersom du ønsker å bidra til å forbedre innholdet, henvis deg til [CONTRIBUTING.md](CONTRIBUTING.md), eller opprett en issue for å diskutere forbedringer.
 
 ## :writing_hand: Credits
 - [ ] [Sondre Grønås](https://github.com/sondregronas)
