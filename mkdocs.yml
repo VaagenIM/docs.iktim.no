@@ -9,7 +9,9 @@ repo_name: docs.iktim.no
 repo_url: https://github.com/VaagenIM/docs.iktim.no
 edit_uri: edit/main/docs/
 
-copyright: "Copyright &copy; 2021-2022 Sondre Grønås"
+copyright: >
+  Copyright &copy; 2021 - 2022 Sondre Grønås –
+  <a href="#__consent">Change cookie settings</a>
 
 theme:
     name: material
