@@ -82,12 +82,11 @@ extra:
             Takk for tilbakemeldingen! Hjelp oss bli bedre ved å
             benytte vårt <a href="https://github.com/VaagenIM/docs.iktim.no/issues" target="_blank" rel="noopener">tilbakemeldingsskjema</a>.
   consent:
-    title: Cookie consent
+    title: Samtykke til informasjonskapsler
     description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+      Vi bruker informasjonskapsler for å gjenkjenne dine gjentatte besøk og preferanser, 
+      samt for å måle effektiviteten til innholdet og om brukerne finner det de leter etter. 
+      Med ditt samtykke hjelper du oss med å gjøre innholdet på siden bedre.
 
 markdown_extensions:
   # Essentials
