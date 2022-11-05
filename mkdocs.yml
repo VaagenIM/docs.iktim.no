@@ -83,10 +83,15 @@ extra:
             benytte vårt <a href="https://github.com/VaagenIM/docs.iktim.no/issues" target="_blank" rel="noopener">tilbakemeldingsskjema</a>.
   consent:
     title: Samtykke til informasjonskapsler
+    actions:
+      - accept
+      - reject
+      - manage 
     description: >- 
       Vi bruker informasjonskapsler for å gjenkjenne dine gjentatte besøk og preferanser, 
       samt for å måle effektiviteten til innholdet og om brukerne finner det de leter etter. 
       Med ditt samtykke hjelper du oss forbedre innholdet på siden.
+
 
 markdown_extensions:
   # Essentials
