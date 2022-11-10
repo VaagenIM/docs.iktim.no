@@ -134,6 +134,12 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+  # Abbreviations
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - references/abbr.md
+
 plugins:
     - search                        # Search bar
     - google-translate:             # Relative paths for google translate
