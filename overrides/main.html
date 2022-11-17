@@ -2,7 +2,7 @@
 
 {% block extrahead %}
     {{ super() }}
-	<meta name="description" content="{{ config.site_description }}">
+    <meta name="description" content="{{ config.site_description }}">
     <meta property="og:url" content="{{ config.site_url }}{{ page.url }}">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}">
