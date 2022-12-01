@@ -14,3 +14,4 @@
 *[OOP]: Objekt-orientert Programmering, funksjonene henger sammen og deler på dataverdier
 *[IDE]: Integrated Development Environment, programvare for å utvikle og kjøre kode i
 *[SQL]: Et databasespråk, Sequel
+*[API]: Application Programming Interface, metodene brukt for å kommunisere mellom programmer, f.eks. funksjoner for å hente informasjon om været fra en applikasjon som tilbyr værdata.
