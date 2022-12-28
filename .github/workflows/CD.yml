@@ -14,6 +14,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     steps:
     - uses: actions/checkout@v3
       with:
@@ -54,7 +61,17 @@ jobs:
     - name: Format spaces
       run: find docs/ -name "* *" -print0 | sort -rz | while read -d $'\0' f; do mv -v "$f" "$(dirname "$f")/$(basename "${f// /-}")"; done
 
-    - name: Deploy
+    - name: Build site
       run: |
         echo 'docs.iktim.no' > ./docs/CNAME
-        mkdocs gh-deploy --clean --force
+        mkdocs build --clean
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
+      with:
+        name: github-pages
+        path: ./site
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v1
