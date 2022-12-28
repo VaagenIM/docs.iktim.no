@@ -9,7 +9,11 @@ on:
   repository_dispatch:
     types: [doc_update]
   schedule:
-    - cron:  '0 0 1 */1 *'
+    - cron:  '0 0 * * *'
+    
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   build:
