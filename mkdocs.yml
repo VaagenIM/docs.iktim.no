@@ -35,6 +35,7 @@ theme:
         name: Light mode
 
     features:
+        - content.action.edit       # Add edit page button
         - content.code.annotate     # Add annotations to codeblocks (```code (1)``` 1. annotation)
         - navigation.indexes        # Attach index.md to parent
         - navigation.tabs           # Subdirectories of docs/ as tabs
