@@ -56,8 +56,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/sondregronas
       name: "@sondregronas"
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:mail@iktim.no
   alternate:
     - name: Norsk
       link: '%GT_RELATIVE_URL%'
