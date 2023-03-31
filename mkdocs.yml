@@ -141,6 +141,7 @@ markdown_extensions:
 
 plugins:
     - search                        # Search bar
+    - awesome-pages                 # Automatically generate nav
     - google-translate:             # Relative paths for google translate
         url: 'docs.iktim.no'
     - tags                          # Searchable tags
@@ -159,7 +160,6 @@ plugins:
         bib_dir: "references"
         csl_file: "references/harvard-cite-them-right.xml"
         cite_inline: True
-    - include_dir_to_nav            # Automatically generate nav: (show directories and pages in sidebar)
     - exclude:                      # Exclude pattern from site
         glob:
           - .obsidian/*
@@ -179,3 +179,10 @@ plugins:
         - 2022:
             old: https://github.com/VaagenIM/docs.iktim.no/edit/main/docs/2022
             new: https://github.com/VaagenIM/docs.iktim.no-2022/edit/main
+
+nav:
+    - Home: 
+        - index.md
+        - 1IM.md
+        - 2IT.md
+    - ...
