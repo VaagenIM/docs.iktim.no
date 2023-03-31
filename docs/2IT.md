@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-03-31 12:00:54
+updated: 2023-03-31 22:09:52
 ---
 
 # 2IT
@@ -75,7 +75,7 @@ Her vil det komme en oversikt over relevante læringsmål, samt lenker til relev
 	- [ ] Refactoring (https://refactoring.guru/refactoring)
 	- [ ] Design Patterns (https://refactoring.guru/design-patterns)
 - [ ] Cloud Computing
-	- [ ] Azure
+	- [X] [[IKT/Data/Cloud computing/Azure/index|Azure]] (Delvis klar)
 	- [ ] Docker
 - [ ] JavaScript
 - [ ] Firebase?
