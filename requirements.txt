@@ -1,6 +1,6 @@
 mkdocs
 mkdocs-material
-mkdocs-roamlinks-plugin
+mkdocs-roamlinks-plugin==0.2.0
 mkdocs-include-dir-to-nav
 mkdocs-exclude
 mkdocs-bibtex
