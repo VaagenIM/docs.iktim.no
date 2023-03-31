@@ -75,7 +75,7 @@ Her vil det komme en oversikt over relevante læringsmål, samt lenker til relev
 	- [ ] Refactoring (https://refactoring.guru/refactoring)
 	- [ ] Design Patterns (https://refactoring.guru/design-patterns)
 - [ ] Cloud Computing
-	- [X] [[IKT/Data/Cloud computing/Azure/index|Azure]] (Delvis klar)
+	- [X] Azure (Delvis klar)
 	- [ ] Docker
 - [ ] JavaScript
 - [ ] Firebase?
