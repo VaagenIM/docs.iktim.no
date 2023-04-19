@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-03-31 22:09:52
+updated: 2023-04-19 10:43:17
 ---
 
 # 2IT
@@ -54,29 +54,69 @@ Her er årets kompetansemål (Sist oppdatert 2023). Kilde: [Læreplan i vg2 info
 > - beskrive ulike datalagringsmodeller og metoder for å hente ut og sette inn bestemte data fra databaser som brukes av andre systemer
 
 ## Læringsmål
-Her vil det komme en oversikt over relevante læringsmål, samt lenker til relevante artikler / oppgavetekster. Foreløpig er det en kort oversikt over emnene vi kommer til å gå gjennom, med en status på om fagstoffet er lagt ut på siden.
+Her vil det komme en oversikt over relevante læringsmål, samt lenker til relevante artikler / oppgavetekster.
+
+Nedenfor er en uferdig liste, basert på korte skisser og ønsker, har du flere ønsker så la oss gjerne høre dem!
 
 ### Brukerstøtte
 - [ ] Brukerhjelp
-- [ ] Ticketing system (Jira)
+- [ ] Ticketing system
+- [ ] Feilssøkingsstrategier
+- [ ] Brukermanualer
 
 ### Driftstøtte
 - [ ] Unifi Network
 - [ ] Brannmur
 - [ ] VLAN
-- [ ] Virtualisering
+- [ ] Deployment
+	- [ ] Docker / Podman
+	- [ ] Ansible
+- [ ] Server
+	- [ ] Proxmox
+	- [ ] Virtualisering
+	- [ ] Cloud computing
+		- [ ] SSH, lokal server
+		- [x] Azure (Delvis klar)
+	- [ ] Hardware
+	- [ ] NAS
+	- [ ] SAN
+- [ ] Nettverksdesign
+	- [ ] PtP i praksis
+	- [ ] Oppsett av nettverk i praksis
 
 ### Utvikling
 - [ ] Development Pipelines
 	- [ ] CI (Continous Integration)
 	- [ ] CD (Continous Development)
-- [ ] Programmering
+- [ ] Programmering 2.0
+	- [ ] JavaScript (Web & NodeJS)
+	- [ ] Avansert Python
 	- [ ] Unit Testing
+	- [ ] C# / C++
 	- [ ] Refactoring (https://refactoring.guru/refactoring)
 	- [ ] Design Patterns (https://refactoring.guru/design-patterns)
-- [ ] Cloud Computing
-	- [X] Azure (Delvis klar)
-	- [ ] Docker
-- [ ] JavaScript
-- [ ] Firebase?
-- [ ] SQL
+- [ ] Spillutvikling
+	- [ ] 3D spillutvikling
+	- [ ] Unity
+	- [ ] Godot
+	- [ ] Unreal Engine
+	- [ ] Spilldesign
+	- [ ] Spillanalyse
+- [ ] Databaser
+	- [ ] Firebase?
+	- [ ] Data-analyse
+	- [ ] Visualisering (numpy / pandas)
+- [ ] Frontend
+	- [ ] Wordpress
+	- [ ] JavaScript (Web)
+	- [ ] Responsiv Design
+- [ ] Backend
+	- [ ] API
+	- [ ] Autentisering
+		- [ ] OAuth
+		- [ ] Kryptering
+	- [ ] Betalingsløsninger
+	- [ ] SQL
+- [ ] 3D Utvikling / Animasjon
+- [ ] AI
+- [ ] Mer Hacking
