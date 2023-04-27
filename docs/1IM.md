@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-03-31 12:00:54
+updated: 2023-04-27 09:23:15
 ---
 # 1IM
 En kort oversikt over 1IM faget, på nettsiden finner du relevant informasjon for alle fag, men du trenger kun forholde deg til de temaene som gjelder din linje.
@@ -53,5 +53,119 @@ Her er årets kompetansemål (Sist oppdatert 2023). Kilde: [Læreplan i vg1 info
 > - bruke dokumentasjon og dokumentere faglige prosesser
 
 ## Læringsmål
-Kommer snart.
+Her er en oversikt over relevante læringsmål vi går igjennom på 1IM. Merk at listen kan være uferdig, og lenkene til de ulike emnene er enda i arbeid.
 
+Dersom du har innspill så kan du gjerne ta kontakt!
+
+### Produksjon og Historiefortelling
+- [ ] Komposisjon
+	- [ ] CRAP
+	- [ ] Komposisjonsprinsippene
+	- [ ] Typografi
+	- [ ] Fargelære
+- [ ] Idéutvikling og forarbeid
+	- [ ] Tidsplanlegging
+	- [ ] Stikkord/tankekart
+	- [ ] Moodboard
+	- [ ] Prosessmodellen
+	- [ ] Skisser
+	- [ ] Målgruppe
+	- [ ] Prosessmodellen
+- [ ] Dramaturgi
+	- [ ] Hollywoodmodellen
+	- [ ] AIDAS
+	- [ ] APUS / Fisk
+	- [ ] Omvendt pyramide
+- [ ] Regelverk
+	- [ ] Vær varsom plakaten
+	- [ ] Markedsføringsloven
+	- [ ] Åndsverkloven
+	- [ ] Sunn fornuft plakaten
+	- [ ] GPDR
+- [ ] Medieverden
+	- [ ] Mediemakt
+	- [ ] Medievaner
+	- [ ] Mediepåvirkning
+
+### Teknologi
+- [ ] Utstyr
+	- [ ] Foto
+	- [ ] Video
+	- [ ] Lyd
+	- [ ] Lys
+- [ ] Programvare
+	- [ ] Adobepakken
+- [ ] Nettverk
+	- [ ] Trådløs kommunikasjon
+	- [ ] [[Point to Point]]
+	- [x] [[03 Subnetting|Subnet]]
+	- [ ] Kabeltyper
+	- [x] [[ISP]]
+	- [x] [[02 IPv4 adresser|IP-adresser]]
+	- [x] [[DNS]]
+- [ ] [[01 Hva er en datamaskin|Datamaskinen]]
+	- [ ] Komponenter
+		- [ ] [[Grafikkort]]
+		- [x] [[Harddisk]]
+		- [x] [[Hovedkort]]
+		- [x] [[Minnebrikke|RAM]]
+		- [x] [[Sentral Prosesseringsenhet|CPU]]
+		- [x] [[Solid State Drive]]
+		- [x] [[Strømforsyning]]
+		- [ ] Kabinett / Formfaktor
+- [ ] Formater
+	- [ ] Oppløsning
+	- [ ] Filformater
+		- [ ] JPG
+		- [ ] PNG
+		- [ ] Råformat
+		- [ ] Prosjektformat
+		- [ ] H264
+	- [ ] Fargesystemer
+		- [ ] RGB
+		- [ ] CMYK
+		- [ ] P3
+	- [ ] Mappestruktur
+
+### Konseptutvikling og programmering
+- [ ] Python
+	- [ ] [[01 Print og Input funksjonene|Inn- og utdata]]
+	- [ ] Funksjoner
+	- [ ] Dokumentasjon
+	- [ ] [[Variabel|Variabler]]
+	- [ ] Lagring av filer
+	- [ ] Debugging
+- [ ] Database
+	- [ ] Modellering av tabell i Excel
+	- [ ] [[03 Datasystem, SQL|SQL]]
+	- [x] [[02 Datasystem, filbasert|NoSQL]]
+	- [ ] Statistikk
+- [ ] Hacking
+	- [ ] Etisk hacking
+	- [ ] Brute-force angrep
+	- [ ] DDOS
+	- [ ] Phishing
+	- [ ] Sosial hacking
+- [ ] HTML
+	- [ ] Basisk syntaks
+	- [ ] HTML-Struktur
+	- [ ] [[CSS]] - inline og ekstern stylesheet
+	- [x] [[05 Mappestruktur og relative stier|Mappestruktur og relative filstier til web]]
+- [ ] Spillutvikling
+	- [ ] [[Godot]]
+	- [ ] Sprites
+	- [ ] Vector2
+	- [ ] Fysikkobjekter
+	- [ ] Konseptutvikling til spill
+- [ ] App
+	- [ ] Adobe XD
+	- [ ] Brukeropplevelse (UX)
+	- [ ] Grensesnitt (UI)
+	- [ ] Wireframes
+
+### YFF
+- [ ] Arbeidsliv
+	- [ ] Samarbeid
+	- [ ] Relasjonsbygging
+	- [ ] Punktlighet
+- [ ] Bærekraft
