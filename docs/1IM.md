@@ -129,10 +129,10 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 
 ### Konseptutvikling og programmering
 - [ ] Python
-	- [ ] [[01 Print og Input funksjonene|Inn- og utdata]]
+	- [x] [[01 Print og Input funksjonene|Inn- og utdata]]
 	- [ ] Funksjoner
 	- [ ] Dokumentasjon
-	- [ ] [[Variabel|Variabler]]
+	- [x] [[Variabel|Variabler]]
 	- [ ] Lagring av filer
 	- [ ] Debugging
 - [ ] Database
