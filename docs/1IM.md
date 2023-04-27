@@ -124,7 +124,6 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] Fargesystemer
 		- [ ] RGB
 		- [ ] CMYK
-		- [ ] P3
 	- [ ] Mappestruktur
 
 ### Konseptutvikling og programmering
