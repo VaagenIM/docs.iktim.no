@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-04-27 09:23:15
+updated: 2023-05-03 10:33:14
 ---
 # 1IM
 En kort oversikt over 1IM faget, på nettsiden finner du relevant informasjon for alle fag, men du trenger kun forholde deg til de temaene som gjelder din linje.
@@ -59,42 +59,48 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 
 ### Produksjon og Historiefortelling
 - [ ] Komposisjon
-	- [ ] CRAP
-	- [ ] Komposisjonsprinsippene
-	- [ ] Typografi
-	- [ ] Fargelære
+	- [ ] [[CRAP]]
+	- [ ] [[Komposisjonsprinsippene]]
+	- [ ] [[Typografi]]
+	- [ ] [[Fargelære]]
 - [ ] Idéutvikling og forarbeid
-	- [ ] Tidsplanlegging
-	- [ ] Stikkord/tankekart
-	- [ ] Moodboard
-	- [ ] Prosessmodellen
-	- [ ] Skisser
-	- [ ] Målgruppe
-	- [ ] Prosessmodellen
-- [ ] Dramaturgi
-	- [ ] Hollywoodmodellen
-	- [ ] AIDAS
-	- [ ] APUS / Fisk
-	- [ ] Omvendt pyramide
+	- [ ] [[Tidsplanlegging]]
+	- [ ] [[Stikkord]]/[[Tankekart]]
+	- [ ] [[Moodboard]]
+	- [ ] [[Prosessmodellen]]
+	- [ ] [[Skisser]]
+	- [ ] [[Målgruppe]]
+	- [ ] [[Prosessmodellen]]
+- [ ] [[Dramaturgi]]
+	- [ ] [[Hollywoodmodellen]]
+	- [ ] [[AIDAS]]
+	- [ ] [[APUS]] / Fisk
+	- [ ] [[Omvendt pyramide]]
 - [ ] Regelverk
-	- [ ] Vær varsom plakaten
-	- [ ] Markedsføringsloven
-	- [ ] Åndsverkloven
-	- [ ] Sunn fornuft plakaten
-	- [ ] GPDR
+	- [ ] [[Vær varsom plakaten]]
+	- [ ] [[Markedsføringsloven]]
+	- [ ] [[Åndsverkloven]]
+	- [ ] [[Sunn fornuft plakaten]]
+	- [ ] [[Personvernforordningen]] (GDPR)
 - [ ] Medieverden
-	- [ ] Mediemakt
-	- [ ] Medievaner
-	- [ ] Mediepåvirkning
+	- [ ] [[Mediemakt]]
+	- [ ] [[Medievaner]]
+	- [ ] [[Mediepåvirkning]]
 
 ### Teknologi
 - [ ] Utstyr
-	- [ ] Foto
-	- [ ] Video
-	- [ ] Lyd
-	- [ ] Lys
+	- [ ] [[Utstyrshåndtering]]
+	- [ ] [[Fotoutstyr]]
+	- [ ] [[Videoutstyr]]
+	- [ ] [[Lydutstyr]]
+	- [ ] [[Lysutstyr]]
 - [ ] Programvare
-	- [ ] Adobepakken
+	- [ ] [[Adobe Photoshop]]
+	- [ ] [[Adobe Premiere]]
+	- [ ] [[Adobe After Effects]]
+	- [ ] [[Adobe Illustrator]]
+	- [ ] [[Adobe InDesign]]
+	- [ ] [[Adobe XD]]
 - [ ] Nettverk
 	- [ ] Trådløs kommunikasjon
 	- [ ] [[Point to Point]]
@@ -114,17 +120,19 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 		- [x] [[Strømforsyning]]
 		- [ ] Kabinett / Formfaktor
 - [ ] Formater
-	- [ ] Oppløsning
+	- [ ] [[Oppløsning]]
 	- [ ] Filformater
-		- [ ] JPG
-		- [ ] PNG
-		- [ ] Råformat
-		- [ ] Prosjektformat
-		- [ ] H264
+		- [ ] [[PDF format]]
+		- [ ] [[JPG format]]
+		- [ ] [[PNG format]]
+		- [ ] [[GIF format]]
+		- [ ] [[Arbeidsfiler]]
+		- [ ] [[H264 kodek]]
+		- [ ] [[Raw format]]
 	- [ ] Fargesystemer
-		- [ ] RGB
-		- [ ] CMYK
-	- [ ] Mappestruktur
+		- [ ] [[RGB Fargesystem]]
+		- [ ] [[CMYK Fargesystem]]
+	- [ ] [[Mappestruktur]]
 
 ### Konseptutvikling og programmering
 - [ ] Python
@@ -157,14 +165,14 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] Fysikkobjekter
 	- [ ] Konseptutvikling til spill
 - [ ] App
-	- [ ] Adobe XD
+	- [ ] [[Adobe XD]]
 	- [ ] Brukeropplevelse (UX)
 	- [ ] Grensesnitt (UI)
 	- [ ] Wireframes
 
 ### YFF
-- [ ] Arbeidsliv
-	- [ ] Samarbeid
-	- [ ] Relasjonsbygging
-	- [ ] Punktlighet
-- [ ] Bærekraft
+- [ ] [[Arbeidsliv]]
+	- [ ] [[Samarbeid]]
+	- [ ] [[Relasjonsbygging]]
+	- [ ] [[Punktlighet]]
+- [ ] [[Bærekraft]]
