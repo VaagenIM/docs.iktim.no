@@ -77,10 +77,10 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] [[APUS]] / Fisk
 	- [ ] [[Omvendt pyramide]]
 - [ ] Regelverk
-	- [ ] [[Vær varsom plakaten]]
-	- [ ] [[Markedsføringsloven]]
-	- [ ] [[Åndsverkloven]]
-	- [ ] [[Sunn fornuft plakaten]]
+	- [x] [[Vær varsom plakaten]]
+	- [x] [[Markedsføringsloven]]
+	- [x] [[Åndsverkloven]]
+	- [x] [[Sunn fornuft plakaten]]
 	- [ ] [[Personvernforordningen]] (GDPR)
 - [ ] Medieverden
 	- [ ] [[Mediemakt]]
