@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-05-03 10:33:14
+updated: 2023-05-04 11:03:02
 ---
 # 1IM
 En kort oversikt over 1IM faget, på nettsiden finner du relevant informasjon for alle fag, men du trenger kun forholde deg til de temaene som gjelder din linje.
@@ -103,7 +103,8 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] [[Adobe XD]]
 - [ ] Nettverk
 	- [ ] Trådløs kommunikasjon
-	- [ ] [[Point to Point]]
+	- [x] [[Point to Point]]
+	- [x] [[Point to Multipoint]]
 	- [x] [[03 Subnetting|Subnet]]
 	- [ ] Kabeltyper
 	- [x] [[ISP]]
