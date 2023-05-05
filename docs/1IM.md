@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-05-04 11:03:02
+updated: 2023-05-05 13:06:51
 ---
 # 1IM
 En kort oversikt over 1IM faget, på nettsiden finner du relevant informasjon for alle fag, men du trenger kun forholde deg til de temaene som gjelder din linje.
@@ -101,12 +101,12 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] [[Adobe Illustrator]]
 	- [ ] [[Adobe InDesign]]
 	- [ ] [[Adobe XD]]
-- [ ] Nettverk
-	- [ ] Trådløs kommunikasjon
+- [x] Nettverk
+	- [x] [[01 Nettverksmedier|Trådløs kommunikasjon]]
 	- [x] [[Point to Point]]
 	- [x] [[Point to Multipoint]]
 	- [x] [[03 Subnetting|Subnet]]
-	- [ ] Kabeltyper
+	- [x] [[01 Nettverksmedier|Kabeltyper]]
 	- [x] [[ISP]]
 	- [x] [[02 IPv4 adresser|IP-adresser]]
 	- [x] [[DNS]]
@@ -154,14 +154,14 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] DDOS
 	- [ ] Phishing
 	- [ ] Sosial hacking
-- [ ] HTML
-	- [ ] Basisk syntaks
-	- [ ] HTML-Struktur
-	- [ ] [[CSS]] - inline og ekstern stylesheet
+- [x] [[01 Hva er HTML|HTML]]
+	- [x] [[Grunnleggende HTML syntaks]]
+	- [x] [[03 Hvordan skrive HTML|HTML Struktur]]
+	- [x] [[06 Design og CSS|CSS]]
 	- [x] [[05 Mappestruktur og relative stier|Mappestruktur og relative filstier til web]]
 - [ ] Spillutvikling
 	- [ ] [[Godot]]
-	- [ ] Sprites
+	- [x] [[Sprites]]
 	- [ ] Vector2
 	- [ ] Fysikkobjekter
 	- [ ] Konseptutvikling til spill
