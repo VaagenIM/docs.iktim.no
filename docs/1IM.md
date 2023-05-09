@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-05-05 13:06:51
+updated: 2023-05-09 09:06:15
 ---
 # 1IM
 En kort oversikt over 1IM faget, på nettsiden finner du relevant informasjon for alle fag, men du trenger kun forholde deg til de temaene som gjelder din linje.
@@ -91,6 +91,9 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 - [ ] Utstyr
 	- [ ] [[Utstyrshåndtering]]
 	- [ ] [[Fotoutstyr]]
+		- [ ] Lukker
+		- [ ] ISO
+		- [ ] Blender
 	- [ ] [[Videoutstyr]]
 	- [ ] [[Lydutstyr]]
 	- [ ] [[Lysutstyr]]
@@ -110,16 +113,16 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [x] [[ISP]]
 	- [x] [[02 IPv4 adresser|IP-adresser]]
 	- [x] [[DNS]]
-- [ ] [[01 Hva er en datamaskin|Datamaskinen]]
-	- [ ] Komponenter
-		- [ ] [[Grafikkort]]
+- [x] [[01 Hva er en datamaskin|Datamaskinen]]
+	- [x] Komponenter
+		- [x] [[Grafikkort]]
 		- [x] [[Harddisk]]
 		- [x] [[Hovedkort]]
 		- [x] [[Minnebrikke|RAM]]
 		- [x] [[Sentral Prosesseringsenhet|CPU]]
 		- [x] [[Solid State Drive]]
 		- [x] [[Strømforsyning]]
-		- [ ] Kabinett / Formfaktor
+		- [x] [[Datakabinett|Kabinett]] / Formfaktor
 - [ ] Formater
 	- [ ] [[Oppløsning]]
 	- [ ] Filformater
@@ -133,9 +136,10 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] Fargesystemer
 		- [ ] [[RGB Fargesystem]]
 		- [ ] [[CMYK Fargesystem]]
-	- [ ] [[Mappestruktur]]
+	- [x] [[Mappestruktur]]
 
 ### Konseptutvikling og programmering
+- [ ] [[GitHub]]
 - [ ] Python
 	- [x] [[01 Print og Input funksjonene|Inn- og utdata]]
 	- [ ] Funksjoner
