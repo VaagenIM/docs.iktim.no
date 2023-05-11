@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-05-09 09:06:15
+updated: 2023-05-11 09:58:45
 ---
 # 1IM
 En kort oversikt over 1IM faget, på nettsiden finner du relevant informasjon for alle fag, men du trenger kun forholde deg til de temaene som gjelder din linje.
@@ -58,11 +58,11 @@ Her er en oversikt over relevante læringsmål vi går igjennom på 1IM. Merk at
 Dersom du har innspill så kan du gjerne ta kontakt!
 
 ### Produksjon og Historiefortelling
-- [ ] Komposisjon
-	- [ ] [[CRAP]]
-	- [ ] [[Komposisjonsprinsippene]]
-	- [ ] [[Typografi]]
-	- [ ] [[Fargelære]]
+- [x] Komposisjon
+	- [x] [[CRAP]]
+	- [x] [[Komposisjonsprinsippene]]
+	- [x] [[Typografi]]
+	- [x] [[Fargelære]]
 - [ ] Idéutvikling og forarbeid
 	- [ ] [[Tidsplanlegging]]
 	- [ ] [[Stikkord]]/[[Tankekart]]
@@ -90,10 +90,10 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 ### Teknologi
 - [ ] Utstyr
 	- [ ] [[Utstyrshåndtering]]
-	- [ ] [[Fotoutstyr]]
-		- [ ] Lukker
-		- [ ] ISO
-		- [ ] Blender
+	- [x] [[Fotoutstyr]]
+		- [x] Lukker
+		- [x] ISO
+		- [x] Blender
 	- [ ] [[Videoutstyr]]
 	- [ ] [[Lydutstyr]]
 	- [ ] [[Lysutstyr]]
@@ -124,18 +124,18 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 		- [x] [[Strømforsyning]]
 		- [x] [[Datakabinett|Kabinett]] / Formfaktor
 - [ ] Formater
-	- [ ] [[Oppløsning]]
-	- [ ] Filformater
-		- [ ] [[PDF format]]
-		- [ ] [[JPG format]]
-		- [ ] [[PNG format]]
-		- [ ] [[GIF format]]
-		- [ ] [[Arbeidsfiler]]
-		- [ ] [[H264 kodek]]
-		- [ ] [[Raw format]]
+	- [x] [[Oppløsning]]
+	- [x] Filformater
+		- [x] [[PDF format]]
+		- [x] [[JPG format]]
+		- [x] [[PNG format]]
+		- [x] [[GIF format]]
+		- [x] [[Arbeidsfiler]]
+		- [x] [[H264 kodek]]
+		- [x] [[Raw format]]
 	- [ ] Fargesystemer
-		- [ ] [[RGB Fargesystem]]
-		- [ ] [[CMYK Fargesystem]]
+		- [x] [[RGB Fargesystem]]
+		- [x] [[CMYK Fargesystem]]
 	- [x] [[Mappestruktur]]
 
 ### Konseptutvikling og programmering
@@ -171,9 +171,9 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] Konseptutvikling til spill
 - [ ] App
 	- [ ] [[Adobe XD]]
-	- [ ] Brukeropplevelse (UX)
-	- [ ] Grensesnitt (UI)
-	- [ ] Wireframes
+	- [x] [[User Experience|Brukeropplevelse]] (UX)
+	- [x] [[User Interface]] / Grensesnitt (UI)
+	- [x] [[Wireframes]]
 
 ### YFF
 - [ ] [[Arbeidsliv]]
