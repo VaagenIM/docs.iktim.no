@@ -87,7 +87,7 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] [[Medievaner]]
 	- [ ] [[Mediepåvirkning]]
 
-### Teknologi
+### Teknologiforståelse
 - [ ] Utstyr
 	- [ ] [[Utstyrshåndtering]]
 	- [x] [[Fotoutstyr]]
