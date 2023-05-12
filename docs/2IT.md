@@ -87,6 +87,7 @@ Nedenfor er en uferdig liste, basert på korte skisser og ønsker, har du flere 
 	- [ ] Oppsett av nettverk i praksis
 
 ### Utvikling
+- [ ] Web scraping (Eksempel: https://github.com/sondregronas/Scraper-Sandbox/blob/main/src/lucaregnskap.py (Leser 8000 nettsider og lagrer relevant info))
 - [ ] Development Pipelines
 	- [ ] CI (Continous Integration)
 	- [ ] CD (Continous Development)
