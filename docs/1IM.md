@@ -104,7 +104,8 @@ Dersom du har innspill så kan du gjerne ta kontakt!
 	- [ ] [[Adobe Illustrator]]
 	- [ ] [[Adobe InDesign]]
 	- [ ] [[Adobe XD]]
-- [x] Nettverk
+- [ ] Nettverk
+	- [ ] Ruter
 	- [x] [[01 Nettverksmedier|Trådløs kommunikasjon]]
 	- [x] [[Point to Point]]
 	- [x] [[Point to Multipoint]]
