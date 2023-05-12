@@ -12,7 +12,7 @@ Her jobbes det med å skape noe oversikt!
 
 Dette er en digital fagbok administrert av Sondre Grønås. Ønsker du å bidra, vennligst ta kontakt, eller foreslå endringer på GitHub.
 
-> [!WARNING]+ Disclaimer
+> [!NOTE]+ Disclaimer
 > Siden er laget for å være et oppslagverk og en støtte for vår undervisning på Vågen, ikke som en ekte fagbok. Enkelte emner vil være forenklet og kan inneholde muntlig språk. Vi kan derfor ikke garantere faglig nøyaktighet til hvert emne, men vi prøver å referere til kilder og eksterne ressurser der vi kan.
 > 
 > Dersom du finner noe misinformasjon på siden, så [ønsker vi gjerne å vite om det](https://github.com/VaagenIM/docs.iktim.no/issues).
