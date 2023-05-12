@@ -88,6 +88,31 @@ Nedenfor er en uferdig liste, basert på korte skisser og ønsker, har du flere 
 
 ### Utvikling
 - [ ] Web scraping (Eksempel: https://github.com/sondregronas/Scraper-Sandbox/blob/main/src/lucaregnskap.py (Leser 8000 nettsider og lagrer relevant info))
+- [ ] Smarthjem
+	- [ ] Home Assistant
+		- [ ] YAML
+	- [ ] Z-Wave
+	- [ ] ZigBee
+	- [ ] WiFi
+	- [ ] BTLE (Bluetooth)
+	- [ ] LoRaWAN
+- [ ] Mikrokontrollere
+	- [ ] ESP8266 / ESP32
+		- [ ] ESPHome
+	- [ ] Arduino
+	- [ ] Motstand (Resistor)
+	- [ ] Breadboard
+	- [ ] LED skjerm
+	- [ ] Aktuatorer
+		- [ ] LED
+		- [ ] Buzzer
+		- [ ] Servo
+	- [ ] Sensorer
+		- [ ] PIR (Bevegelse)
+		- [ ] mmWave (Presence)
+		- [ ] Buttons
+		- [ ] Temperaturmåler
+		- [ ] Lysmåler
 - [ ] Development Pipelines
 	- [ ] CI (Continous Integration)
 	- [ ] CD (Continous Development)
