@@ -72,6 +72,8 @@ Nedenfor er en uferdig liste, basert på korte skisser og ønsker, har du flere 
 	- [ ] Docker / Podman
 	- [ ] Ansible
 - [ ] Server
+	- [ ] Serverless
+	- [ ] On-prem
 	- [ ] Proxmox
 	- [ ] Virtualisering
 	- [ ] Cloud computing
