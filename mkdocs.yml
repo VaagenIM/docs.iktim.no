@@ -156,7 +156,7 @@ plugins:
         author_map:                 # Name in frontmatter | path RELATIVE TO: resources/assets/authors or URL | website
 #          - Sondre Grønås | sondregronas.png | https://github.com/sondregronas
           - Sondre Grønås | https://www.gravatar.com/avatar/4e0476393c848aef61ed66d404da0d14?s=250 | https://github.com/sondregronas
-          - Audun Bredal Halvorsen | https://avatars.githubusercontent.com/u/93128935 | #
+          - Audun Bredal Halvorsen | https://avatars.githubusercontent.com/u/93128935 | https://github.com/AuHalvorsen
 #          - Janne Wetteland | 
 #          - Nora Fjeldheim Lerstøl |
     - bibtex:                       # Citations & reference management (Zotero)
