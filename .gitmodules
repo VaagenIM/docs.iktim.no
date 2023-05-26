@@ -10,3 +10,6 @@
 	path = docs/2022
 	url = https://github.com/VaagenIM/docs.iktim.no-2022
 	branch = main
+[submodule "docs/Moduler"]
+	path = docs/Moduler
+	url = https://github.com/VaagenIM/docs.iktim.no-moduler
