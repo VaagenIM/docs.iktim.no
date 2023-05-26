@@ -182,6 +182,9 @@ plugins:
         - 2022:
             old: https://github.com/VaagenIM/docs.iktim.no/edit/main/docs/2022
             new: https://github.com/VaagenIM/docs.iktim.no-2022/edit/main
+        - Moduler:
+            old: https://github.com/VaagenIM/docs.iktim.no/edit/main/docs/Moduler
+            new: https://github.com/VaagenIM/docs.iktim.no-moduler/edit/main
 
 nav:
     - Home: 
