@@ -78,7 +78,7 @@ Nedenfor er en uferdig liste, basert på korte skisser og ønsker, har du flere 
 	- [ ] Virtualisering
 	- [ ] Cloud computing
 		- [ ] SSH, lokal server
-		- [x] Azure (Delvis klar)
+		- [x] [[IKT/Data/Cloud computing/Azure/index|Azure]] (Delvis klar)
 	- [ ] Hardware
 	- [ ] NAS
 	- [ ] SAN
