@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2023-03-31 12:00:54
-updated: 2023-04-19 10:43:17
+updated: 2023-06-05 17:54:44
 ---
 
 # 2IT

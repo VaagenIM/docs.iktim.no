@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2022-04-09 02:00:00
-updated: 2023-05-10 09:18:42
+updated: 2023-07-16 22:35:24
 ---
 # Fagboka til Vågenelevene i 1IM / 2IT
 Her jobbes det med å skape noe oversikt!
