@@ -14,9 +14,11 @@ updated: 2023-07-16 22:34:16
 Velkommen som ny elev til Vågen VGS! Her er en kort oversikt over tips til deg som ny elev. Dersom du likevel har spørsmål, eller ønsker at vil tilføyer noe på denne siden, så kan du gjerne ta kontakt med oss via https://www.vaagen.vgs.no/hovedmeny/skolen-var/kontakt-oss/!
 
 ## Utstyr
-Alle elever i Rogaland Fylkeskommune skal ha en egen bærbar datamaskin til bruk på skolen. Denne må du selv sørge for å skaffe deg til skolestart. Dersom du ønsker, har fylkeskommunen en rammeavtale med både Komplett og Eplehuset for innkjøp av Windows og Mac maskiner til en rabbatert pris. Oversikt over modeller og prisliste kan du finne her: https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/pc-ordningen/bestille/
+Alle elever i Rogaland Fylkeskommune skal ha en egen bærbar datamaskin til bruk på skolen. Denne må du selv sørge for å skaffe deg til skolestart. Dersom du ønsker har fylkeskommunen en rammeavtale med både Komplett og Eplehuset for innkjøp av Windows og Mac maskiner til en gunstig pris.
 
-Når det gjelder pris er som regel Windows varianten vanskelig å slå i ytelse per krone, og er generellt sett et godt tilbud. Likevel vil enkelte programvarer være bedre optimalisert for Mac, og kvaliteten på skjermen er generelt bedre i denne prisklassen.
+Oversikt over modeller og prisliste kan du finne her: https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/pc-ordningen/bestille/
+
+Når det gjelder pris er Windows varianten vanskelig å slå i ytelse per krone, og er et bra tilbud. Likevel vil enkelte programvarer være bedre optimalisert for Mac, og kvaliteten på skjermen til en Macbook er generelt sett bedre i denne prisklassen.
 
 > [!CODE]+ Anbefaling til IT
 > IT-fagene har ingen spesifikke krav til operativsystem eller maskintype, her bør personlige preferanser prioriteres. Enkelte arbeidsoppgaver _kan_ være enklere å utføre på en Mac, **men Windows maskiner vil ofte være mer fleksible.**
@@ -26,30 +28,29 @@ Når det gjelder pris er som regel Windows varianten vanskelig å slå i ytelse 
 > [!VIDEO]+ Anbefaling til mediefag
 > I mediefagene på Vågen bruker vi kreative applikasjoner fra Adobe Creative Cloud som kan være krevende å kjøre optimalt for en Windows laptop uten dedikert grafikk. På en Macbook derimot er programvaren bedre optimalisert Apples fastvare, og en får i tillegg en bedre skjerm med på kjøpet.
 > 
-> I utgangspunktet er ikke Windows alternativet godt nok egnet for de aller tyngste oppgavene, men man vil klare seg gjennom skolehverdagen med både PC og Mac modell som tilbys. For prosjekter med ekstra behov har skolen også egne redigeringsmaskiner som kjører Windows.
+> I utgangspunktet er ikke Windows alternativet godt nok egnet for de aller tyngste oppgavene, men man vil klare seg gjennom skolehverdagen uavhengig av hva du velger å gå for. Skolen har også egne redigeringsmaskiner til prosjekter som trenger høyere ytelse.
 > 
-> **Basert på alternativene som tilbys gjennom pc-ordningen, vil Macbooken være best egnet til bruk i mediefag.**
+> **Basert på alternativene som tilbys gjennom pc-ordningen, er Macbooken best egnet til bruk i mediefagene.**
 
-## Andre maskintyper
+### Andre maskintyper
 Dersom du ønsker å se på andre modeller, er dette tekniske spesifikasjoner vi anbefaler:
 - **Windows:** Min. 16 GB Ram, Min. 256 GB lagring, Min. 4 core / 8 threads (12th gen Intel / AMD 6000 series eller nyere)
 - **Mac:** Min. 8 GB Ram, Min. 256 GB lagring, ARM-prosessor (M1 eller nyere)
 
-Merk at enkelte butikker vil mest sannsynlig kunne tilby studentrabatt utenom PC-ordningen.
+Merk at enkelte butikker vil mest sannsynlig kunne tilby deg studentrabatt utenom PC-ordningen.
 
 > [!NOTE]+ OBS.
-> I utgangspunktet er 256 GB med lagring i det minste laget, det kan bli litt trangt om plassen. Dersom en har mulighet til å oppgradere lagringen til minimum 512 GB, så bør en gjøre det.
+> I utgangspunktet er 256 GB lagring i det aller minste laget; det kan bli trangt om plassen. Dersom en har mulighet til å oppgradere lagringen til minimum 512 GB, så bør en benytte anledningen.
 
-## Ekstrautstyr
+### Ekstrautstyr
 På VGS har du rett på et utstyrsstipend, det kan du søke om her: https://lanekassen.no/nb-NO/stipend-og-lan/norge/videregaende-skole/videregaende-skole/
-
-Skolen har en egen utstyrspark med utlån av medieutstyr.
 
 Ved skolens oppstart vil du bli informert over utstyr som er anbefalt, eller som du kommer til å trenge i løpet av året. Her er en generell anbefaling:
 - [x] USB-C hub med SD-kort leser, eventuelt HDMI, for eksempel [denne.](https://www.komplett.no/product/1190733/pc-nettbrett/tilbehoer-til-laptop/dockingstasjon-usb-hub/iiglo-6-i-1-ultraslim-multiport-docking-lysegraa#)
 - [x] Min. 1TB ekstern disk (SSD er å foretrekke, selv om prisen er høyere), for eksempel [denne.](https://www.komplett.no/product/1162412/datautstyr/lagring/harddiskerssd/ssd-ekstern/samsung-t7-ekstern-ssd-1tb-graa)
 
-Det finnes mange alternativer å velge mellom, eksemplene som er gitt er ikke nødvendigvis beste eller billigste alternativene.
+> [!TIP]+ Tips
+> Det finnes mange alternativer å velge mellom, eksemplene som er gitt er ikke nødvendigvis beste eller billigste alternativene.
 
 ## Programvare - Vågen VGS
 - [Kun Mac: RFK App Store](https://www.rogfk.no/vare-tjenester/skole-og-utdanning/opplaring-i-skole/elev-pc-og-ikt/last-ned-programmer/rfk-app-store-managed-software-center/)
