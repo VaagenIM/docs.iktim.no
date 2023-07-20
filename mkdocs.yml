@@ -42,6 +42,7 @@ theme:
         - navigation.tracking       # Automatically add #anchor to URL while scrolling
         - navigation.top            # Back to top button
         - navigation.prune          # Performance / size optimization
+        - navigation.footer         # Next / previous page footer
         - search.suggest            # Autocomplete results during search
         - search.highlight          # Highlight occurences inside clicked search result
         - search.share              # Share search URL button in text input
