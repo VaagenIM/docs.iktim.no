@@ -21,17 +21,17 @@ theme:
     palette:  # Light/Dark Mode
     - media: "(prefers-color-scheme: light)"  # Light mode
       scheme: default
-      primary: light blue
-      accent: cyan
+      primary: indigo
+      accent: blue
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"  # Dark mode
       scheme: slate
-      primary: light blue
-      accent: cyan
+      primary: indigo
+      accent: blue
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off-outline
         name: Light mode
 
     features:
